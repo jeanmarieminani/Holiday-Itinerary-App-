@@ -1,0 +1,98 @@
+[
+    {
+        "Holiday_name": "Jour de l'an",
+        "EnglishName": "New Year's Day",
+        "Date": "2024-01-01",
+        "Type": "Public Holiday",
+        "Description": "The first day of the new year.",
+        "WhatToDo": "People often celebrate the night before and enjoy a day off to relax."
+    },
+    {
+        "Holiday_name": "Lundi de Pâques",
+        "EnglishName": "Easter Monday",
+        "Date": "2024-04-01",
+        "Type": "Public Holiday",
+        "Description": "The day after Easter Sunday, celebrating the resurrection of Jesus.",
+        "WhatToDo": "People often spend time with family and friends, sometimes participating in egg hunts."
+    },
+    {
+        "Holiday_name": "Fête du Travail",
+        "EnglishName": "Labor Day",
+        "Date": "2024-05-01",
+        "Type": "Public Holiday",
+        "Description": "A day to celebrate labor and workers' rights.",
+        "WhatToDo": "Parades and demonstrations are common, and people often enjoy a day off."
+    },
+    {
+        "Holiday_name": "Victoire 1945",
+        "EnglishName": "Victory in Europe Day",
+        "Date": "2024-05-08",
+        "Type": "Public Holiday",
+        "Description": "Commemorates the end of World War II in Europe.",
+        "WhatToDo": "Military parades, ceremonies, and commemorations are held to honor those who fought in World War II. People may visit war memorials and attend local events."
+    },
+    {
+        "Holiday_name": "Ascension",
+        "EnglishName": "Ascension Day",
+        "Date": "2024-05-09",
+        "Type": "Public Holiday",
+        "Description": "Celebrates the ascension of Jesus into heaven.",
+        "WhatToDo": "Religious services are held, and people often spend time with family."
+    },
+    {
+        "Holiday_name": "Fête nationale",
+        "EnglishName": "Bastille Day",
+        "Date": "2024-07-14",
+        "Type": "Public Holiday",
+        "Description": "Celebrates the French National Day, marking the anniversary of the storming of the Bastille during the French Revolution.",
+        "WhatToDo": "Nationwide celebrations include parades, fireworks, parties, and cultural events. The largest and most notable event is the military parade on the Champs-Élysées in Paris."
+    },
+    {
+        "Holiday_name": "Lundi de Pentecôte",
+        "EnglishName": "Whit Monday",
+        "Date": "2024-06-09",
+        "Type": "Public Holiday",
+        "Description": "The day after Pentecost, celebrating the Holy Spirit's descent upon the disciples.",
+        "WhatToDo": "People may attend church services and spend time with family."
+    },
+    {
+        "Holiday_name": "Fête de la Victoire",
+        "EnglishName": "Victory in Europe Day",
+        "Date": "2024-05-08",
+        "Type": "Public Holiday",
+        "Description": "Commemorates the end of World War II in Europe.",
+        "WhatToDo": "Military parades, ceremonies, and commemorations are held to honor those who fought in World War II. People may visit war memorials and attend local events."
+    },
+    {
+        "Holiday_name": "Armistice",
+        "EnglishName": "Armistice Day",
+        "Date": "2024-11-11",
+        "Type": "Public Holiday",
+        "Description": "Commemorates the end of World War I and honors the fallen soldiers.",
+        "WhatToDo": "Military parades and ceremonies are held, particularly at war memorials and the Tomb of the Unknown Soldier in Paris. People often lay wreaths and observe moments of silence."
+    },
+    {
+        "Holiday_name": "Assomption",
+        "EnglishName": "Assumption of Mary",
+        "Date": "2024-08-15",
+        "Type": "Public Holiday",
+        "Description": "Celebrates the assumption of the Virgin Mary into heaven.",
+        "WhatToDo": "Religious services are held, and people often spend time with family."
+    },
+    {
+        "Holiday_name": "Toussaint",
+        "EnglishName": "All Saints' Day",
+        "Date": "2024-11-01",
+        "Type": "Public Holiday",
+        "Description": "A day to honor all the saints and deceased relatives.",
+        "WhatToDo": "People visit cemeteries to lay flowers on graves."
+    },
+    {
+        "Holiday_name": "Noël",
+        "EnglishName": "Christmas Day",
+        "Date": "2024-12-25",
+        "Type": "Public Holiday",
+        "Description": "Celebrates the birth of Jesus Christ.",
+        "WhatToDo": "People exchange gifts, enjoy festive meals, and spend time with family."
+    }
+]

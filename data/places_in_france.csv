@@ -1,0 +1,2524 @@
+﻿id,name,type,longitude,latitude
+62,Maison forte de Capchicot,architecture,-0.0422486,44.1838379
+63,Ancienne Bergerie ronde,architecture,-0.1126048,44.316288
+64,Église de Montarouch,architecture,-0.2615401,44.7555809
+66,Villa gallo-romaine de la Coue d'Auzenat,architecture,-0.0282254,45.3311119
+67,Aqueduc (restes d'un),architecture,-0.0283283,45.3313828
+68,Chateau de Merpins,architecture,-0.3960415,45.6763268
+72,Tour,architecture,-0.5051839,45.7396469
+73,Logis de Cherconnay,architecture,-0.0236974,45.9873314
+74,Phare des Dames,architecture,-2.2209752,47.011219
+77,Les Tours d'Elven,architecture,-2.6183677,47.725174
+78,Chateau de Campbon,architecture,-1.9687657,47.4136314
+79,"La tour Bretagne, un ""gratte-ciel"" en point de mire",architecture,-1.5566827,47.2167282
+80,Chateau de Thouaré-sur-Loire,architecture,-1.4436638,47.2614403
+81,La Garenne Valentin,architecture,-1.2759429,47.0885849
+82,Manoir de Saint-Jouin,architecture,-0.7575664,46.9279556
+83,Villa d'Omblepied,architecture,-1.2410077,47.3639793
+84,Forges de Moisdon-la-Rivière,architecture,-1.3479537,47.603302
+85,Manoir de la Cour Condé,architecture,-0.1862982,47.3214226
+87,Chateau des Barons du Pont,architecture,-4.2224202,47.8669281
+90,Maison Gérard,architecture,-4.6233091,48.4329262
+92,Manoir de Trébodennic,architecture,-4.3079081,48.5354614
+93,Saint-Pierre de Quimerch,architecture,-4.0703135,48.2965164
+94,Chateau de Tonquédec,architecture,-3.4116986,48.6764755
+95,Manoir du Cloître,architecture,-3.1515656,48.6892509
+98,Boulevard de la Liberté,architecture,-1.6800312,48.1075439
+99,Hôtel de Cintré,architecture,-1.6827821,48.111824
+100,Phare de la Haize,architecture,-1.9783518,48.6711464
+101,Le mouton blanc,architecture,-1.5098283,48.6356888
+102,Manoir de Gonneville,architecture,-1.5873183,49.0813065
+103,Chateau du Tiercent,architecture,-1.4028435,48.350853
+104,Chateau de Montfort,architecture,-1.2702471,49.1915779
+105,Manoir de Pommereux,architecture,-0.1193538,48.7508011
+106,Tour de Saint-Pierre,architecture,-0.3612194,49.185463
+107,Manoir d'Émiéville,architecture,-0.2190164,49.162899
+108,Manoir de Camprond,architecture,-1.4143114,49.2527618
+109,Manoir d'Urville,architecture,-1.440117,49.4526787
+110,Alauna,architecture,-1.4552097,49.5071373
+111,Launch site for V-1 flying bombs at Brécourt,architecture,-1.6697741,49.6516991
+112,Abbaye Notre-Dame-du-Voeu,architecture,-1.6412606,49.6472549
+115,Manoir de Méterville,architecture,-1.3893322,49.2537766
+116,Manoir de Cantepie,architecture,-1.1619976,49.3070564
+117,Ferme du Clos Montfort,architecture,-0.9975806,49.3051529
+118,Ferme de la Marguerie,architecture,-0.796128,49.3203888
+119,Manoir de Prébois,architecture,-0.3104549,49.2865067
+251,Cloister of Saint-Sever-de-Rustan abbey,architecture,0.0770312,43.2377701
+252,Chateau d'Aurignac,architecture,0.8799995,43.21978
+253,Thermes gallo-romains,architecture,0.9114037,43.2389755
+257,Chateau de Montaillou,architecture,1.8940494,42.7866325
+260,Chateau de Fréchou,architecture,0.319456,44.0859909
+261,Village de Montgaillard,architecture,0.2937009,44.2082138
+262,Mairie-école de Frégimont,architecture,0.4585237,44.2779007
+263,Chateau de Birac,architecture,0.2757563,44.4914398
+264,Chateau de Fontirou,architecture,0.7106396,44.3192749
+265,Halle,architecture,0.7429602,44.6372833
+266,Allée couverte du Blanc,architecture,0.7533383,44.7393608
+267,Manoir de Sautet,architecture,0.8145734,44.7985497
+268,Manoir de Pech Godou,architecture,1.0107644,44.7527733
+269,Les Cabanes du Breuil,architecture,1.1244905,44.9202194
+270,Maison du Grand Écuyer,architecture,1.9493998,44.0634727
+272,Chateau de La Grillère,architecture,2.1792212,44.9019508
+280,Fort de la Mauresque,architecture,3.1093605,42.524662
+282,Le Saint-Jean,architecture,2.8964953,42.7006302
+283,Palais des Archevêques de Narbonne,architecture,3.0037296,43.1841545
+285,Tour Sarrasine,architecture,5.2487388,43.4608116
+286,Le Jardin des Vestiges,architecture,5.3746409,43.2964249
+287,Clocher du couvent des Augustin,architecture,5.4469552,43.527195
+288,Episcopal palace of Montpellier,architecture,3.8753664,43.6135483
+289,Ensemble fortifié du Villard,architecture,3.2982981,44.4815521
+290,Prieuré Saint-Nicolas de Campagnac,architecture,4.3766127,43.942646
+291,Grand Théâtre de Nîmes,architecture,4.3998804,43.7844887
+292,Pont Van-Gogh,architecture,4.6211452,43.6569481
+293,Pont van Gogh,architecture,4.620976,43.6569977
+294,Pont du Gard,architecture,4.5353198,43.9472313
+296,Chapelle Saint-Etienne,architecture,4.5942593,43.9634705
+297,Palais du Roure,architecture,4.807796,43.9472694
+298,Tour des Augustins,architecture,4.8132434,43.9500198
+299,Village des Bories,architecture,5.1801863,43.9074249
+300,Chateau de Lourmarin,architecture,5.3594007,43.7637634
+302,Chateau de Javon,architecture,5.3420148,43.9973679
+303,Pont romain de Viviers,architecture,4.6717591,44.4881859
+304,Évêché de Viviers,architecture,4.6906614,44.4806786
+305,Maison des Chevaliers,architecture,4.6886053,44.4832802
+306,Les Chevaliers,architecture,4.6888905,44.4831123
+307,Chateau de Chabrillan,architecture,4.9417315,44.7242279
+311,Tour de Campomoro,architecture,8.8072529,41.6388474
+315,Pont de la Reine Jeanne,architecture,6.0437908,44.1869812
+316,Castellaras de Thorenc,architecture,6.8392463,43.7916183
+317,Chateau de Gréolières,architecture,6.9425993,43.7948608
+319,Tour Lesdiguières,architecture,6.3099842,44.3709068
+320,Tour Brune,architecture,6.4954109,44.562912
+322,Thermes de l'Est,architecture,7.2765136,43.7188721
+326,Torra di Portu,architecture,8.6915302,42.2677345
+332,Église monolithe Saint-Jean (Aubeterre-sur-Dronne),architecture,0.171293,45.2722473
+333,Chateau Barrière,architecture,0.5371511,45.0204659
+334,Logis de Chênard,architecture,0.1878715,45.4434052
+335,Mairie de Sireuil,architecture,0.0090018,45.6152267
+336,Domaine de la Forêt,architecture,0.0053885,45.5593987
+337,Tour dite Logis du Moine blanc,architecture,0.1502342,45.6433334
+338,Logis de Nanteuil,architecture,0.3037199,45.5946159
+339,Manoir d'Aizecq,architecture,0.2806087,45.9903755
+340,Logis de Tessé,architecture,0.079447,46.0710106
+341,Abbaye de Valence,architecture,0.1730822,46.3105469
+342,Ruine Abbaye de Valence,architecture,0.1724908,46.3110237
+344,Chateau des vicomtes de Limoges,architecture,1.1423839,45.7963676
+346,Chateau de Ventadour,architecture,2.1166639,45.3918495
+347,Pont de Senoueix,architecture,1.996567,45.8175011
+348,Restes du donjon,architecture,1.5707268,46.1534309
+349,Ancienne Cure de l'Eglise Sainte-Croix,architecture,0.6813788,47.3935432
+350,Hotel du cygne tours,architecture,0.6912622,47.3956795
+351,Manoir de Sapaillé,architecture,0.6926187,47.4285011
+352,Manoir de Breil de Foin,architecture,0.0814077,47.5618019
+353,Manoir de Thomas Bohier,architecture,0.9084318,47.3555946
+354,Halle des Cardeux,architecture,1.1995928,47.1561928
+355,Chateau de Montoire,architecture,0.8570536,47.7499695
+356,Maison Saint-Martin,architecture,1.0674354,47.7918472
+357,Ancienne Abbaye de Loroy,architecture,2.4183052,47.3199272
+359,Maison dite Maison de Mandrin,architecture,3.3837719,45.2933731
+361,"Maison, en face de l'hospice",architecture,2.9331169,45.51194
+362,Beffroi,architecture,3.2894702,46.3075142
+363,Chateau de Montaigu-le-Blin,architecture,3.5134556,46.2964554
+364,Monastère de Colombier-le-Cardinal,architecture,4.737359,45.2679176
+365,"L'immeuble dit ""Le Grand Cercle""",architecture,4.3875875,45.4385681
+366,Maison forte de Villon,architecture,4.8437519,46.0530853
+367,Maison de Benoît-Raclet,architecture,4.7351398,46.1864815
+368,Maison Salomon,architecture,5.1804433,45.9031219
+369,Hôtel de la Teyssonnière,architecture,5.2215042,46.2065735
+370,Ferme de Layat,architecture,4.9913664,46.3688507
+371,Chateau de Rosemont,architecture,3.2738495,46.8497543
+372,Ferme Bourbon,architecture,5.1780677,46.4507675
+373,Prefecture hotel of Jura,architecture,5.5505438,46.6720695
+375,Collégiale de Thil,architecture,4.3359275,47.3871155
+376,Porte Saint-Pierre,architecture,5.0432539,47.3172264
+377,Hôtel Thomas Berbisey,architecture,5.0374708,47.3189278
+378,Hôtel de Vienne,architecture,5.042788,47.3195572
+379,Gauthiot d'Ancier  mansion (Gray),architecture,5.5910735,47.4448738
+380,Manoir de Verdigné,architecture,0.3561115,48.2572136
+381,Ancienne chapelle Notre-Dame du Champdé,architecture,1.334584,48.0679703
+382,Manoir du Cormier,architecture,1.0723618,48.2676353
+383,Tour carrée,architecture,0.2238129,49.146946
+384,"Maison, 5 rue des Sources",architecture,0.5938373,49.0909882
+385,Le Breuil-Benoît Abbey,architecture,1.3559139,48.809021
+386,Chateau de l'Isle (Saint-Denis-en-Val),architecture,1.9944943,47.8883209
+387,Abbaye de Notre-Dame de la Cour-Dieu,architecture,2.1985798,48.0068283
+388,Hôtel Saint-Yon,architecture,2.1641657,48.4335785
+389,Batiment de la Mission,architecture,2.7009945,48.4057312
+390,"Ancienne abbaye de Port-Royal des Champs, domaine national de Port-Royal des Champs",architecture,2.0164967,48.7447281
+391,Les Tourelles,architecture,1.4912378,49.0980148
+392,Abbaye (ancienne),architecture,2.0356731,48.9285889
+393,Haras de Jardy,architecture,2.1577873,48.8266563
+395,Hôtel du Grand Contrôle,architecture,2.1201875,48.8013763
+397,Hôtel des Réservoirs,architecture,2.1237826,48.8074722
+399,Hotel lutetia - the leading hotels of the world,architecture,2.3274844,48.8510971
+400,Maison du Fontainier,architecture,2.3361475,48.8371353
+401,Galerie Véro-Dodat,architecture,2.3402026,48.8628349
+402,Abbaye royale Notre-Dame du Lys,architecture,2.6318495,48.518631
+404,Le Relais du Buisson,architecture,2.6251993,48.8443985
+405,Pavillon de la Muette,architecture,2.1175604,48.9641647
+406,Arcade des Champs-Élysées,architecture,2.3046052,48.8716927
+407,Ampere,architecture,2.299741,48.8848419
+408,Restaurant Sancak,architecture,2.3533065,48.871273
+409,Regard Saint-Martin,architecture,2.3914757,48.8714714
+410,Regard des Maussins,architecture,2.4070005,48.8775024
+411,Abbaye d'Herivaux,architecture,2.4766254,49.1170845
+412,Ancienne chapelle Saint-Yon,architecture,1.0800542,49.4282646
+413,Église Saint-Vincent de Rouen,architecture,1.0889386,49.4402695
+414,Chateau d'Imbleville,architecture,0.9561794,49.7226791
+415,Arques-la-Bataille Castle,architecture,1.1264864,49.8774338
+416,Ferme de Wariville,architecture,2.3308868,49.4374962
+417,Ferme de Troussures,architecture,2.2444186,49.5623131
+418,Chateau de Folleville,architecture,2.3625526,49.6770592
+422,Chateau de Vignory,architecture,5.101397,48.2767639
+423,Chateau de Lafauche,architecture,5.4979591,48.2973061
+426,Ruines du couvent des Cordeliers,architecture,4.0380077,49.2548828
+427,Piscine du Tennis-Club,architecture,4.044961,49.2502022
+428,Albert Chatelet High School,architecture,3.0847158,50.3727379
+429,Au Fournil de Marchiennes,architecture,3.2797241,50.4076576
+435,Maison forte de la Raminoise,architecture,4.9194636,49.5724831
+436,Maison Fortan,architecture,4.7194691,49.7607307
+443,Grenier   sel de Surjoux,architecture,5.8083463,46.0208473
+445,Col de la Faucille,architecture,6.0186877,46.3699989
+446,Chateau de Cursinges,architecture,6.4551544,46.2964134
+447,Chateau de la Rochette,architecture,6.4266305,46.2910309
+453,Funiculaire de Beauregard-Bregille,architecture,6.0343342,47.2418213
+454,Chateau de Vellefaux,architecture,6.1387696,47.5524559
+455,Ferme de Laine,architecture,6.1937675,47.4988441
+456,Chalet Meiner,architecture,6.5721555,47.4453545
+471,Ancien prieuré du Lewenberg,architecture,7.3139801,47.4340096
+508,Musée national Eugène-Delacroix,art_galleries,2.3353937,48.854641
+517,La Piscine,art_galleries,3.1679492,50.6925163
+524,Chateau de Kerguéhennec,art_galleries,-2.7331927,47.8851204
+551,Pavillon Populaire,art_galleries,3.8821557,43.6102448
+555,Chapelle des pénitents blancs,art_galleries,5.4540238,43.5262871
+556,Chapelle Buvigner,art_galleries,5.3849659,49.1622086
+557,Chateau d'Alba-la-Romaine,art_galleries,4.5994692,44.5551186
+558,Chateau de la Napoule,art_galleries,6.9433036,43.5235443
+561,Centre Georges Pompidou,art_galleries,2.3524742,48.8605919
+569,Chapelle des Cordeliers,art_galleries,7.0531855,48.7352676
+570,La Cohue,art_galleries,-2.7575045,47.6576042
+577,Musée Garinet,art_galleries,4.3664212,48.9558945
+589,Chateau de Belcastel,art_galleries,2.3358309,44.3889084
+593,Musée Bartholdi,art_galleries,7.357482,48.0766106
+595,Chapelle de la Visitation,art_galleries,6.4808803,46.3725853
+612,Boutique Georges Pompidou,art_galleries,2.3523948,48.8605042
+615,Beaulieu,art_galleries,1.8532362,44.2098923
+642,musée de l'École de Nancy,art_galleries,6.1654572,48.6799583
+662,Musée Jacquemart-André,art_galleries,2.3105445,48.8754501
+671,Plague cemetery,art_galleries,1.099846,49.4402657
+672,Museum of Dieppe (Castle),art_galleries,1.0702341,49.9246521
+680,Museum of Fine Arts of Nancy,art_galleries,6.1818995,48.6936607
+702,Musée Lambinet,art_galleries,2.130687,48.8089676
+705,Musée Hébert,art_galleries,5.7510228,45.2057419
+752,Chateau d'Écouen,art_galleries,2.3756373,49.0158348
+753,Chateau de Compiègne,art_galleries,2.8318057,49.4192963
+754,Museum of Fine Arts of Reims,art_galleries,4.0301738,49.2527428
+803,musée Masséna,art_galleries,7.2589536,43.6952362
+806,Palais des Papes,art_galleries,4.8069668,43.9506836
+853,musée des Beaux-Arts de La Rochelle,art_galleries,-1.1515809,46.1621094
+860,Musée des Beaux-Arts de Tours,art_galleries,0.6950591,47.3952599
+864,Musée des Beaux-Arts Jules Chéret,art_galleries,7.2489753,43.6944389
+951,Unterlinden Museum,art_galleries,7.3555565,48.0798645
+1001,Le Village Martyr,battlefields,1.0389004,45.9294968
+1004,Carrières de Confrécourt,battlefields,3.17261,49.4187546
+1185,Battle of Saorgio,battlefields,7.5531001,43.9883003
+1191,Battle of Arras,battlefields,2.7808332,50.2897224
+1232,Battle of St. Quentin,battlefields,3.6283333,49.9008331
+1374,Battle of Sedan,battlefields,4.9444447,49.7000008
+1383,Battle of Amiens,battlefields,2.5208299,49.8675003
+1397,Battle of Chateau-Thierry,battlefields,3.4000001,49.0400009
+1546,Sword Beach,beaches,-0.3536888,49.3201256
+1565,Grande Plage,beaches,-1.5583857,43.4853363
+1613,Plage des Vaches Noires,beaches,-0.0420151,49.314045
+1648,Plage de la Petite Chambre d'Amour,beaches,-1.5458452,43.4958153
+1734,Plage publique du Loup,beaches,7.1438022,43.6413422
+1761,"Côte des Basques, Biarritz",beaches,-1.568821,43.4748993
+1809,Juno Beach,beaches,-0.4512534,49.3364563
+1870,Plage du Miramar,beaches,-1.5551667,43.4883308
+1883,Plage du Buse,beaches,7.4596539,43.7601357
+1931,Uhabia,beaches,-1.6007503,43.4314575
+1936,Plage du Prado,beaches,5.3723636,43.2617111
+1953,Beach of Le Tilleul,beaches,0.179584,49.6960678
+1956,Figuerolles,beaches,5.5956421,43.16436
+1965,Maiarkobaitako hondartza,beaches,-1.62528,43.4185486
+1970,Omaha Beach,beaches,-0.8686111,49.3688889
+1972,Plage du Touquet-Paris-Plage,beaches,1.5768811,50.5118141
+1992,Plage de l'Éventail,beaches,-2.0157299,48.6537209
+1996,La Franqui,beaches,3.0327721,42.9336777
+2006,Mémorial de la ferme de Richemont,burial_places,-0.6307616,44.6303139
+2007,Chartreuse Cemetery,burial_places,-0.5939379,44.8357811
+2008,Dolmen de Curton,burial_places,-0.1575394,44.7723465
+2009,Dolmen de Goëren,burial_places,-3.3542585,47.6975632
+2010,Dolmen de Roch-Feutet,burial_places,-3.0526094,47.6195908
+2015,Dolmen de Garde-Épée,burial_places,-0.2513677,45.6898956
+2019,Four Sarrazin,burial_places,-1.9919132,47.7656288
+2020,Dolmen,burial_places,-0.9036503,47.4595261
+2021,Grand Dolmen de Bagneux,burial_places,-0.0947952,47.2431488
+2022,Dolmen de Roscasquen,burial_places,-3.5123394,47.8641663
+2023,Dolmen de Nelhouët,burial_places,-3.3787849,47.8134079
+2024,Liscuis gallery graves,burial_places,-3.1295426,48.2206726
+2027,Kergüntuil gallery grave,burial_places,-3.5190792,48.8120193
+2029,Allée couverte de Mélus,burial_places,-3.0722613,48.8154488
+2031,Tombeau de Merlin et Fontaine de Jouvence,burial_places,-2.1184945,48.0775871
+2032,Tombeau de Merlin,burial_places,-2.1179688,48.0781174
+2034,Allée couverte du Chêne-Hut,burial_places,-2.4581125,48.4969025
+2035,Allée couverte de la Hautière,burial_places,-2.1911802,48.5552368
+2036,La Hamelinière gallery grave,burial_places,-0.5582161,48.4165726
+2037,Tumulus dit Butte de la Hogue,burial_places,-0.3623564,49.0956993
+2049,Dolmen d'Ayer,burial_places,1.0136229,42.882515
+2050,Monument aux morts,burial_places,0.725086,43.1072197
+2051,Dolmen d'Eylias,burial_places,0.395194,44.6893082
+2053,Dolmen de Giverzac,burial_places,1.2449754,44.810833
+2054,Site archéologique du dolmen 1 des Bourines,burial_places,2.8099341,44.425312
+2055,Dolmen de Coste Rouge,burial_places,3.3674223,43.7322578
+2056,Coste-Rouge dolmen,burial_places,3.3848658,43.7376213
+2057,Le Tombeau romain,burial_places,3.5713964,44.5000305
+2058,Cénotaphe de Bertrand du Guesclin,burial_places,3.6758356,44.6337051
+2059,Cimetière Saint-Véran,burial_places,4.8253694,43.94944
+2060,Dolmen de Colbas,burial_places,6.8319263,43.6563072
+2061,Dolmen des Claps,burial_places,6.7859702,43.7256699
+2062,Dolmen de Villard,burial_places,6.3690972,44.476696
+2063,Dolmen de la Boucharderie,burial_places,0.0256486,45.5581512
+2064,Tumulus dit Le Petit Dognon,burial_places,0.0843414,45.9354286
+2065,Dolmen de la Pierre Blanche,burial_places,0.0931088,45.9470406
+2066,Dolmen du Montheil,burial_places,1.4422356,46.1079254
+2067,Dolmen dit La Pierre Folle,burial_places,1.5398731,46.2062836
+2068,Dolmen dit La Pierre Cuberte,burial_places,1.65474,46.2904091
+2069,Pierre Levée de Massigny,burial_places,0.1606565,46.6726189
+2070,La Pierre-Levée (Neuville-de-Poitou),burial_places,0.263195,46.6897354
+2071,Pierre levée d'Aillé,burial_places,0.4053729,46.6839104
+2072,Dolmen La Pierre Fondue,burial_places,0.5990833,47.0841064
+2073,Dolmen de Passebonneau,burial_places,1.3772147,46.4257927
+2074,La Pierre Tournante,burial_places,1.5877446,47.7707291
+2075,Tombe du silence et du repos sans fin (Facteur Cheval),burial_places,5.0188746,45.2500648
+2076,Monument aux morts du square de la Paix,burial_places,4.8318181,46.3079338
+2077,Dolmen dit la Grosse Pierre,burial_places,0.7501513,48.4665222
+2079,Dolmen le Grès de Linas,burial_places,1.9870137,48.3694687
+2080,Ancienne Chapelle de Kosciusko,burial_places,2.7689493,48.347374
+2081,British 29th Division Memorial,burial_places,2.6481018,50.0729408
+2082,Dolmen de la Pierre-Alot,burial_places,5.332047,47.9945259
+2083,"War memorial in Sainte-Marie-À -Py, France",burial_places,4.5419345,49.2186813
+2085,St. Mihiel German military cemetery,burial_places,5.6080494,48.8776512
+2086,Basques Memorial,burial_places,3.759809,49.4301262
+2092,Neuer Jüdischer Friedhof,burial_places,7.5774961,48.037056
+2094,Cimetière de Lièpvre,burial_places,7.2815738,48.2733688
+2095,Jewish cemetery in Saverne,burial_places,7.3472176,48.7360115
+2173,Chapelle funéraire de Jules Hunebelle,burial_places,2.2693627,48.7930336
+2175,Monument aux Morts,burial_places,6.0095253,44.0947189
+2182,Nécropole nationale de Cerny-en-Laonnois,burial_places,3.6662898,49.442337
+2186,Newfoundland Caribou Monument,burial_places,2.6482942,50.073822
+2189,Frédéric Chopin's tomb,burial_places,2.392808,48.8601227
+2190,Oscar Wilde,burial_places,2.3979473,48.861805
+2194,Levallois-Perret Cemetery,burial_places,2.289021,48.901371
+2207,Dolmen dit La Pierre qui Tourne,burial_places,1.4934876,48.3984566
+2209,Dolmen de Kerlescan,burial_places,-3.0478377,47.6061401
+2210,Dolmen de Kerbourg A,burial_places,-2.3618257,47.3631058
+2211,Allée couverte du Grimolet,burial_places,-2.7938521,48.4877014
+2212,Dolmen du Bois des Boeufs,burial_places,1.856277,44.6773529
+2217,Cimetière de Cuiseaux,burial_places,5.3913856,46.4916611
+2219,Monument aux Morts de la Compagnie des Mines de Lens,burial_places,2.8117225,50.4386826
+2222,Cimetière marin de Varengeville-sur-Mer,burial_places,0.9825002,49.9167328
+2242,Dolmen de Graniol-Tal-er-Men-Guen,burial_places,-2.8910096,47.5536423
+2243,Dolmen d'Ors dit la Piare,burial_places,-1.1963443,45.8635635
+2244,Dolmen de la Pierre Fouquerée,burial_places,-0.8888304,46.0498161
+2245,Sanctuaire des Bouchauds,burial_places,-0.0072232,45.7812119
+2247,La Salle aux Fées dolmen,burial_places,-1.7913963,47.0791321
+2248,Dolmen de Sandun,burial_places,-2.3429365,47.3498344
+2249,Dolmen de Kerbourg B,burial_places,-2.3621726,47.3625526
+2250,Dolmen de La Pierre Folle,burial_places,-0.9980903,46.5525436
+2251,La Ciste des Cous,burial_places,-0.9341162,46.6585312
+2252,Carrière des Fusillés,burial_places,-1.3474936,47.7242432
+2253,Dolmen de la Maison des Fées,burial_places,-0.486951,47.7609673
+2255,Dolmen de Mezou Poulyot,burial_places,-4.7493792,48.4877701
+2257,Allée couverte de Pont-ar-Bleiz,burial_places,-4.6503344,48.569252
+2258,Parc Biouracâ€™h gallery grave,burial_places,-3.7001686,47.8138161
+2259,Dolmen de Roc'h Toul,burial_places,-3.2826483,48.3713875
+2260,Allée couverte de Coët Correc,burial_places,-3.0189054,48.2226982
+2261,Dolmen de Corn-er-Houët,burial_places,-3.0074694,48.2263298
+2264,Dolmen de la Maison Trouvée,burial_places,-2.3779991,47.8867111
+2265,Maison des Fées,burial_places,-1.8766342,48.484726
+2266,La Maison des Feins,burial_places,-1.8767756,48.4847908
+2267,Dolmen des Erves,burial_places,-0.3315142,48.1169853
+2284,Allée couverte de Saint-Eugène,burial_places,2.5252779,43.2975006
+2294,Les Alyscamps,burial_places,4.6351857,43.6701889
+2296,Colonne Napoléon,burial_places,7.0721726,43.5679245
+2297,Monument du Centenaire,burial_places,7.2678065,43.6953621
+2306,Amboise Cemetery,burial_places,0.9823655,47.4059944
+2309,Chapelle funéraire de la famille Le Cosquinot,burial_places,4.1651001,47.7772217
+2311,Père Lachaise Cemetery,burial_places,2.3939292,48.8612175
+2313,Cimetière monumental de Rouen,burial_places,1.1179124,49.4507141
+2317,Statue de Napoléon (Brienne-le-Chateau),burial_places,4.5265245,48.3930931
+2318,Nécropole nationale La ferme des Wacques,burial_places,4.5105362,49.1823082
+2329,Herrlisheim-près-Colmar Jewish cemetery,burial_places,7.3146076,48.0118828
+2330,Alter Jüdischer Friedhof,burial_places,7.5770383,48.0346222
+2331,Cimetière Sainte-Hélène de Strasbourg,burial_places,7.7412858,48.5984573
+2389,Chapelle de Dormans,burial_places,3.6467896,49.0713043
+2390,Chapelle Cathelineau,burial_places,-1.013507,47.3626556
+2397,Panthéon,burial_places,2.3447132,48.8468933
+2402,The Alyscamps,burial_places,4.6354628,43.6721344
+2404,Thiepval Memorial Park,burial_places,2.6857231,50.0514565
+2412,Monuments aux morts,burial_places,0.0841056,44.3139839
+2420,Cimetière ancien de Charenton-le-Pont,burial_places,2.4145179,48.825676
+2421,Tombeau d'Alexandre Brzostowski,burial_places,4.3578324,48.9591713
+2424,Cimetière juif de Koenigshoffen,burial_places,7.7164612,48.5774422
+2455,Cimetière de Gisy-les-Nobles,burial_places,3.2368076,48.2802734
+2462,Jewish cemetery in La Bastide-Clairence,burial_places,-1.2542162,43.4283905
+2472,Dolmen des Tablettes,burial_places,-2.1245179,47.757473
+2480,Cimetière de Bouère,burial_places,-0.4769212,47.8658409
+2502,Rodez Cathedral,cathedrals,2.57461,44.3507919
+2503,Fréjus Cathedral,cathedrals,6.7366409,43.4333038
+2511,Bastia Cathedral,cathedrals,9.4516945,42.6923637
+2513,Soissons Cathedral,cathedrals,3.3258772,49.3813171
+2515,Dax Cathedral,cathedrals,-1.0529679,43.7087784
+2550,Saint-Florent Cathedral,cathedrals,9.3110733,42.6799126
+2590,Uzès Cathedral,cathedrals,4.4225993,44.0135803
+2592,Sées Cathedral,cathedrals,0.1721446,48.6055336
+2594,Saint-Dié Cathedral,cathedrals,6.9499736,48.2891808
+2597,Saint-Lizier Cathedral,cathedrals,1.137359,43.0015221
+2633,Alès Cathedral,cathedrals,4.0802426,43.8526649
+2634,Nanterre Cathedral,cathedrals,2.1958804,48.8907051
+2637,Reims Cathedral,cathedrals,4.0342641,49.2536697
+2690,Square Saint-Etienne,cathedrals,4.3583431,48.9550972
+2691,Châlons Cathedral,cathedrals,4.3563976,48.9547615
+2693,Aire Cathedral,cathedrals,-0.2624696,43.7004433
+2723,Bourges Cathedral,cathedrals,2.3991787,47.0822334
+2731,Metz Cathedral,cathedrals,6.1756635,49.120636
+2754,Laval Cathedral,cathedrals,-0.7735888,48.0681343
+2766,Noyon Cathedral,cathedrals,3.0005939,49.58218
+2775,Béziers Cathedral,cathedrals,3.2096961,43.3414536
+2776,Besançon Cathedral,cathedrals,6.0312104,47.2337837
+2784,Grenoble Cathedral,cathedrals,5.7325687,45.1927147
+2809,Nantes Cathedral,cathedrals,-1.5498043,47.2184486
+2810,Tréguier Cathedral,cathedrals,-3.2305315,48.7879715
+2813,Tours Cathedral,cathedrals,0.6933426,47.395462
+2814,Le Puy Cathedral,cathedrals,3.8848317,45.0458488
+2815,Notre-Dame de Chartres,cathedrals,1.4882746,48.4484749
+2816,Rouen Cathedral,cathedrals,1.0938329,49.4407501
+2818,Cathedral view,cathedrals,7.7495656,48.581337
+2819,Cathedral of Our Lady of Strasbourg,cathedrals,7.7504854,48.5816689
+3024,Église Saint-Pierre de Simacourbe,catholic_churches,-0.1660528,43.4464912
+3025,St Luperc's Church,catholic_churches,-0.0670185,43.7341652
+3026,Église d'Insos,catholic_churches,-0.3142919,44.364994
+3027,Église Saint-Sulpice de Daubèze,catholic_churches,-0.1420193,44.7126083
+3028,Église Saint-Barthélémy de Grandjean,catholic_churches,-0.6066574,45.8769836
+3029,Église Saint-Georges de Richemont,catholic_churches,-0.3599308,45.7187653
+3030,Église Saint-Grégoire d'Augé,catholic_churches,-0.2866149,46.4391403
+3031,Église Saint-Pierre de Chenillé-Changé,catholic_churches,-0.6665868,47.7005844
+3032,Église Saint-Quentin de Saint-Quentin-lès-Beaurepaire,catholic_churches,-0.1084504,47.6262245
+3033,Église Saint-Boscat de Tréogat,catholic_churches,-4.3223405,47.9201775
+3034,Chapelle Guiquelleau,catholic_churches,-4.369844,48.5819969
+3035,Chapelle Notre-Dame de Kerdévot,catholic_churches,-3.9806237,48.0064774
+3036,Loc-Eguiner church,catholic_churches,-4.0940866,48.4726601
+3037,Église Saint-Loup du Lou-du-Lac,catholic_churches,-1.9905075,48.2089539
+3038,Église Saint-Georges de Montchaton,catholic_churches,-1.5027343,49.0135269
+3039,Église Saint-Georges (Saint-Georges-de-Chesné),catholic_churches,-1.2901434,48.2728691
+3040,Église Sainte-Marie-Madeleine de Forcé,catholic_churches,-0.7014205,48.0338898
+3041,Église Saint-Martin des Biards,catholic_churches,-1.185648,48.5836258
+3042,Église Saint-Jean-Baptiste (La Mancelliere-sur-Vire),catholic_churches,-1.0705862,49.0692673
+3043,Église Nativité-Notre-Dame de Beaumais,catholic_churches,-0.0763993,48.8952789
+3044,Eglise Saint-Georges,catholic_churches,-0.0543656,49.1660767
+3045,Église Saint-Pierre du Manoir,catholic_churches,-0.5942479,49.2835312
+3090,Église Saint-Pierre-aux-Liens d'Éget,catholic_churches,0.2716288,42.7977638
+3091,Église Saint-Denis Saint-Nicolas,catholic_churches,0.2892514,42.7980385
+3101,Sant Andreu,catholic_churches,1.952617,42.407917
+3103,Église Saint-Thyrs de Labruguière,catholic_churches,2.2637732,43.5401535
+3104,Église Saint-Sixte de Saint-Martin-de-Beauville,catholic_churches,0.8301175,44.2377777
+3105,Église Saint-Férreol de Lentignac,catholic_churches,0.5876322,44.5273476
+3106,Église Notre-Dame de Milhac de Cancon,catholic_churches,0.6446288,44.5612373
+3107,Église Saint-Just de Hautefage-la-Tour,catholic_churches,0.7680278,44.3421669
+3108,Église Sainte-Quitterie de Massels,catholic_churches,0.8625352,44.324707
+3109,Église Saint-Pierre-ès-Liens de Rives,catholic_churches,0.7410235,44.6452904
+3110,Église Saint-Saturnin de Parnac,catholic_churches,1.3115436,44.4911423
+3111,Église Saint-Laurent-et-Saint-Front de Beaumont-du-Périgord,catholic_churches,0.7680113,44.7692261
+3112,Église Saint-Christophe de Montferrand-du-Périgord,catholic_churches,0.8660921,44.7501259
+3113,Église Saint-Avit (Saint-Avit-Rivière),catholic_churches,0.8832536,44.7522392
+3114,Église Saint-Barthélemy de Bouzic,catholic_churches,1.2199807,44.727253
+3115,Église Saint-Étienne de Belcastel,catholic_churches,1.7552035,43.6491318
+3117,Église Saint-Maurice d'Anglars,catholic_churches,2.7823009,44.4105644
+3118,Église Notre-Dame-de-l'Assomption de Jou-sous-Monjou,catholic_churches,2.6641002,44.938427
+3120,Chapelle Saint-Nazaire-de-Marissargues,catholic_churches,4.1596823,43.7472878
+3121,Église Saint-Rémi de Saint-Rémy-de-Chaudes-Aigues,catholic_churches,3.0308387,44.7756653
+3122,Église de l'Assomption,catholic_churches,4.5783176,44.7715797
+3124,Église Sainte-Anne de Lardiers,catholic_churches,5.7123513,44.0564194
+3125,Chapelle de l'Oratoire,catholic_churches,6.9237142,43.6596832
+3126,Église Saint-Antoine-du-Désert de Maurin,catholic_churches,6.8468356,44.5935097
+3127,Église Sainte-Cécile de Ceillac,catholic_churches,6.7699337,44.6704521
+3128,Église Santa Maria Assunta di a Chjapella,catholic_churches,9.4538469,42.986618
+3129,Église Saint-Martin d'Agonac,catholic_churches,0.7462109,45.2874641
+3130,Église Saint-Julien de Jayac,catholic_churches,1.3444617,45.0308342
+3132,Église Saint-Martin d'Oradour-Fanais,catholic_churches,0.7807499,46.1198959
+3133,Église Saint-Pierre-ès-Liens de Bassignac-le-Haut,catholic_churches,2.0715058,45.2120934
+3134,Église Saint-Sébastien de Rempnat,catholic_churches,1.8889794,45.6872368
+3135,Église Saint-Pierre de Bagnols,catholic_churches,2.6320584,45.4993019
+3136,Église de la Conversion-de-Saint-Paul de Villard,catholic_churches,1.7014562,46.3325958
+3137,Église Saint-Martial de Clugnat,catholic_churches,2.1187129,46.3075943
+3138,Église Saint-Laurent de Palluau-sur-Indre,catholic_churches,1.3122821,46.9433174
+3139,Église Saint-André de Villaines-les-Rochers,catholic_churches,0.4961525,47.2206154
+3140,Église Saint-Vincent d'Orbigny,catholic_churches,1.2350079,47.2100296
+3141,Église Saint-Cloud de Rhodon,catholic_churches,1.2679284,47.7526016
+3142,Église Saint-Étienne de Fontenay,catholic_churches,1.7449908,47.060009
+3143,Sanctuaire Notre-Dame des Enfants,catholic_churches,2.3227501,46.8588257
+3144,Église de Lissay-Lochy,catholic_churches,2.405262,46.9721794
+3145,Église Sainte-Solange de Sainte-Solange,catholic_churches,2.5505059,47.1355171
+3146,Église Sainte-Marguerite de Ternant-les-Eaux,catholic_churches,3.1307056,45.4791908
+3147,Église Saint-Pierre de Palogneux,catholic_churches,3.9200699,45.7439117
+3148,Église Saint-Médard de Saint-Médard-en-Forez,catholic_churches,4.3614225,45.5972862
+3149,Église Saint-Pierre de Senozan,catholic_churches,4.8615274,46.3978348
+3150,Église Notre-Dame-de-l'Assomption de Suin,catholic_churches,4.4745059,46.4335785
+3151,Église Saint-Étienne de Lacanche,catholic_churches,4.5606422,47.0731544
+3152,Chapelle Notre-Dame-de-la-Levée de Villers-les-Pots,catholic_churches,5.3535705,47.1977158
+3153,Église Saint-Martin des Loges,catholic_churches,0.6030858,47.9819145
+3154,Saint-Sébastien de Préaux-Saint-Sébastien,catholic_churches,0.307297,48.9865379
+3155,Église Saint-Aubin de Saint-Aubin-de-Bonneval,catholic_churches,0.3791489,48.9409447
+3156,Saint Peter Church of Bois-le-Roi,catholic_churches,2.7004976,48.4716797
+3157,Église Saint-Étienne de Bouconvillers,catholic_churches,1.9025536,49.1762123
+3158,Église Saint-Jean-Baptiste de Mauchamps,catholic_churches,2.1943305,48.5298004
+3159,Église Saint-Martin de Bézu-la-Forêt,catholic_churches,1.628545,49.4082108
+3160,Église Saint-Remi de Ponchon,catholic_churches,2.1950204,49.3480415
+3161,Église de l'Assomption de Marnay-sur-Seine,catholic_churches,3.5578001,48.5144539
+3162,Église Saint-Michel (Brécy),catholic_churches,3.4284065,49.1492958
+3163,Église de Courmelois,catholic_churches,4.2161393,49.1651154
+3164,Église Notre-Dame de l'Assomption,catholic_churches,4.7086906,47.8338509
+3165,Church of the Assumption of Montmorency-Beaufort,catholic_churches,4.5633345,48.4861183
+3166,Église Notre-Dame de Cauroy-lès-Hermonville,catholic_churches,3.9234118,49.3486824
+3167,Église Saint-Martin de Vendhuile,catholic_churches,3.2077687,50.0109825
+3168,Église Saint-Martin de Tannay,catholic_churches,4.8336411,49.5256157
+3169,Église Saint-Martin d'Aubigny-les-Pothées,catholic_churches,4.4356585,49.776207
+3170,Église Notre-Dame de Renwez,catholic_churches,4.6022248,49.8382034
+3171,Église Saint-Pierre de Saint-Pierremont,catholic_churches,4.9363966,49.4858856
+3172,Église de Floing,catholic_churches,4.9301524,49.7210464
+3173,Église Saint-Christophe (Venon),catholic_churches,5.8041825,45.1724167
+3283,Le Thoronet Abbey,catholic_churches,6.2640133,43.460331
+3379,Église Sainte-Anne,catholic_churches,2.3983595,45.87183
+3382,Chapelle Notre-Dame,catholic_churches,-4.0977678,48.1956787
+3434,Monastery of the Jacobins,catholic_churches,1.4402257,43.6034775
+3500,Monastère de Chalais,catholic_churches,5.6761694,45.2925377
+3777,Saint Pierre Cemetery,cemeteries,5.41258,43.2925606
+3934,Noyelles-sur-Mer Chinese Cemetery,cemeteries,1.7225183,50.1864777
+3957,Boulogne Eastern Cemetery,cemeteries,1.6219741,50.723835
+4042,Église Saint-Martin de Pau,churches,-0.3730688,43.2944527
+4044,Église Saint-Jean-Baptiste de Suzan,churches,-0.7255089,43.9473877
+4045,Montaut,churches,-0.6598143,43.7406693
+4047,Église Saint-Médard de Geloux,churches,-0.6390071,43.9813194
+4048,Église de Garein,churches,-0.6502315,44.0459785
+4052,Chapelle de Locmaria,churches,-3.0470808,47.6485367
+4053,Ruines de la chapelle de Lurzine,churches,-0.4817644,45.0313568
+4054,Église Saint-Pierre de Neuillac,churches,-0.3986841,45.5180588
+4055,Église de Champagne (Charente-Maritime),churches,-0.9083815,45.8312531
+4056,Église Notre-Dame de La Jarne,churches,-1.0723196,46.1279068
+4057,St-Pierre (Écurat),churches,-0.6747025,45.7829742
+4058,Église Saint-Martin de Courcoury,churches,-0.5803429,45.7123985
+4061,Abbatiale Saint-Philbert-de-Grand-Lieu,churches,-1.64042,47.038662
+4062,Office de toursime de Saint-Philbert-de-Grand-Lieu,churches,-1.6406751,47.0388756
+4063,Chapelle des Ursulines,churches,-2.7599034,47.654007
+4064,Bethlehem Chapel,churches,-1.731652,47.1954765
+4065,Notre-Dame: a church for the port,churches,-1.568614,47.2097359
+4066,Chapelle Saint-Georges de Penfao,churches,-1.7962983,47.6032372
+4067,Chapelle Saint-Jean-d'Apileur,churches,-2.0491664,47.6765823
+4070,Église Saint-Didier de Brain-sur-Longuenée,churches,-0.761516,47.5850716
+4075,Chapelle Saint-Théleau (Plogonnec),churches,-4.1742573,48.0931168
+4079,chapelle Saint-Guénaël de Cléguer,churches,-3.3722174,47.8792992
+4080,Chapelle Notre-Dame-de-Trescoët,churches,-3.3198054,47.8277321
+4082,Église Saint-Melaine de Meslan,churches,-3.4340644,47.9946404
+4083,Chapelle Saint-Jean,churches,-3.511579,48.06567
+4084,Chapelle Sainte-Anne,churches,-3.340807,47.9949646
+4085,Chapelle de Kerlenat,churches,-3.1766796,48.0333023
+4086,Chapelle Saint-Germain,churches,-3.1927512,48.0999069
+4087,Chapelle Saint-Gildas,churches,-3.0490544,47.9785957
+4088,Chapelle Notre-Dame-de-Manéguen,churches,-2.9540236,47.916378
+4089,Chapelle Saint-André de Langlo,churches,-3.008944,48.1446266
+4090,Chapelle Notre-Dame de Sélédin (Plussulien),churches,-3.0713131,48.2557983
+4091,Chapelle Notre-Dame de Lambader,churches,-4.0447192,48.5729218
+4092,Chapelle Notre-Dame de Penvern,churches,-3.5529273,48.7884674
+4093,Chapelle Notre-Dame de Pitié de Lanvellec,churches,-3.5033846,48.5873756
+4094,Chapelle Notre-Dame de Kerfons,churches,-3.4254563,48.6870155
+4095,Chapelle de Kermaria-an-Isquit,churches,-2.9756987,48.6849632
+4098,Chapelle Saint-Méen de La Chapelle-Caro,churches,-2.3983476,47.8797073
+4103,Chapelle Sainte-Croix,churches,-0.521053,48.1501999
+4106,Église Saint-Étienne de Beaumesnil,churches,-0.9838717,48.8946342
+4108,La Porte Saint-Pierre,churches,-0.361696,49.1851807
+4297,Chapelle d'Agos,churches,0.3366757,42.8431625
+4298,Église Saint-Martin de Cazaril-Laspènes,churches,0.5758423,42.7992859
+4300,Église Saint-Geniès de Benque-Dessous,churches,0.5539313,42.8151436
+4301,Église Saint-Pierre de Mayrègne,churches,0.540283,42.8418694
+4320,Chapelle Saint-Julien,churches,0.6346356,42.9556389
+4321,Bassoues,churches,0.2459766,43.5791969
+4333,Chapelle Saint-Paul,churches,1.636281,42.851799
+4339,Abbatiale Saint-Polycarpe de Saint-Polycarpe,churches,2.2901878,43.0410728
+4340,Église Saint-Étienne de Mas-Cabardès,churches,2.3607023,43.3718872
+4343,Temple des Carmes,churches,1.3527163,44.0156746
+4346,Église Saint-Pierre de Dieulivol,churches,0.1106703,44.6730423
+4356,Église Saint-Jean-Baptiste de Gabriac,churches,2.0068479,43.8459053
+4357,Église Notre-Dame-de-l'Annonciation de Roumanou,churches,1.9671904,43.9945259
+4358,Saint-Cirq Lapopie - Puech Merle,churches,1.6688418,44.4646721
+4359,Saint-Cirq-Lapopie,churches,1.6686841,44.4647789
+4360,Église Saint-Georges de Meyraguet,churches,1.5406828,44.8535004
+4361,Église Saint-André de Fons,churches,1.9509654,44.6625061
+4370,Grotte-ermitage des Aygalades,churches,5.3619614,43.3591766
+4371,Église Saint-Pierre de Saint-Pierre-des-Tripiers,churches,3.2730515,44.2261581
+4373,Chapelle Saint-Nazaire,churches,4.158977,43.7480431
+4374,Tour de l'Horloge,churches,3.8848794,44.1045685
+4376,Église Saint-Jean de Serverette,churches,3.3871047,44.7041435
+4377,Église Saint-Victor de Gravières,churches,4.0921221,44.4216919
+4379,Église Notre-Dame-de-Roumegas de la Tour d'Aigues,churches,5.5480618,43.7256241
+4380,Bedoin Eglise,churches,5.1783509,44.1231499
+4381,Chapelle Saint-Michel,churches,4.8457546,44.6045647
+4382,Abbaye Sainte-Anne,churches,4.8796678,44.5942726
+4384,Chapelle des Capucins,churches,4.8893433,44.9354515
+4385,Église Saint-Jean de Sainte-Lucie-de-Tallano,churches,9.053134,41.7047043
+4387,Chapelle Ste Madeleine,churches,5.667254,43.6908455
+4393,"Church of Gesù, Nice",churches,7.2773705,43.6967697
+4399,Église Saint-Étienne de Lageyrat,churches,0.9429172,45.6682281
+4401,Église Saint-Michel-des-Lions À  Limoges,churches,1.2571815,45.8304558
+4405,Église Saint-Martin de Collandres,churches,2.6584337,45.2362595
+4407,Église Saint-Pardoux de Saint-Pardoux-Morterolles,churches,1.8204017,45.8969574
+4410,Église Saint-Patrocle de La Celle,churches,2.7850494,46.2284584
+4411,Église Saint-Léobon de Chalais,churches,1.1962887,46.5364799
+4412,Église Saint-André de Rosnay,churches,1.213666,46.7007332
+4418,"Église Saint-Pierre (Chambon, Cher)",churches,2.3249693,46.7867165
+4421,Église Saint-Saturnin de Vorly,churches,2.4642453,46.9450989
+4423,Chapelle de Chanet,churches,3.0074155,45.2519722
+4425,Église Saint-Pierre de Novacelles,churches,3.6501024,45.4369545
+4426,Église Sainte-Marie de Chauriat,churches,3.2796614,45.7506371
+4427,Église Saint-Bonnet de Saint-Bonnet-de-Four,churches,2.910383,46.3124313
+4428,Église Saint-Blaise de Chareil,churches,3.2192066,46.2677689
+4429,Église Saint-Martin de Meillard,churches,3.2352884,46.3901443
+4431,Abbaye de Charlieu,churches,4.1682572,46.1577568
+4432,Papeteries Montgolfier-Canson,churches,4.6800761,45.2546387
+4434,Chapelle des Moines,churches,4.70015,46.3636818
+4436,Église Saint-Jérôme de Boyeux-Saint-Jérôme,churches,5.4592395,46.0190125
+4437,Église Saint-Julien de Saint-Julien-sur-Veyle,churches,4.9542537,46.2026978
+4438,Église Saint-Germain de Sauvagny,churches,2.8197076,46.4450111
+4439,Église Saint-Pierre,churches,2.8641322,46.5842056
+4440,Chapelle de l'ancienne visitation,churches,3.3298149,46.5688248
+4441,Chapelle Saint-Sylvain,churches,3.1695836,46.9962921
+4442,Chapelle Saint-Claude-la-Colombière,churches,4.1238103,46.4522324
+4443,Church Saint-Pierre in Sancerre,churches,2.8382394,47.329792
+4445,Église Saint-Pierre-l'Estrier d'Autun,churches,4.3216243,46.9622421
+4449,Église Saint-Germain de Préaux-du-Perche,churches,0.7030361,48.3302155
+4451,Église Notre-Dame de Marcilly,churches,0.5426757,48.2938766
+4452,Église Saint-Martin,churches,0.5912772,48.5005302
+4454,Saint-Lambert-Sur-Dives,churches,0.0757624,48.8160667
+4456,Église Saint-Martin de La Croupte,churches,0.2858377,49.0225639
+4457,Église de l'Assomption-de-Notre-Dame de La Houblonnière,churches,0.1035448,49.1242371
+4458,Église Saint Germain de Grandouet,churches,0.0668206,49.1589012
+4460,Abbaye Notre-Dame de Bernay,churches,0.5981486,49.0892487
+4461,Église Saint-Aubin de Saint-Aubin-sur-Risle,churches,0.7626348,48.9712753
+4462,Chapelle dite des Trois-Maries,churches,1.4259672,48.3603325
+4465,Église de l'Annonciation de Haute-Isle,churches,1.6591433,49.0835266
+4467,Église Saint-Pierre de Puiseux-Pontoise,churches,2.0182972,49.0574303
+4469,Église Saint-Symphorien de Versailles,churches,2.1460929,48.8041229
+4470,Church of Saint Aignan,churches,2.5822141,49.2054596
+4471,Maladrerie Saint-Thomas-Becket,churches,0.6216524,49.4221535
+4475,Église Saint-Gervais et Saint-Protais de Querrieu,churches,2.4301207,49.9375839
+4477,Chapelle Sainte-Madeleine de Resson,churches,3.4921553,48.5520935
+4481,Église Saint-Loup de Chappes,churches,4.245831,48.1667671
+4483,Église Saint-Jacques-et-Saint-Philippe de Lentilles,churches,4.6109428,48.4837227
+4484,Église Saint-Ouen de Saint-Ouen-Domprot,churches,4.4043303,48.6096611
+4485,Place Notre-Dame,churches,4.3637714,48.9580803
+4486,Chapelle Saint-Joseph,churches,5.3804541,49.1601448
+4487,Chapelle Saint-Nicolas de Verdun,churches,5.384696,49.1625938
+4491,"Église Saint-Géry, Valenciennes",churches,3.5203805,50.358757
+4495,Église Saint-Germain de Buzancy,churches,4.9559073,49.4271202
+4499,Saint-Georges-de-Commiers,churches,5.701499,45.0378189
+4506,Jardin des Plantes,cultural,-1.150023,46.1648788
+4507,Fontaine Saint-Denis,cultural,-1.391731,47.2945862
+4509,Fontaine Saint-Quay,cultural,-2.8424547,48.6587029
+4510,Statue de la Vierge,cultural,-0.0218051,48.7438049
+4511,Equestrian statue of William the Conqueror,cultural,-0.2018312,48.894043
+4544,Pyramide,cultural,2.6429682,43.2316818
+4546,Fort de Bellegarde,cultural,2.8592134,42.4585609
+4550,Chateau des Roure,cultural,4.4015512,44.3516617
+4552,Fontaine,cultural,4.764112,44.711792
+4554,Statue of Sampiero Corso,cultural,9.0497999,42.0008888
+4555,Jardin remarquable L'Hardy-Denonain,cultural,6.5861735,43.2287025
+4556,Fontaine publique,cultural,7.3146729,43.8118668
+4559,Mariana,cultural,9.4969206,42.5420494
+4562,"Musée Rabelais, Maison La Devinière",cultural,0.1784807,47.1405144
+4563,Fontaine Crozatier,cultural,3.8837464,45.0414619
+4567,Niche avec statuette,cultural,4.8848171,46.503521
+4568,Fontaine Saint-Pierre-Fourier,cultural,5.5899525,47.4443512
+4569,Musée historique et archéologique de l'Orléanais,cultural,1.9049631,47.9010086
+4571,Pyramide de Juvisy,cultural,2.372133,48.6981926
+4573,Fontaine des Quatre Saisons,cultural,2.3251121,48.8546906
+4574,Fontaine de la Paix,cultural,2.3328874,48.8495102
+4578,La Ferme du Buisson,cultural,2.62449,48.8440132
+4582,Cité des Sciences et de l'Industrie,cultural,2.3879664,48.8956795
+4584,Fontaine Saint-Jean-Baptiste-de-la-Salle,cultural,1.0774789,49.4272537
+4586,Ancien Collège des Jésuites de Reims,cultural,4.0404267,49.2464714
+4590,Couvent des Ursulines de Poligny,cultural,5.7079697,46.8353844
+4607,Statue du Volontaire de 1792,cultural,6.5897045,48.0173187
+4608,Le Volontaire,cultural,6.5895047,48.0172424
+4609,Les Trinitaires,cultural,6.1789746,49.1213837
+4610,Fontaine au Lion,cultural,7.1368885,48.0406494
+4612,Le Meisenthal,cultural,7.3510518,48.966217
+4646,Bernadotte Museum,cultural,-0.372561,43.2973366
+4647,Keroman Submarine Base,cultural,-3.3706656,47.7286301
+4648,Musée du Nouveau Monde,cultural,-1.1515985,46.1616821
+4649,Donjon- Palais,cultural,-0.2049731,48.8935394
+4656,Chateau des évêques de Montpellier,cultural,3.803436,43.583828
+4657,Museum of the Roman Docks,cultural,5.3680415,43.2968292
+4658,Palais Lascaris,cultural,7.277247,43.6974792
+4661,Abbaye Notre-Dame de l'Etoile,cultural,0.7034222,46.6538849
+4664,Palais ducal de Nevers,cultural,3.1580768,46.9882507
+4665,Musée Perrin de Puycousin,cultural,5.0380259,47.3174553
+4666,"Immeuble, dit aussi Maison de la Paix",cultural,1.9049884,47.9009781
+4675,Musée d'art et d'histoire,cultural,6.7976899,47.509861
+4718,Théâtre Montparnasse,cultural,2.32356,48.8394661
+4721,Chapelle Saint-Louis,cultural,1.098897,49.4451675
+4732,Chateau de Boury,cultural,1.7400616,49.2403221
+4735,Fort de Joux,cultural,6.3739653,46.8721161
+4736,Chateau de Rosanbo,cultural,-3.5509105,48.6265793
+4737,Site antique d'Eysses,cultural,0.7228854,44.4194069
+4738,Tour romaine d'Eysses,cultural,0.7212172,44.4197273
+4740,Église orthodoxe russe Notre-Dame-de-toutes-les-Protections de Champagne-sur-Seine,cultural,2.8055153,48.3921814
+4750,Redoute de Panissars,cultural,2.8568923,42.4544449
+4751,Casino-Théâtre de Châtel-Guyon,cultural,3.0641513,45.9192772
+4754,Le Fournil de la Croix de Pierre,cultural,1.1063466,49.4422798
+4785,Place Royale,cultural,4.0341382,49.2555313
+4791,Les Quatre Lions,cultural,6.8451943,48.4062424
+4793,Chateau de Saint-Bernard,cultural,4.7324347,45.9444809
+4794,Square des Francine,cultural,2.1316097,48.7966957
+4795,Parc Monceau,cultural,2.3088703,48.8793716
+4807,Dijon obelisk,cultural,5.0281987,47.3149986
+4811,Priory of St. Cosmas,cultural,0.6514038,47.3892136
+4815,Maison natale de Charles de Gaulle,cultural,3.05867,50.6458435
+4831,Glass factory from Meisenthal,cultural,7.3526402,48.9650726
+4848,Chai de Lardimalie,cultural,0.866609,45.1363716
+4849,Musée régional d'Auvergne,cultural,3.1161005,45.8949966
+4850,Chateau des Bruneaux,cultural,4.282289,45.3805008
+4851,Abbaye de Saint-André-le-Bas de Vienne,cultural,4.8737187,45.5271454
+4852,Natural History Museum of Grenoble,cultural,5.735209,45.1880112
+4875,Ensemble conventuel des Jacobins,cultural,1.440039,43.603653
+4878,Musée Clemenceau,cultural,2.2851419,48.8591957
+4896,Chapelle de la Madelaine,cultural,-1.061092,49.1172676
+4941,Utopia Pontoise,cultural,2.0992718,49.0493011
+4945,Bas-relief des Ponts Jumeaux,cultural,1.4186252,43.6108513
+4947,Place Saint Jean-Baptiste,cultural,0.8241963,44.9958954
+4954,Place Saint-Pierre,cultural,3.7250938,45.4216766
+4959,Alexandre-Dumas,cultural,2.3944411,48.8563004
+4961,Botzaris,cultural,2.3890886,48.8796005
+4973,Parc Lescombes,cultural,-0.6539235,44.8803101
+4974,Square Saint-Martin,cultural,-0.3722885,43.2941513
+4978,Square de la Motte,cultural,-1.6745328,48.1129532
+4994,Chateau de Bocaud,cultural,3.9131439,43.6618004
+4996,Chateau Valrose,cultural,7.2667432,43.716507
+4997,Grand Chateau de Valrose,cultural,7.2670288,43.7171593
+4999,Chateau de Mauriac,cultural,0.4318637,45.0888786
+5000,Chateau de Frapesle,cultural,1.9726943,46.9470024
+5158,Abbaye de Morimond,destroyed_objects,5.6704364,48.057869
+5159,Le Burgstall,destroyed_objects,7.2095761,47.9108009
+5160,Chateau du Girsberg,destroyed_objects,7.3071847,48.2034492
+5161,Chateau du Kochersberg,destroyed_objects,7.5299134,48.6649475
+5162,Rothenburg Castle,destroyed_objects,7.575542,49.0245514
+5209,Ancienne Eglise de Paimpol,destroyed_objects,-3.0486,48.7786751
+5214,Temple de Lucq-de-Béarn,destroyed_objects,-0.6589405,43.287632
+5215,Chateau Ganne,destroyed_objects,-0.4102945,48.9019241
+5216,Port-Royal des Champs,destroyed_objects,2.0163662,48.7443466
+5217,Chateau d'Hédé,destroyed_objects,-1.8054152,48.2958946
+5234,Chateau de Bressuire,destroyed_objects,-0.4991203,46.841732
+5235,Le Couffour,destroyed_objects,3.00068,44.8445282
+5248,Chapelle,destroyed_objects,1.4446644,43.1003418
+5254,Chateau de l'Hermine,destroyed_objects,-2.7566769,47.6551895
+5262,Chateau de Tournoël,destroyed_objects,3.038398,45.8850441
+5306,Chateau de Montagu,destroyed_objects,2.2204452,48.6459389
+5322,Fort de la Pompelle,destroyed_objects,4.1293812,49.2160606
+5338,Abbaye Saint-Maurice,destroyed_objects,-3.5281334,47.8047485
+5401,Abbaye de Saint-Polycarpe,destroyed_objects,2.2901797,43.0408897
+5402,Abbaye de Villelongue,destroyed_objects,2.1669466,43.3053207
+5406,Chateau de Miremont,destroyed_objects,0.9429775,44.9948006
+5410,Abbaye Saint-Felix-de-Montceau,destroyed_objects,3.7262359,43.4870453
+5412,Monastère de Thouzon,destroyed_objects,4.9856739,43.9452095
+5418,Ancien couvent d'Oveglia,destroyed_objects,9.4237671,42.8853188
+5420,Chateau de Bruzac,destroyed_objects,0.8029599,45.3819695
+5422,Monastère du Coyroux,destroyed_objects,1.6789434,45.1704178
+5427,Pont de l'Isle Auger,destroyed_objects,0.9916147,47.1656189
+5434,Beauvoir-en-Royans castle,destroyed_objects,5.338963,45.1229401
+5440,Vestiges gallo-romains du Centre hospitalier,destroyed_objects,0.2300586,49.1459389
+5445,Vestiges du Couvent des Jacobins,destroyed_objects,4.0318427,49.2516975
+5447,Chartreuse du Mont-Dieu,destroyed_objects,4.8661871,49.5474205
+5449,Chartreuse d'Arvières,destroyed_objects,5.7598858,45.9315872
+5450,Chartreuse de Vaucluse,destroyed_objects,5.6784825,46.4322433
+5458,Abbaye de Lucelle,destroyed_objects,7.2465405,47.4225044
+5477,Ancienne Abbaye Saint-Gregoire,destroyed_objects,7.1377549,48.0400581
+5578,Parc d'Ombreval,gardens_and_parks,4.8393908,45.8782272
+5579,Promenade des remparts,gardens_and_parks,3.1544175,46.9854164
+5580,Parc de la Redoute de Saint-Apollinaire,gardens_and_parks,5.0742154,47.336731
+5582,Les Longs Sillons,gardens_and_parks,2.7851949,48.4058228
+5584,Field of Mars,gardens_and_parks,2.2978203,48.856144
+5586,Chateau d'Arques-la-Bataille,gardens_and_parks,1.1270866,49.877243
+5593,Chateau de Wœrth,gardens_and_parks,7.7482591,48.9387894
+5601,Parc du Héron,gardens_and_parks,3.1483958,50.6343155
+5616,Chateau de Wendel,gardens_and_parks,6.0759606,49.3248253
+5617,Jardin des Vestiges,gardens_and_parks,5.374907,43.2976646
+5620,Prieuré Saint Augustin lès Angers,gardens_and_parks,-0.5272222,47.4467049
+5622,Jardin Botanique de Vauville,gardens_and_parks,-1.8451334,49.6349068
+5624,Prieuré of Orsan,gardens_and_parks,2.2200923,46.6770134
+5630,Chateau de Mayenne,gardens_and_parks,-0.6186687,48.3024826
+5634,Chateau d'Aynac,gardens_and_parks,1.8504307,44.7815933
+5638,Parc de Wesserling,gardens_and_parks,6.9988685,47.8853264
+5641,Abbaye d'Ourscamp,gardens_and_parks,2.9747627,49.5329666
+5642,Chateau de l'Aval (Sours),gardens_and_parks,1.5955456,48.4172554
+5649,Parc Roger Salengro,gardens_and_parks,3.1549251,46.9904404
+5650,Parc Pierre Lagravère,gardens_and_parks,2.2312317,48.9256439
+5652,Les Jardins d'Europe,gardens_and_parks,6.1313324,45.8992348
+5653,Jardin Botanique,gardens_and_parks,7.7663851,48.583828
+5662,Museumâ€“aquarium of Nancy,gardens_and_parks,6.1879396,48.694725
+5663,Parc des Oiseaux,gardens_and_parks,5.0294027,45.9911766
+5666,Chateau de Valençay,gardens_and_parks,1.5566455,47.1552544
+5667,Domaine national de la Malmaison,gardens_and_parks,2.1671755,48.8708763
+5668,Bambouseraie d'Anduze,gardens_and_parks,3.9780064,44.0711823
+5673,Parc de Majolan,gardens_and_parks,-0.6436552,44.9006462
+5674,Jardin Saint-Georges,gardens_and_parks,-1.6740577,48.1111984
+5689,Jardin Massey,gardens_and_parks,0.0761209,43.2375565
+5691,Parc Saint-Ruf,gardens_and_parks,4.8897943,44.9341736
+5692,Parc Jouvet,gardens_and_parks,4.8856993,44.9297714
+5693,Domaine de George Sand,gardens_and_parks,1.9762889,46.6245766
+5694,Chateau de Chaumont (Saône-et-Loire),gardens_and_parks,4.2040253,46.332386
+5695,Pépinières et Roseraies Paul Croix,gardens_and_parks,4.5673738,45.2967377
+5696,Arboretum de Balaine,gardens_and_parks,3.2485883,46.6972008
+5697,Parc des Bains,gardens_and_parks,5.5638652,46.6714478
+5698,Chateau de Chateaudun,gardens_and_parks,1.3230677,48.0707245
+5699,Jardin des serres d'Auteuil,gardens_and_parks,2.2526045,48.8466988
+5701,Square d'Estienne d'Orves,gardens_and_parks,2.3315985,48.8767509
+5812,Jardin Albert Kahn,gardens_and_parks,2.2275057,48.8422775
+6003,Grotte préhistorique de la Cauna,geological_formations,2.0819342,42.8497505
+6004,Village de la Madeleine,geological_formations,1.0328873,44.9682198
+6005,Bouffia Bonneval,geological_formations,1.7236117,44.9872742
+6010,La Roche Tremblante,geological_formations,-3.7453091,48.3671265
+6018,Grotte de Marsoulas,geological_formations,0.9817702,43.1073265
+6019,Grotte du Portel,geological_formations,1.5404023,43.0313683
+6020,Aven d'incinération du Suquet,geological_formations,3.7911105,43.73703
+6021,Grotte de LouoÃ¯,geological_formations,4.4186635,44.3960075
+6026,Les Combarelles,geological_formations,1.0433599,44.9445305
+6030,Grotte du Mas-d'Azil,geological_formations,1.35551,43.0693321
+6031,Grotte de Bédeilhac,geological_formations,1.5704689,42.8720284
+6033,Grotte des Combarelles I,geological_formations,1.0422971,44.9434204
+6035,Rock of Solutré,geological_formations,4.7181401,46.2987213
+6037,rocking stone of Huelgoat,geological_formations,-3.7445273,48.3672638
+6038,Puy Mary,geological_formations,2.6762524,45.1093063
+6043,Capitole,geological_formations,4.8077879,44.134861
+6044,Le Saint-Eutrope,geological_formations,4.8057394,44.1343422
+6045,Pyramide de Falicon,geological_formations,7.2603936,43.7499313
+6046,Roc de Sers,geological_formations,0.3289716,45.5744591
+6047,Grotte de Gouy,geological_formations,1.1301428,49.3602142
+6061,Puy de Dôme,geological_formations,2.964407,45.7726479
+6062,Grotte des Fées,geological_formations,3.0353982,42.897644
+6063,Grottes de Labastide,geological_formations,0.3462473,43.0330086
+6065,Aven Armand,geological_formations,3.3570454,44.2208862
+6066,Grotte du Déroc,geological_formations,4.4159184,44.3955231
+6070,Colline Saint-Eutrope,geological_formations,4.8078604,44.1327629
+6074,Grotte de Niaux,geological_formations,1.5938431,42.8198547
+6077,Grotte de la Tête du Lion,geological_formations,4.5484009,44.3275528
+6079,"Colline Saint Eutrope (Orange, Vaucluse)",geological_formations,4.8086309,44.1347427
+6080,Grotte du Pape,geological_formations,-0.7186409,43.6294479
+6085,Grottes de Pair-Non-Pair,geological_formations,-0.5016959,45.0393333
+6089,La Ferrassie,geological_formations,0.9379752,44.9517975
+6090,L'abri cro-magnon,geological_formations,1.0099061,44.9401474
+6091,Abri de Cro-Magnon,geological_formations,1.0097041,44.9405289
+6092,Grotte de Bernifal,geological_formations,1.0672089,44.9310722
+6101,Grotte de Lascaux,geological_formations,1.170959,45.0537643
+6104,Abri Cro-Magnon,geological_formations,1.0096682,44.9405937
+6105,Mont Saint-Michel,geological_formations,-1.5114948,48.6360207
+6106,Mont Gela,geological_formations,5.6690269,45.6526604
+6109,Grottes de Las Fons et du Moulin,geological_formations,2.8777864,43.335804
+6112,Grottes de Gargas (sortie),geological_formations,0.5373661,43.0564613
+6113,Grottes de Gargas,geological_formations,0.5362886,43.0555725
+6114,Grotte de Montepan,geological_formations,0.8496535,43.0726929
+6115,Grotte du Grand Roc,geological_formations,0.99803,44.9479942
+6122,Grotte du Cro de Granville,geological_formations,0.9879119,45.0087738
+6125,Falkenstein Castle ruines,geological_formations,7.5652666,49.0048523
+6129,Grottes d'Isturitz et d'Oxocelhaya,geological_formations,-1.2060313,43.3531303
+6131,Pic du Midi de Bigorre,geological_formations,0.1416106,42.9367752
+6132,Baume Latrone,geological_formations,4.3344693,43.9300232
+6133,Grotte de Lievrin,geological_formations,5.6284666,45.6388054
+6146,Buttes de Rosne,geological_formations,2.0270088,49.1884232
+6147,Crêt de la Neige,geological_formations,5.9396257,46.2709236
+6152,Salle d'Isturitz,geological_formations,-1.2063912,43.3557281
+6153,Grotte de Saint-Marcel,geological_formations,4.5414248,44.3324242
+6159,Grotte de la Vache,geological_formations,3.7330773,43.9171791
+6160,Grotte de la Marche,geological_formations,0.7245898,46.4062271
+6161,Grotte de la Bonne Femme,geological_formations,5.6318731,45.6380844
+6167,Grotte de la Mouthe contenant des peintures préhistoriques,geological_formations,1.0207217,44.9247322
+6173,Waldeck Castle,geological_formations,7.5277724,49.0185356
+6177,Site de Castel Merle : Abri Castanet,geological_formations,1.1014178,44.999218
+6193,Le Reculet,geological_formations,5.9298344,46.2570076
+6194,Dent d'Oche,geological_formations,6.7312484,46.3530045
+6197,Grotte de Cussac,geological_formations,0.8479658,44.8297081
+6199,Grotte d'Aldène,geological_formations,2.6984758,43.353775
+6201,Aven d'Orgnac,geological_formations,4.4119649,44.3199196
+6203,Grottes de Cougnac,geological_formations,1.3736945,44.7585487
+6207,Grotte de la Salpêtrière,geological_formations,4.5377011,43.9475021
+6209,Grotte des Deux Ouvertures,geological_formations,4.5458555,44.3215675
+6211,Butte Chaumont,geological_formations,-0.0267878,48.4807549
+6213,Laugerie-Haute,geological_formations,0.9997413,44.9518738
+6214,Moulin de Laguenay,geological_formations,1.4718655,45.0955124
+6215,Grotte de Prinvaux,geological_formations,2.3703551,48.3227806
+6217,Mont Donon,geological_formations,7.1644735,48.5125923
+6219,Donon,geological_formations,7.1641235,48.5124626
+6234,Grotte Duruthy,geological_formations,-1.0268828,43.5163155
+6236,Grotte de la Vacheresse,geological_formations,4.4152985,44.3880959
+6237,Grotte Sainte-Reine,geological_formations,5.9422402,48.6451683
+6242,Caune de l'Arago,geological_formations,2.7548435,42.8396988
+6244,Chateau de Frœnsbourg,geological_formations,7.7432513,49.0369072
+6245,Grotte Mayenne-Sciences,geological_formations,-0.4046338,47.9915543
+6246,Site de Laugerie-Basse,geological_formations,0.9982254,44.9485283
+6249,Grotte de Bara Bahau,geological_formations,0.9214272,44.9241295
+6251,Castelet hypogeum,geological_formations,4.676084,43.7093086
+6252,Gabillou,geological_formations,0.3810501,45.0386696
+6259,Mont Myon,geological_formations,5.3988371,46.3286133
+6266,Grotte de Pech-Merle,geological_formations,1.644313,44.5074272
+6293,Grotte Chauvet,geological_formations,4.4165192,44.3894463
+6303,Roche de Vergisson,geological_formations,4.7157001,46.3144875
+6334,Dunes des Charmes,geological_formations,4.9860001,46.5099983
+6421,Espalda Chausenque,geological_formations,-0.1400177,42.7732925
+6438,Pic de la Rouge / Pica Roja,geological_formations,1.420428,42.6249352
+6440,Puig de les Pedrisses,geological_formations,2.7513998,42.4254036
+6441,Pech de Bugarach,geological_formations,2.3791037,42.8637695
+6442,Puech de Rascas,geological_formations,2.7281685,43.6814575
+6445,Mont Ventoux,geological_formations,5.2783976,44.1739655
+6447,Grand Veymont,geological_formations,5.5267038,44.8697395
+6453,La Scia,geological_formations,5.8509431,45.3487358
+6454,La Goenne,geological_formations,6.4256063,45.8108177
+6467,Petit Ballon,geological_formations,7.12603,47.9806252
+6490,Sommet des Anges,geological_formations,6.7139897,44.8938789
+6491,Pointe de Pécé,geological_formations,6.6934252,44.9965897
+6492,Croisse Baulet,geological_formations,6.5525293,45.8986855
+6565,Domaine de Haitze,historic,-1.4621043,43.3963509
+6570,Enceinte de Rions,historic,-0.3527837,44.6630135
+6572,Chateau de Belhade,historic,-0.7006584,44.3773232
+6574,Chateau de Cazeneuve,historic,-0.3179316,44.3876114
+6575,Chateau du Hamel,historic,-0.157146,44.5628777
+6577,Chateau Peyronnet,historic,-0.5341724,44.9744949
+6578,Chateau de Rauzan,historic,-0.1262815,44.7803917
+6580,Chateau de Vaure,historic,-0.0364578,44.7860832
+6581,Chateau de Carles,historic,-0.2688307,44.9635429
+6588,Menhir de Kerluhir,historic,-3.0661614,47.5904121
+6594,Chateau Giscours,historic,-0.6464342,45.0088921
+6598,Chateau de Montchaude,historic,-0.2012382,45.4476242
+6600,Chateau d'Ardenne (Moulidars),historic,-0.0378601,45.6625671
+6601,Chateau de Geay,historic,-0.7484088,45.870697
+6604,Chateau de Berneray,historic,-0.69683,45.9045906
+6605,Domaine de Fontguyon,historic,-0.0014162,45.7228355
+6607,Chateau de l'Audardière,historic,-1.7596446,46.7317924
+6611,Porte Saint-Vincent,historic,-2.7580569,47.6546021
+6613,Menhir dit Jean Babouin,historic,-2.578979,47.7818184
+6614,Chateau du Bois-Rouaud,historic,-1.8575544,47.1160622
+6616,Menhir des Faux,historic,-1.5196278,47.1593208
+6617,Chateau de Blain,historic,-1.7648392,47.4656792
+6619,Chateau de Boistissandeau,historic,-0.9938899,46.8299446
+6621,Menhir dit La Pierre au sel,historic,-0.8192247,47.0228958
+6622,Enceinte préhistorique de Champ Durand,historic,-0.6780556,46.4244461
+6623,Chateau de Tennessus,historic,-0.2783263,46.7140694
+6624,Chateau de la Berrière,historic,-1.3181838,47.2774544
+6626,Chateau d'Oudon,historic,-1.2893832,47.3455772
+6629,Chateau de la Jumellière,historic,-0.7353389,47.2794876
+6630,Le Bas Plessis,historic,-0.9863589,47.2967873
+6633,Chateau de Senonnes,historic,-1.2025954,47.7984238
+6634,Chateau des Noyers,historic,-0.4878879,47.2354355
+6635,Menhir de la Grouas,historic,-0.4832872,47.2331238
+6636,Chateau d'Aubigné,historic,-0.4618576,47.213562
+6637,Chateau d'Échuilly,historic,-0.3124051,47.140461
+6640,Chateau de Brignac,historic,-0.33239,47.6204796
+6641,Chateau de Chartrené,historic,-0.1260275,47.4911804
+6643,Menhirs de Kerfland,historic,-4.2753,47.82621
+6646,Menhir de Kerangosquer (B),historic,-3.7635846,47.84729
+6647,Menhir de Guernangoué,historic,-3.6933808,48.1458435
+6650,Menhir de Kerara,historic,-2.8564191,47.8228302
+6654,Menhirs des Roches Longues,historic,-2.9092245,48.3978424
+6655,Menhir d'Irvit,historic,-4.1641464,48.6790695
+6656,Chateau de Bagatelle,historic,-3.8604097,48.5660858
+6663,Beauport,historic,-3.0195935,48.7663765
+6667,Menhir du Moustoir,historic,-2.7332702,47.8156891
+6669,Camp des Rouëts,historic,-2.5147769,48.0414467
+6670,Chateau de la Haute-Touche,historic,-2.3712714,47.8798103
+6671,Chateau de Trécesson,historic,-2.2735958,47.9757347
+6675,Chateau de la Touche Ã  Trebry,historic,-2.5712273,48.3569489
+6677,Chateaux de Limoëlan À Sévignac,historic,-2.317524,48.3182678
+6679,Temple romano-celtique heptagonal,historic,-2.0998304,47.8454895
+6680,Chateau des Onglées,historic,-1.5534704,48.1244583
+6681,Menhir de La Roche Carrée,historic,-2.0627196,48.290638
+6682,Chateau de Tourdelain,historic,-1.9315853,48.3298378
+6683,Chateau de La Chapelle-aux-Filtzméens,historic,-1.8356436,48.3818893
+6684,Pierre du Domaine,historic,-1.8138783,48.5091667
+6686,Dent de Gargantua,historic,-1.9540554,48.5654602
+6687,Menhir de Champ-Dolent,historic,-1.7393607,48.5353165
+6688,Menhir du Champ Dolent,historic,-1.7391207,48.535038
+6690,Menhir de la Baudouinais,historic,-1.3959128,48.2258949
+6692,Menhir Pouille,historic,-0.956062,48.3664627
+6693,Chateau de Brûlon,historic,-0.2334227,47.9646187
+6694,Office de Tourisme,historic,-0.0897818,47.8143349
+6695,Chateau de Bourgon,historic,-0.5608482,48.2230301
+6697,Chateau de Foulletorte,historic,-0.2721151,48.1752968
+6701,Menhir de Pierrelaye,historic,-0.657447,49.1032562
+6702,Menhir dit La Pierre Tournante,historic,-0.3634769,49.0567398
+6706,Chateau de la Tour de Saint-Pierre-Canivet,historic,-0.2430887,48.9192352
+6707,Chateau d'Olonde,historic,-1.6503922,49.3440094
+6712,Domaine de Beaurepaire,historic,-1.6584905,49.5894775
+6714,Chateau de Franquetot,historic,-1.3932002,49.3316765
+6715,Chateau du Bel Esnault,historic,-1.2555088,49.3333893
+6717,"Chateau de Grandval, Manche",historic,-1.3304224,49.4301682
+6718,Chateau de Tourville,historic,-1.3289641,49.518856
+6719,La Maison d'Anneville,historic,-1.2891047,49.633522
+6720,Chateau de Lasson,historic,-0.461369,49.2343483
+6721,Menhir des Demoiselles,historic,-0.5070065,49.2967415
+6722,Chateau de la Londe,historic,-0.3658217,49.2306557
+6842,Chateau de Nogarède,historic,1.3602555,43.2024612
+6859,Cité de Carcassonne,historic,2.3652482,43.2064133
+6881,Chateau de Malvignol,historic,2.1060946,43.7133255
+6886,Toulongergues,historic,2.0268674,44.4052048
+6893,Le Bousquet,historic,2.8081515,44.6570816
+6910,Peyrelade Castle,historic,3.1481445,44.1950226
+6918,Borne milliaire de Caveirac,historic,4.2607002,43.8258018
+6919,Borne Millaire,historic,4.260087,43.8258133
+6920,Saint-Nicolas de Campagnac,historic,4.3768554,43.9427071
+6921,Colonnes de César,historic,4.5993104,43.8160858
+6945,Vivier Maritime gallo-romain,historic,6.7189083,43.358017
+6955,Valrose,historic,7.2657371,43.7157478
+6975,Chateau de Losse,historic,1.1288308,45.0294533
+6990,Borne milliaire dite La Pierre du Marteau,historic,2.011956,46.0537262
+7539,La Serpinière,historical_places,0.4888299,47.6844482
+7540,Chédigny,historical_places,0.9989133,47.2096367
+7547,Cîteaux Abbey,historical_places,5.093152,47.1274261
+7551,Wariville,historical_places,2.331213,49.4368019
+7708,Grambois,historical_places,5.5890107,43.7626381
+7744,Fosse La Sentinelle,historical_places,3.4839423,50.3511963
+7745,Les Faux,historical_places,-1.5210552,47.1577797
+7755,"Grande ÃŽle, Strasbourg",historical_places,7.7478328,48.5829582
+7773,Abbaye de Melleray,historical_places,-1.3774292,47.5495338
+7780,Loc Dieu,historical_places,1.9289666,44.339035
+7786,Abbaye de Loudieu,historical_places,1.3609997,46.5284157
+7790,Cosnay,historical_places,2.0519757,46.6004829
+7791,Noirlac,historical_places,2.4590306,46.7461929
+7797,Prieuré de Commagny,historical_places,3.7916093,46.9730911
+7798,Commagny,historical_places,3.7911358,46.9735909
+7800,La Cour Dieu,historical_places,2.1986642,48.0063057
+7805,Chalais,historical_places,5.6755795,45.2926292
+7822,Besançon,historical_places,6.0343575,47.2297287
+7834,Ardenne,historical_places,-0.4144599,49.1972313
+7849,Quartiers Modernes Frugès,historical_places,-0.6480189,44.7988129
+7850,Chateau de la Brunière,historical_places,-1.3981256,46.4598274
+7853,Saint-Florent-le-Vieil,historical_places,-1.0199306,47.3633308
+7865,Carennac,historical_places,1.7320776,44.9173164
+7876,Terre de Causans,historical_places,4.9359479,44.1270561
+7881,prieuré Saint-Léonard de l'Île-Bouchard,historical_places,0.4201868,47.1146545
+8011,Ville de Bassoua,installation,0.2429089,43.5794334
+8013,Fontaine du Gros Horloge,installation,1.0911458,49.4415283
+8038,Croix de Fanjeaux,installation,2.0350904,43.1850433
+8132,Hommage À  Arago,installation,2.3365254,48.8344803
+8232,Column of the Goddess,installation,3.0634112,50.6369019
+8406,Paris Métro entrances by Hector Guimard,installation,2.2732875,48.8471985
+8653,Abbatiale saint-Vincent,interesting_places,-0.6590071,43.2867317
+8668,Monastère des Antonins et moulin de Pondaurat,interesting_places,-0.0878634,44.5364113
+8674,Croix de cimetière de Courpiac,interesting_places,-0.1822526,44.7552071
+8678,Croix de cimetière de Nérigean,interesting_places,-0.2883009,44.8419838
+8680,Synagogue de Libourne,interesting_places,-0.2448105,44.912487
+8694,Croix de Mane-Bley,interesting_places,-3.0660882,47.6477242
+8712,Croix hosannière de Maillezais,interesting_places,-0.7359114,46.3706551
+8724,Abbaye des Fontenelles,interesting_places,-1.4865371,46.6643028
+8811,Croix de Kerofret,interesting_places,-2.9884861,47.9037743
+8838,Abbaye de Beauport,interesting_places,-3.0190623,48.7675514
+8852,Croix du bourg,interesting_places,-2.5126946,47.9162827
+8868,Saint-Erblon,interesting_places,-1.6549698,48.019165
+8869,"Croix de cimetière de Saint-Erblon, Ille-et-Vilaine",interesting_places,-1.6549317,48.0196342
+8904,Arbres Remarquables de France,interesting_places,-0.597992,48.7629128
+8935,Croix ancienne du cimetière de Barfleur,interesting_places,-1.2598271,49.6729927
+8940,Couvent Notre-Dame-de-Fidélité de Douvres-la-Délivrande,interesting_places,-0.3696005,49.2964783
+8942,Croix Rollon,interesting_places,-0.0033098,49.2787361
+9035,Couvent des Carmélites de Pamiers,monasteries,1.6099968,43.1135521
+9036,Abbaye de Rieunette,monasteries,2.4016016,43.0965996
+9040,Couvent des Augustins,monasteries,5.4469275,43.5272331
+9046,Celle grandmontaine des Bronzeaux,monasteries,1.2485747,46.2533989
+9047,Abbaye de Marmoutier,monasteries,0.7171832,47.4023628
+9048,Ancienne abbaye de Noirlac,monasteries,2.4613917,46.7452469
+9049,Prieuré de Cosnay,monasteries,2.0522883,46.60149
+9053,Church of La Bénisson-Dieu,monasteries,4.0463457,46.1510277
+9166,Couvent des Trinitaires de Saint-Salaire,monasteries,6.9222851,44.2576103
+9211,Ancienne abbaye,monasteries,0.1926735,49.5450974
+9241,Carmel,monasteries,2.0972848,49.0488625
+9305,La Chartreuse de Valbonne,monasteries,4.5529814,44.2387009
+9316,Abbaye de la Boissiére,monasteries,0.1300274,47.5523643
+9348,Le Saint-Mont,monasteries,6.6332359,48.0215759
+9376,Abbaye de Cluny,monasteries,4.6585293,46.4347153
+9445,"Abbey of Saint Loup, Troyes",monasteries,4.0804205,48.3007317
+9447,Place Saint-Laumer,monasteries,1.3307756,47.5838776
+9452,Abbaye de La Roe,monasteries,-1.1084085,47.8967781
+9490,Abbaye Sainte-Odile,monasteries,6.3623614,47.3521652
+9689,Menhir de La Serpinerie,monuments,0.4892778,47.6849937
+9696,Menhir de Charmeau,monuments,4.3070331,46.868721
+9698,Menhir de Courtevrais,monuments,0.4807407,48.2213211
+9701,Menhir dit Gravier de Gargantua,monuments,1.3968236,49.1732216
+9703,Borne n°11,monuments,2.3240418,48.6723633
+9711,Menhirs de la Pierre-Fitte,monuments,3.3137162,47.8622093
+9712,La Pierre aux Couteaux,monuments,3.005259,48.2844124
+9727,Monument national commémoratif de la guerre de 1870,monuments,5.8794866,49.0995865
+9730,"Monument Ã  Desaix, Strasbourg",monuments,7.754034,48.57547
+9792,Porte Sainte-Croix,monuments,4.3681798,48.9518051
+9822,Fontaine du Pilori,monuments,-1.149493,46.1626434
+9823,Fontaine du Bourguet,monuments,1.9779934,44.219593
+9824,Fontaine de Kergornet,monuments,-3.2375591,47.7333488
+9825,Fontaine Saint-Cornély,monuments,-3.0812964,47.5834961
+9826,Fontaine de Loperhet,monuments,-2.8717957,47.7980309
+9827,Fontaine Saint-Nicolas,monuments,-3.0880582,48.0813446
+9829,Fontaine des Augustins,monuments,5.446331,43.5270653
+9831,Fontaine Boucherat,monuments,2.3645937,48.8645554
+9832,Elephants Fountain,monuments,5.9229007,45.5665894
+9839,Fontaine du Marché-aux-Carmes,monuments,2.3367906,48.8569069
+9848,Croix de Pierre,monuments,1.1062676,49.4423943
+9849,Borne milliaire au nom d'Auguste,monuments,4.2600403,43.8257904
+9857,Colonne Marceau,monuments,1.487731,48.445137
+9863,Fontaine des Innocents,monuments,2.3480229,48.8606377
+9866,Jean-Baptiste de La Salle,monuments,1.0774612,49.4272575
+9868,Statue de Valhubert,monuments,-1.3627646,48.686924
+9869,Equestrian statue of Louis XIV,monuments,4.8321924,45.7578354
+9870,Pierre Corneille,monuments,1.1004968,49.4452667
+9873,Napoleon,monuments,-1.4266932,46.6706047
+9874,Monument Ã  Armand de Briqueville,monuments,-1.6216302,49.6402588
+9880,Menhirs de Lespurit-Ellen,monuments,-4.3237977,47.9536858
+9883,Menhir dit Jeanne Babouine,monuments,-2.5791678,47.7817192
+9884,Menhir de la Roche Longue,monuments,-2.9075546,48.3981972
+9898,Grande fontaine,monuments,6.0006628,47.381916
+9914,Fontaine votive du Pas de la Mule,monuments,-0.246261,44.5895348
+9916,Pierres Velières menhir,monuments,-1.4432484,47.8013916
+9917,Fontaine des Carmes,monuments,-2.9124129,48.4045868
+9918,Menhir dit La Pierre du Pot,monuments,-0.2863984,48.9494133
+9921,Fontaine couverte,monuments,3.9856567,44.0546417
+9922,Porte des allées du parc,monuments,5.0433059,47.3153992
+9952,Casa de Juana La Loca,monuments,-1.7920742,43.3637009
+9959,Menhir de la Fontaine Saint-Gré,monuments,-1.4843017,46.4609833
+9961,Menhir de Bissin,monuments,-2.3932838,47.3159904
+9964,Menhir dit la Quenouille de Gargantua,monuments,-2.6834197,47.7909126
+9966,Menhirs des Dames de pierre,monuments,-1.5764791,47.1258926
+9967,Les Louères menhir,monuments,-1.4955591,47.7195015
+9970,Menhir de la Petite-Roche,monuments,-1.4046279,46.9305992
+9971,Grande Pierre Levée,monuments,-1.0358243,47.1041641
+9973,Pierres de la Cahorie,monuments,-1.004189,47.7924728
+9978,Fontaine de Locmeltro,monuments,-3.1453192,48.0466309
+9979,Menhir de Coat Couraval,monuments,-3.3552988,48.2034302
+9989,Menhir dit Le Sabot,monuments,-2.7933595,48.4822922
+9990,Menhir dit La Pierre Longue,monuments,-2.0182998,48.4943275
+9993,Fontaine publique dite Fontaine des Trois Croix ou du Puits Rocher,monuments,-0.7694901,48.0648842
+9995,Menhirs des Longrais,monuments,-0.2096549,48.9682236
+9996,La Grande Pierre,monuments,-1.4890597,49.6549911
+10505,Grand Mosque of Paris,mosques,2.3556159,48.8417625
+10599,Mosquée Es-Sunna,mosques,6.0116053,47.2611427
+10600,Mosquée Arrahma,mosques,6.1580057,47.6352921
+10611,Mosquée d'Agen,mosques,0.6411818,44.2046547
+10639,Mosquée,mosques,2.3837013,48.9761353
+10640,Mosquée Bilal,mosques,2.5549455,48.9052124
+10682,Mosquée Annour,mosques,3.2180603,43.3371239
+10685,Mosquée Ennour,mosques,2.1966538,48.949894
+10693,Mosquée Rahma,mosques,3.6122296,50.4706955
+10695,Mosquée Essalam,mosques,6.2352929,46.186718
+10731,Mosquée Er-Rahma,mosques,3.4110727,49.950798
+10734,Mosquée An Nour,mosques,3.2322652,50.1786537
+10741,Mosquée Nour,mosques,6.239625,46.1832542
+10778,Mosquée Salman Al Farissi,mosques,3.1606591,50.7272148
+10782,Mosquée Es-Salam,mosques,3.1726017,50.7272186
+10838,Mosquée Badr,mosques,3.3126595,49.3892555
+10852,Mosquée Assalam,mosques,3.5137169,50.4045753
+11211,Mont de Marcilly,mountain_peaks,5.1416416,47.5199165
+11489,Pic de Tarbésou,mountain_peaks,1.9707271,42.7138557
+11633,Fosse n° 2 des mines d'Ostricourt,museums,2.9972355,50.4738808
+11634,Chateau de Kerjean,museums,-4.1475844,48.5806313
+11642,castle of La Bastie d'Urfé,museums,4.0774207,45.7273102
+11643,Museum of the Great War,museums,2.9318802,49.9291725
+11652,Maison natale de Descartes,museums,0.6999355,46.9726219
+11726,Historial de la Grande Guerre,museums,2.9305999,49.9291382
+11763,Musée départemental d'Arts et Traditions Populaires,museums,5.5142283,47.6168442
+11768,Chapelle du Rosaire,museums,7.112864,43.7275085
+11772,Hôtel de Sade,museums,4.830873,43.7896271
+11773,Chateau de Réghat,museums,2.435667,48.8004303
+11777,"Chateau d'eau, Strasbourg",museums,7.7286835,48.58041
+11779,Église Saint-Nazaire de Bourbon-Lancy,museums,3.7691386,46.6239281
+11780,Église romane Saint-Jean-Baptiste de Toulon-sur-Arroux,museums,4.1383672,46.6939468
+11781,Église de Dun-les-Places,museums,4.017055,47.2845802
+11783,Musée des Beaux-Arts de Chartres,museums,1.4879388,48.4488564
+11793,"Pavillon de Vendôme, Clichy",museums,2.3039255,48.9048233
+11794,Blaues Haus,museums,7.5785184,48.0337334
+11796,Espace Temple de Mercure,museums,2.9646161,45.7721481
+11797,Logis Pincé,museums,-0.5520487,47.4720497
+11807,Chateau d'asinieres,museums,2.2935362,48.9105225
+11810,Chateau de Monbazillac,museums,0.4941958,44.7966499
+11813,Eglise Saint-Etienne (ancienne),museums,5.0441227,47.3208733
+11816,Musée de Cahors Henri-Martin,museums,1.4381919,44.4484062
+11820,CMCF Oignies,museums,2.9965501,50.472477
+11832,Villa Gallo-Romaine de Plassac,museums,-0.6463004,45.1021042
+11833,Galerie de l'Apocalypse,museums,-0.5606319,47.4697762
+11834,Maison d'Ernest Renan,museums,-3.2292845,48.7881355
+11847,Ouvrage de l'Agaisen,museums,7.4550571,43.8870621
+11850,Musée de la Villa Montebello,museums,0.0843052,49.3713837
+11851,Ferme du Clos-Parchet,museums,6.7011232,46.1019554
+11883,Villa Arnaga,museums,-1.4226664,43.36763
+11884,Muséum d'histoire naturelle de La Rochelle,museums,-1.1511446,46.1648102
+11886,Maillé-Brézé,museums,-1.5716567,47.206707
+11887,Les Thermes Gallo-Romains d'Entrammes,museums,-0.716858,47.9991837
+11888,Merville Gun Battery,museums,-0.1968044,49.2698059
+11904,Église Notre-Dame de Lamourguier,museums,3.0041473,43.1809578
+11906,Saint-Étienne Mine Museum,museums,4.3761315,45.4382515
+11908,Quai Branly Museum,museums,2.2979696,48.8609924
+11909,Maison Louis Braille,museums,2.7920015,48.894516
+11949,Arc College (Dole),museums,5.4910941,47.0927773
+11955,Fort de Balaguier,museums,5.9109888,43.0943947
+11963,Oppidum d'Ambrussum,museums,4.149487,43.7145271
+11966,musée Bartholdi,museums,7.357482,48.0766106
+11967,Musée du Mont-de-Piété de Bergues,museums,2.4302738,50.9691505
+11974,Lille observatory of astronomy,museums,3.0714827,50.6151505
+11977,Le Petit Trianon,museums,2.1097174,48.8155823
+11978,Galerie de Paléontologie et d'Anatomie comparée,museums,2.3628449,48.843132
+11979,Pavillon de Manse,museums,2.4670432,49.1953812
+12001,Vanoise National Park,national_parks,6.9369926,45.3959351
+12005,Cévennes National Park,national_parks,3.7385366,44.2468948
+12007,Écrins National Park,national_parks,6.336957,44.8307838
+12011,Port-Cros National Park,national_parks,6.2394686,43.0079689
+12025,Forêts National Park,national_parks,5.0523372,47.8637581
+12036,Mercantour National Park,national_parks,6.9304838,44.1675415
+12038,Pyrénées National Park,national_parks,0.1107827,42.7946548
+12107,"Puits aux six seaux, Obernai",natural,7.481739,48.4625168
+12129,Cascade de Glandieu,natural,5.6143885,45.6652718
+12141,Naviguer sur le canal de Saint-Albin,natural,5.9593444,47.6402168
+12160,Aqueduc des monts d'Or,natural,4.8125243,45.8300781
+12185,Tourbière et lande de la Mazure,natural,1.9141614,45.8829384
+12194,Fontaine de Barenton,natural,-2.2468719,48.0388985
+12210,Pont-Canal d'Agen,natural,0.6053053,44.2077751
+12218,Puits Henri IV,natural,-0.186997,45.0407143
+12229,Puits Saint-Joseph,natural,6.6477356,47.6967926
+12245,Menhirs de Monteneuf,natural,-2.1853485,47.8821793
+12249,Fontaine Notre-Dame du Roncier,natural,-2.5429206,47.9534264
+12268,Cascade du Rouget,natural,6.7719407,46.027298
+12293,Source des Célestins (Vichy),natural,3.4234138,46.1196289
+12294,Source Cachat,natural,6.5916338,46.3996925
+12301,Pont,natural,2.6684537,43.2499847
+12306,Puits I,natural,6.6738539,49.0842133
+12315,Source de la Seine,natural,4.7169709,47.4859734
+12343,Cascade de Gairaut,natural,7.2596807,43.7378464
+12346,Île du Talus,natural,1.48757,49.0965271
+12369,Fonseranes Lock,natural,3.1986382,43.3302994
+12372,Cascade de l'Arpenaz,natural,6.6414933,45.9760933
+12398,Source de la Doye,natural,5.6413856,46.1486397
+12449,Île Héron,natural,-1.4922374,47.2183075
+12461,Pont-Canal de l'Orb,natural,3.2127848,43.3345757
+12503,Cascade de la Charabotte,natural,5.5658679,45.966095
+12506,Mès marsh,natural,-2.3777168,47.4045258
+12513,Lacs de Conzieu,natural,5.6097665,45.7124214
+12539,Puits,natural,3.2875135,49.8472519
+12540,Le Vieux-Puits,natural,3.2878547,49.846138
+12541,Cascade de la Pleureuse,natural,6.7584381,46.0121574
+12660,Marais de Goulaine,nature_reserves,-1.4104279,47.2136955
+12678,Tourbière de Kerfontaine,nature_reserves,-2.4760184,47.8091164
+12686,Lande tourbeuse des Oignons,nature_reserves,4.9353018,46.3999786
+12702,Boisement humide de La Boisse,nature_reserves,5.0155158,45.8452454
+12703,Haut-Rhône de la Chautagne aux chutes de Virignin,nature_reserves,5.7659998,45.7200012
+12733,Marais et tourbières des vallées de la Somme et de lâ€™Avre,nature_reserves,2.3333333,49.9333344
+12736,Forest of Fontainebleau,nature_reserves,2.6627171,48.4019585
+12737,Bois de Maillance,nature_reserves,4.941,46.519001
+12738,Forêt de Rambouillet,nature_reserves,1.8333334,48.6500015
+12739,Marais Audomarois biosphere reserve,nature_reserves,2.2667,50.7667007
+12761,Forêt d'Évreux,nature_reserves,1.0833334,48.9833336
+12762,Longues-sur-Mer battery,nature_reserves,-0.69423,49.343399
+12766,Marais Poitevin,nature_reserves,-0.6666667,46.3333321
+12767,Forêt de Brotonne,nature_reserves,0.7166667,49.4500008
+12790,Forêt de Montfort,nature_reserves,0.691113,49.2944565
+12797,Hêtraie de la Massane,nature_reserves,3.0291667,42.4827766
+12801,Lac de Cerin,nature_reserves,5.5619998,45.777401
+12804,Rhône du Pont de Groslée à Murs-et-Gélignieux,nature_reserves,5.6199999,45.6100006
+12830,Étangs de la Champagne humide,nature_reserves,4.75,48.5833015
+12838,Petite Camargue,nature_reserves,4.2833333,43.5666656
+12865,"Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",nature_reserves,8.6288338,42.3251953
+12875,Andaine Forest,nature_reserves,-0.4891667,48.5849991
+12876,Les Marais de Saint-Jorioz,nature_reserves,6.1600699,45.8420982
+12877,Marais des Échets,nature_reserves,4.9334602,45.8832016
+12909,Tourbière de Gimel,nature_reserves,4.4798632,45.2948112
+12913,Domaine de Certes,nature_reserves,-1.02422,44.6899986
+12927,Lac d'Onoz,nature_reserves,5.6541667,46.4761124
+12952,Chantilly Forest,nature_reserves,2.5125,49.1749992
+12954,Lac de Grand-Lieu,nature_reserves,-1.6666666,47.0833321
+13060,Les Escaliers de la Gare Saint-Charles,other,5.3808641,43.301548
+13065,Tiger Tank,other,0.2149015,48.9236488
+13069,Pierre des Redevances,other,6.1948972,46.7107315
+13101,Barrage,other,5.8120637,46.0529938
+13109,Tour Philippe Le Bon,other,5.041616,47.3219452
+13121,Chateau de Caradeuc,other,-1.9588168,48.2939148
+13122,Pierres Sonnantes,other,-2.2110596,48.5770645
+13127,L'Escalier Monumental,other,0.5870746,43.6456184
+13128,Pont de Gignac,other,3.5362909,43.6532898
+13130,Mesures à  grains,other,6.624269,44.669693
+13131,Chateau d'Essalois,other,4.2457705,45.4620094
+13132,Tour des Deux Amants,other,4.8101301,45.7702866
+13135,"German WWI ""Langer Max"" 38cm SKL/45 emplacement",other,4.6033731,49.3308334
+13140,Chateau de Salm,other,7.1407018,48.4534225
+13163,Pont Romain,other,-1.6219208,43.3502769
+13180,Jurisdiction of Saint-Emilion,other,-0.1402847,44.8820572
+13187,Camp de César,other,-2.7213368,47.7098885
+13192,Tour de Cabrens (garnison),other,2.5414243,42.3657227
+13193,Chapelle Notre-Dame-du-Chateau de Saint-Étienne-du-Grès,other,4.7442183,43.7775269
+13194,Forteresse de Mornas,other,4.729002,44.2057076
+13195,Citadelle,other,5.943809,44.1991882
+13196,Tour Saint-Antoine,other,0.9987398,47.1289444
+13197,Tilleul de Pérouges,other,5.1771288,45.9037399
+13217,Sommet du beffroi,other,1.854296,50.9529495
+13248,Trade Fair Paris Expo Porte de Versailles,other,2.2889807,48.8287201
+13257,Croix,other,-2.1243954,47.8839035
+13258,Enseigne d'auberge,other,-0.1857169,48.8920975
+13265,Percée des Cammazes,other,2.0797343,43.4096527
+13266,tour Carbonnière,other,4.2093554,43.5921364
+13267,Chateau d'eau de Brive,other,1.5338577,45.1618614
+13268,Mona Lisa,other,2.3354104,48.8602295
+13272,Chateau de Hohbarr,other,7.3373508,48.7238197
+13273,Haut-Barr,other,7.3390946,48.7253227
+13290,V-1 flying bomb facilities,other,2.4912531,50.7106857
+13291,Base de lancement des V1,other,2.4905159,50.7069054
+13304,Grue Titan grise,other,-1.5738989,47.1992073
+13305,Tour del Far,other,2.7618291,42.8054085
+13322,Donjon de Montignac,other,0.1239663,45.7842293
+13328,Le Pont du Bonhomme,other,-3.300688,47.7643623
+13335,Seuil de Naurouze - Partage des Eaux,other,1.8188771,43.3507614
+13336,Unité d'Habitation de Marseille,other,5.3963766,43.2607193
+13338,Église de Saint-Vincent-de-Barbeyrargues,other,3.8766377,43.7066345
+13339,Cadran solaire,other,5.620616,44.5547066
+13340,Araghju,other,9.2621393,41.6478157
+13341,Roquesteron-Grasse,other,7.0060444,43.8728371
+13342,Monument aux morts de Rauba-Capeù ,other,7.2790899,43.6935043
+13344,Chateau de Rochechouart,other,0.8207864,45.8203125
+13346,Notre Dame,other,2.3493035,48.8533669
+13364,Saint-Michel d'Aiguilhe,other,3.8827553,45.0500908
+13383,Vigne de Sarragachies,other,-0.0688723,43.6852684
+13391,Durance -ancien Pont de Mirabeau,other,5.6681561,43.689476
+13392,Chateau de Boussac,other,2.2117777,46.3465385
+13414,Beffroi de Lille,other,3.069715,50.6306
+13424,Chapelle Saint Pancrace,other,5.7845678,43.9540329
+13443,Tour Pey Berland,other,-0.5766127,44.8376045
+13445,Tour Magne,other,4.3494678,43.8430748
+13447,Fort du Mont Alban,other,7.3004756,43.7010918
+13449,Labyrinthe - Gloriette de Buffon,other,2.355922,48.8431358
+13450,Cour de l'Etoile d'Or,other,2.3749354,48.8522072
+13486,Chateau de Kaysersberg,other,7.2622862,48.1403809
+13494,Chateau d'Apremont,other,-1.7413446,46.7485847
+13495,Le Palais des Beaux-Arts,other,5.3827386,43.2955551
+13500,If funéraire de Saint-Ursin,other,-1.4403107,48.8004646
+13506,Tour Barberousse,other,3.0845802,43.1077232
+13507,Chartres,other,1.4876339,48.4483109
+13512,Citadelle de Bitche,other,7.4300861,49.0524826
+13923,Lafiteneko hondartza,other_beaches,-1.62913,43.4133301
+13927,Plage du Ris,other_beaches,-4.30059,48.0910683
+13935,Plage des Blancs Sablons,other_beaches,-4.7654901,48.3685989
+13937,Pampelonne,other_beaches,6.66853,43.2279434
+13965,plage de Collignon,other_beaches,-1.5569445,49.6555557
+13977,Zenitz,other_beaches,-1.62001,43.4221687
+13983,Grande Plage de Barneville  Portbail,other_beaches,-1.75139,49.3816986
+13999,Plage de Villennes,other_beaches,2.0004201,48.9560089
+14006,Terrimbo,other_beaches,3.1597283,42.4526215
+14014,Plage du Moulin Blanc,other_beaches,-4.4331846,48.3966064
+14024,Plage du Trez-Hir,other_beaches,-4.7013836,48.349369
+14025,Plage de la Fourberie,other_beaches,-2.0850937,48.6352882
+14084,Colonne de Charles Félix,other_burial_places,6.4056902,46.0754166
+14090,Colonne Vendôme,other_burial_places,2.3294382,48.8674736
+14098,Pierre Cartellier,other_burial_places,2.3925729,48.8615532
+14100,François-Joseph Lefebvre's tomb,other_burial_places,2.3965859,48.8590393
+14101,Tombeau de Georges Clemenceau,other_burial_places,-1.0163912,46.7930603
+14103,Tombeau de Marie Joly,other_burial_places,-0.2234856,48.9708443
+14109,Column of the Grande Armée,other_burial_places,1.6174437,50.7412605
+14111,Colonne Louis XVIII,other_burial_places,1.8502883,50.9609489
+14113,Mémorial de la Shoah,other_burial_places,2.3561611,48.8548164
+14114,Chapelle funéraire de la famille Bellemère,other_burial_places,2.3862634,49.6083984
+14117,Chapelle funéraire de la famille Soult,other_burial_places,2.4897468,43.4761086
+14122,Camille Flammarion,other_burial_places,2.3724365,48.6934242
+14123,Georges Guët's tomb,other_burial_places,2.3949549,48.8594627
+14124,Sarah Bernhardt,other_burial_places,2.3953838,48.8613281
+14130,Chapelle funéraire des Berghes,other_burial_places,-0.2104903,48.6445198
+14133,La tombe Smith,other_burial_places,4.3909798,45.4439621
+14137,Tombe Smith,other_burial_places,4.3912768,45.4440422
+14138,Medicis column,other_burial_places,2.342988,48.8625259
+14139,July Column,other_burial_places,2.3691387,48.8531723
+14145,Héloïse and Abélard tomb,other_burial_places,2.3918972,48.8591919
+14148,Chapelle funéraire des Longaunay,other_burial_places,-0.8672825,49.0433846
+14150,Cippe gallo-romain,other_burial_places,2.1426117,46.0605621
+14153,Chapelle Sainte-Marie,other_burial_places,5.3745813,43.8327866
+14156,Colonne du pape Pie VII,other_burial_places,7.2626538,43.6962967
+14159,Monument to Giuseppe Garibaldi,other_burial_places,7.2800789,43.7007713
+14161,Dolmen du Trou À  Morts,other_burial_places,2.1969543,49.1355553
+14162,Naval Monument,other_burial_places,-4.4865508,48.3835831
+14163,Isidore Odorico,other_burial_places,-1.6813828,48.1255264
+14165,Tour Beaumont,other_burial_places,5.9293137,43.1499939
+14166,Tombeau de Turpio,other_burial_places,4.815938,45.7553444
+14169,Category:Colonne Napoléon (Val-de-la-Haye),other_burial_places,0.9985061,49.3706207
+14170,Chapelle Madame,other_burial_places,2.6071806,50.0739632
+14177,Chapelle royale de Dreux,other_burial_places,1.3634894,48.7384186
+14181,Hypogée des Dunes,other_burial_places,0.3592299,46.5755501
+14182,Michel Ney,other_burial_places,2.396071,48.8587723
+14183,Jean de La Fontaine,other_burial_places,2.395062,48.8605652
+14184,Molière's tomb,other_burial_places,2.3951049,48.8605347
+14188,Domaine de la chapelle royale Saint-Louis,other_burial_places,1.3634795,48.7388229
+14189,"Tomb of Francis II, Duke of Brittany",other_burial_places,-1.5501159,47.2182236
+14191,Mémorial napoléonien Ã  Marchais-en-Brie,other_burial_places,3.5087945,48.8857155
+14204,Chapelle funéraire de la famille Thouin,other_burial_places,-0.5764,47.4768982
+14205,Grande cheminée de Quinéville,other_burial_places,-1.29792,49.5107002
+14208,Grottes du Razet,other_burial_places,3.8689201,48.8403015
+14218,Chapelle funéraire de la famille Laborde,other_burial_places,3.1682701,46.9987984
+14219,Colonnes de Nuits,other_burial_places,4.21525,47.7294998
+14220,Pierres tombales près de l'église protestante (Beblenheim),other_burial_places,7.3249998,48.1582985
+14221,Monument funéraire de François Antoine Melchior du Terrier de Birkenwald,other_burial_places,7.6453662,48.5870323
+14230,"Temple de l'amour, Creil",other_burial_places,2.4751999,49.2616997
+14234,"Grave of Thiers (Père-Lachaise, division 55)",other_burial_places,2.392972,48.8611107
+14236,Chapelle funéraire de la famille Hériot,other_burial_places,1.6392601,48.6845016
+14244,"Dalle funéraire de Pierre de Pedou, écuyer Ã  Gouzangrez",other_burial_places,1.909579,49.1123734
+14249,Lanterne des morts de Fontevraud-l'Abbaye,other_burial_places,0.048341,47.1814995
+14250,Tomb of Dantan,other_burial_places,2.3922999,48.8586998
+14255,Mémorial de Sainte-Anne-d'Auray,other_burial_places,-2.9544599,47.7058983
+14256,Grotte de Saran IV,other_burial_places,4.0092335,48.9982567
+14260,Monument À  Antoine Watteau,other_burial_places,2.487361,48.8370819
+14262,Maison d'Izieu--Mémorial des enfants juifs exterminés,other_burial_places,5.63235,45.6490402
+14263,Tombeau de Hugues des Hazards,other_burial_places,5.8319001,48.5985985
+14269,Mémorial de la Légion d'honneur,other_burial_places,1.599213,50.7428932
+14271,Sépulture d'Isabelle et René Viviani,other_burial_places,2.559514,48.5556908
+14272,Chapelle funéraire de Chambon-sur-Lac,other_burial_places,2.8999584,45.5716515
+14278,Lamoricière cenotaph,other_burial_places,-1.55022,47.2184982
+14279,Tombe Amory,other_burial_places,3.1751637,49.42976
+14280,South Mauvans tomb,other_burial_places,6.8084998,43.6731987
+14282,Monument funéraire de la famille Gérard,other_burial_places,5.9043999,47.8219986
+14292,Paul Baudry's tomb,other_burial_places,2.3916667,48.8608322
+14293,Delille's tomb,other_burial_places,2.3929389,48.8604927
+14298,Chapelle de la famille Gonnet,other_burial_places,3.0797222,50.6433334
+14305,Tombeau de Prosper Mérimée,other_burial_places,7.0027776,43.5605545
+14307,Colonne Louis XVI,other_burial_places,-1.5498412,47.2194977
+14308,Simonne de Lattre de Tassigny,other_burial_places,-0.8511295,46.6767693
+14311,Camille Lambert,other_burial_places,2.3666568,48.6942215
+14312,István Beöthy,other_burial_places,2.3178511,48.822731
+14313,Eugénie Buffet,other_burial_places,2.3178189,48.8228035
+14314,Francis Poulenc,other_burial_places,2.3931041,48.8587685
+14315,Camille Pissarro,other_burial_places,2.3914902,48.859108
+14316,Jules Guesde,other_burial_places,2.3953838,48.8625412
+14317,Gustave Eiffel,other_burial_places,2.2895644,48.9017868
+14319,Mémorial national des troupes de montagne,other_burial_places,5.7238317,45.2040482
+14320,Memorial of mountain troops,other_burial_places,5.7242484,45.2039337
+14333,Frédéric Soulié,other_burial_places,2.392869,48.8628578
+14339,Charles Crozatier,other_burial_places,2.39341,48.8623581
+14357,Juliette Dodu,other_burial_places,2.396307,48.8588982
+14358,Thomas Dobrée,other_burial_places,-1.5656644,47.2218933
+14359,Jean-Baptiste Martenot,other_burial_places,-1.6820054,48.1255798
+14360,Ferdinand de Lesseps,other_burial_places,2.3945024,48.8588028
+14361,Colette,other_burial_places,2.390578,48.8605804
+14362,Georges-Eugène Haussmann,other_burial_places,2.3911791,48.8607483
+14363,Thomas Couture,other_burial_places,2.3916025,48.8607216
+14364,François d'Astier de La Vigerie,other_burial_places,2.3921659,48.8607635
+14365,Carlo Andrea Pozzo di Borgo,other_burial_places,2.3912771,48.8616638
+14366,Claude Chabrol,other_burial_places,2.3925469,48.8605576
+14367,Claude Bernard,other_burial_places,2.3935821,48.8606339
+14368,Samuel Hahnemann,other_burial_places,2.39429,48.8605347
+14369,Martin Michel Charles Gaudin,other_burial_places,2.394376,48.8604813
+14370,René Mouchotte,other_burial_places,2.3912635,48.8631287
+14371,Pierre-Augustin Caron de Beaumarchais,other_burial_places,2.3962638,48.8588409
+14372,Anna de Noailles,other_burial_places,2.3957059,48.8590393
+14373,Paul Barras,other_burial_places,2.3959849,48.8591385
+14374,François Antoine de Boissy d'Anglas,other_burial_places,2.3960919,48.8590393
+14375,André Masséna,other_burial_places,2.3965859,48.8590126
+14376,Tony Noël,other_burial_places,2.397383,48.8595924
+14377,Pierre Georges,other_burial_places,2.399611,48.8597031
+14378,Georges Marchais,other_burial_places,2.3996761,48.859745
+14379,Gertrude Stein,other_burial_places,2.399375,48.8607903
+14380,Pierre Dac,other_burial_places,2.3962431,48.8627663
+14381,Jean-Antoine Chaptal,other_burial_places,2.3982599,48.8619194
+14389,Camille Mellinet,other_burial_places,-1.542649,47.2212563
+14390,Jean de Lattre de Tassigny,other_burial_places,-0.8511382,46.6767464
+14391,Memorial des Reporters,other_burial_places,-0.7125307,49.2738571
+14394,Jean Lenègre,other_burial_places,2.319612,48.8215179
+14395,Adolphe Itasse,other_burial_places,2.3954148,48.8585014
+14396,Jules Joffrin,other_burial_places,2.3982599,48.8602257
+14397,Amedeo Modigliani,other_burial_places,2.3985152,48.8598022
+14398,Léon Gaumont,other_burial_places,2.3997688,48.8745537
+14412,Nadar,other_burial_places,2.397037,48.8589821
+14413,"Armenian Genocide memorial, Arnouville",other_burial_places,2.4176731,48.9906807
+14416,Mémorial des Reporters de Bayeux,other_burial_places,-0.7147428,49.275238
+14430,Pierre Cambronne,other_burial_places,-1.5670871,47.2221069
+14431,Yvonne Pouzin,other_burial_places,-1.5665772,47.2235451
+14432,Jean Leperdit,other_burial_places,-1.6818105,48.1254196
+14433,Jacques-Joseph Moreau,other_burial_places,2.3904574,48.8601837
+14434,Jean-Charles Alphand,other_burial_places,2.3901269,48.8616943
+14435,Alfred de Musset,other_burial_places,2.391114,48.8607216
+14436,Étienne-Gaspard Robert,other_burial_places,2.392359,48.859436
+14437,Miguel Ãngel Asturias Rosales,other_burial_places,2.3928041,48.859787
+14438,Jack Vanarsky,other_burial_places,2.393003,48.8601074
+14439,Jacques Higelin,other_burial_places,2.3935051,48.8603249
+14440,Marcel Marceau,other_burial_places,2.3933139,48.860878
+14441,Jean-Baptiste Camille Corot,other_burial_places,2.3946121,48.8609047
+14442,Honoré Daumier,other_burial_places,2.3946979,48.8608742
+14443,Georges Enesco,other_burial_places,2.3918219,48.8622017
+14444,Gérard de Nerval,other_burial_places,2.3931739,48.8627396
+14445,Laurent de Gouvion-Saint-Cyr,other_burial_places,2.3961899,48.8585548
+14446,Jean-Pierre-Louis de Fontanes,other_burial_places,2.3961999,48.858757
+14447,Joseph Léopold Sigisbert Hugo,other_burial_places,2.395406,48.8598289
+14448,Joachim Murat,other_burial_places,2.396672,48.8590698
+14449,Eugène Scribe,other_burial_places,2.397187,48.8593636
+14450,Auguste Blanqui,other_burial_places,2.396071,48.8612137
+14451,Pierre Marinovitch,other_burial_places,2.3970201,48.8614693
+14452,Isadora Duncan,other_burial_places,2.3954177,48.8624268
+14453,Léon Jouhaux,other_burial_places,2.3970149,48.8630486
+14455,Edgar Le Bastard,other_burial_places,-1.6813481,48.1261597
+14459,Adolphe Thiers,other_burial_places,2.3929715,48.8611183
+14460,Lyon Armenian Genocide Memorial,other_burial_places,4.8340044,45.7564316
+14462,Bernard de Lattre de Tassigny,other_burial_places,-0.8511339,46.6767578
+14465,Coluche,other_burial_places,2.3198328,48.8216095
+14466,Le Moulin de la Galette,other_burial_places,2.3361592,48.8874054
+14502,Philippe Gengembre,other_burial_places,-1.5657424,47.2218895
+14503,Édouard Normand,other_burial_places,-1.5687035,47.2225533
+14504,Eugène Livet,other_burial_places,-1.5682998,47.2237549
+14505,Frédéric Cailliaud,other_burial_places,-1.5669438,47.2221985
+14506,Louis Babin-Chevaye,other_burial_places,-1.5669183,47.222599
+14507,Léon Jost,other_burial_places,-1.5659193,47.2223091
+14508,Charles Edouard La Jaille (Comte de),other_burial_places,-1.5411761,47.2221489
+14509,Jean-Baptiste Barré,other_burial_places,-1.6817414,48.1254921
+14510,Nicolas de Staël,other_burial_places,2.3172925,48.8234177
+14511,Jean-Baptiste Apollinaire Lebas,other_burial_places,2.3914349,48.8608322
+14512,Charles-Joseph Panckoucke,other_burial_places,2.3947165,48.8593674
+14513,Cino Del Duca,other_burial_places,2.392509,48.8615265
+14514,Louis Blanc,other_burial_places,2.3912859,48.8617783
+14515,Georges Bizet,other_burial_places,2.3917868,48.8623238
+14516,Maurice Merleau-Ponty,other_burial_places,2.3931959,48.8622856
+14517,Jean-Adolphe Beaucé,other_burial_places,2.39341,48.8628922
+14518,Antoine Balthazar Joachim d'André,other_burial_places,2.395365,48.8583984
+14519,Guillaume Dupuytren,other_burial_places,2.396801,48.8588867
+14520,Étienne Geoffroy Saint-Hilaire,other_burial_places,2.3950255,48.8595543
+14521,Gaston Tissandier,other_burial_places,2.395298,48.8597031
+14522,Nicolas Ponce,other_burial_places,2.3973999,48.8592567
+14523,André Gill,other_burial_places,2.3969939,48.8602829
+14524,Tony Aubin,other_burial_places,2.3973949,48.8610992
+14525,Jacques Duclos,other_burial_places,2.3998258,48.8598862
+14526,Zénobe Gramme,other_burial_places,2.3978951,48.8608322
+14527,Félix Galipaux,other_burial_places,2.3981049,48.8615532
+14528,Alain,other_burial_places,2.399096,48.8610153
+14533,Arthur Regnault,other_burial_places,-1.6829882,48.1271248
+14535,Noe Zhordania,other_burial_places,2.2663105,48.6222687
+14538,Barthélémy Pocquet du Haut-Jussé,other_burial_places,-1.68042,48.1254387
+14539,Louis Arthur Le Moyne de la Borderie,other_burial_places,-1.6801614,48.1260605
+14541,Claude Monet,other_burial_places,1.5239393,49.077549
+14542,Ivan Bunin,other_burial_places,2.3446143,48.6316147
+14577,église Saint-Martin de Courcoury,other_churches,-0.5803429,45.7123985
+14585,Chapelle Saint-Jean-d'Épileur,other_churches,-2.0485787,47.6766624
+14788,église Notre-Dame-de-l'Annonciation de Roumanou,other_churches,1.9671904,43.9945259
+14816,Église Saint-Michel-des-Lions à Limoges,other_churches,1.2571815,45.8304558
+14855,église de l'Annonciation de Haute-Isle,other_churches,1.6591433,49.0835266
+14869,Church Saint-Sauveur of Coucy-le-Chateau-Auffrique,other_churches,3.325726,49.5200157
+14874,Saint-Pierre d'Extravache,other_churches,6.8045592,45.2163811
+14877,Lanslevillard,other_churches,6.9112344,45.2896156
+14878,Église Saint-Laurent de Sutrieu,other_churches,5.6594338,45.9507561
+14908,Centre d'incendie et de secours de Jussey,other_churches,5.9037714,47.8261528
+14909,chapelle Notre Dame du Grasweg,other_churches,7.5761776,48.3586617
+14910,Chapelle Saint-Ludan,other_churches,7.6657491,48.4679298
+14912,Église protestante Saint-Michel d'Allenwiller,other_churches,7.3746295,48.6550407
+14913,Église protestante (Wimmenau),other_churches,7.4152126,48.9122238
+14914,Chapelle Notre-Dame de Mouterhouse,other_churches,7.444521,48.9892845
+14915,Chapelle notre Dame de Bon Secours,other_churches,7.4438839,48.9891357
+14916,Rue Sainte-Madeleine (Krutenau),other_churches,7.7538199,48.5797081
+14920,Hackenberg - B11,other_churches,6.3684649,49.3483238
+14921,Hackenberg - B24,other_churches,6.3711472,49.349308
+14922,Chapelle du Hackenberg,other_churches,6.3694353,49.3484421
+15019,Église Notre-Dame de Jazennes,other_churches,-0.6172314,45.5822296
+15020,Église Saint-Collodan de Plogoff,other_churches,-4.6655202,48.0377083
+15021,Église Saint-Jean-Baptiste de La Feuillée,other_churches,-3.8545387,48.391468
+15022,Ancienne église de Paimpol,other_churches,-3.0486,48.7786751
+15023,"Chapelle du lycée Lebrun, Coutances",other_churches,-1.4423759,49.0459404
+15041,Église Sainte-Marthe,other_churches,1.7554895,42.770153
+15042,Chapelle Saint-Pierre,other_churches,2.6203272,42.463604
+15043,Église Saint-Pierre-et-Saint-Phébade de Venerque,other_churches,1.4425111,43.4329071
+15045,église Sainte-Foy-de-Jérusalem de Pont-du-Casse,other_churches,0.6906111,44.2541618
+15046,Église de Pechbonnieu,other_churches,1.4666253,43.7028732
+15085,Domaine de Banizette,other_museums,2.0687146,45.8663979
+15086,Abbaye Notre-Dame de l'Étoile,other_museums,0.7034222,46.6538849
+15317,Maison du Saint-Nectaire,other_museums,2.9897351,45.5878754
+15318,Fondation Claude Monet,other_museums,1.5337883,49.0753479
+15334,La Roche-aux-Fées,other_museums,-1.4032997,47.9365692
+15337,Maison Rouge,other_museums,3.8861921,44.1035461
+15347,Maison desÉtats généraux,other_museums,0.2376518,47.167263
+15348,Chateau de Saché,other_museums,0.5446441,47.2458
+15349,Maison Mantin,other_museums,3.3304284,46.5668526
+15350,Hôtel de Mauroy,other_museums,4.073276,48.2947083
+15351,Hôtel des sires de Neuchatel,other_museums,6.3609581,47.3527145
+15361,Maison du Doyenné,other_museums,3.3855722,45.2936516
+15362,La Plateforme - Centre d'information sur les projets urbains,other_museums,5.7332788,45.1895828
+15363,Musée Salies,other_museums,0.1461955,43.0627136
+15369,Logis Tiphaine-de-Raguenel,other_museums,-1.5102893,48.6362877
+15370,"18 rue Quesnel-Morinière, Coutances",other_museums,-1.4467419,49.0472298
+15372,"Collégiale Saint-Pierre, La Romieu",other_museums,0.4985552,43.9815254
+15373,Les Abattoirs,other_museums,1.4295989,43.6009178
+15374,Cinémathèque de Toulouse,other_museums,1.4414765,43.6068687
+15375,Chateau de Dourdan,other_museums,2.0114281,48.5299683
+15376,Chateau de Fitou,other_museums,2.9772086,42.8935966
+15383,Villa Majorelle,other_museums,6.1638694,48.6854744
+15385,Chateau d'eau,other_museums,1.4369308,43.5986938
+15396,castle of Montal,other_museums,1.8684273,44.8604355
+15416,Église Saint-Médard de Cheviré-le-Rouge,other_museums,-0.1839772,47.5952301
+15417,Maison d'artiste de la Grande Vigne,other_museums,-2.0333211,48.4616699
+15418,Bayeux Embroidery,other_museums,-0.6999609,49.2743568
+15425,Musée de la mine de Cagnac-les-Mines,other_museums,2.1338639,43.9918671
+15431,Chateau de la Verrerie,other_museums,4.4242988,46.8055344
+15432,Musée Claude-Debussy,other_museums,2.0926967,48.8968506
+15433,Musée Albert-Kahn,other_museums,2.2270832,48.8414879
+15434,Hôtel de Sully,other_museums,2.3636765,48.8546181
+15435,Musée industriel de la Corderie Vallois,other_museums,1.047919,49.4951706
+15443,Hospice d'Havré,other_museums,3.1631846,50.7206688
+15461,Maison Claude Debussy,other_museums,2.0927098,48.8968735
+15463,Maison forte de Reignac,other_museums,1.0552436,44.9795074
+15466,"Maison du Présidial, Saintes",other_museums,-0.6320099,45.7466011
+15470,Ancien couvent des Ursulines,other_museums,-3.547456,47.8696098
+15473,Musée de la nacre et de la tabletterie,other_museums,2.1384349,49.2384529
+15474,Salines de Salins-les-Bains,other_museums,5.8761573,46.9376411
+15488,Cité des télécoms,other_museums,-3.52477,48.7865257
+15490,Four solaire,other_museums,2.1214616,42.5078239
+15492,Centre Mondial de la Paix,other_museums,5.3807764,49.1588707
+15493,Les Baraques du 14,other_museums,5.6403208,47.054882
+15498,synagogue de Sarrebourg,other_museums,7.0553398,48.7352219
+15524,Ferme de la forêt,other_museums,5.1188703,46.4664383
+15532,Musée Le Secq des Tournelles,other_museums,1.0952946,49.4444351
+15533,Hôtel des Créneaux,other_museums,1.9055471,47.9008827
+15535,Musée Bertrand,other_museums,1.6940387,46.8135872
+15536,Musée de l'Hospice Saint-Roch,other_museums,1.9942319,46.9449768
+15537,Hôtel de Fontfreyde,other_museums,3.0832572,45.7788963
+15538,Grand Trianon,other_museums,2.1050854,48.8149529
+15539,Maison de Pierre Corneille Ã  Petit-Couronne,other_museums,1.0212362,49.3895683
+15729,étangs de la Champagne humide,other_nature_conservation_areas,4.75,48.5833015
+15901,Camargue Regional Natural Park,other_nature_conservation_areas,4.5814719,43.5444183
+15902,Saint-Mandrier-sur-Mer,other_nature_conservation_areas,5.92658,43.0760994
+15907,Mont Preneley,other_nature_conservation_areas,4.0020514,46.9566841
+15957,Camps-la-Source,other_nature_conservation_areas,6.0957508,43.3851204
+15960,Île des Gords,other_nature_conservation_areas,2.51775,48.8089828
+15963,Mont César,other_nature_conservation_areas,2.2389667,49.3870697
+15965,La Source,other_nature_conservation_areas,6.0940356,43.3857574
+15992,Parc de la Fontaine aux Fées,other_nature_conservation_areas,4.9985003,47.3326073
+16010,Anse de Paulilles,other_nature_conservation_areas,3.1232631,42.5013084
+16078,Croix de Catuffe,other_temples,2.246644,43.1892509
+16079,Montolieu,other_temples,2.2150786,43.3096008
+16080,Croix du Buffre,other_temples,3.415848,44.2752991
+16081,episcopal palace of Montpellier,other_temples,3.8753664,43.6135483
+16086,Croix de cimetière de Montfermy,other_temples,2.8094106,45.8809166
+16087,Calvaire sur la place publique de Bredons,other_temples,2.8719554,45.1017876
+16088,Croix d'Ardes,other_temples,3.124532,45.4051437
+16089,Croix de chemin,other_temples,4.6996579,46.8089828
+16090,Croix de cimetière de Maisse,other_temples,2.3742404,48.3942757
+16091,Croix sur le chemin de Tillay,other_temples,1.8578687,49.1198654
+16092,Croix-autel de Juvisy-sur-Orge,other_temples,2.3773003,48.6876106
+16094,Sanctuaire des eaux gallo-romains du Déversoir,other_temples,2.8278506,47.8693848
+16095,Croix de carrefour,other_temples,4.5294142,48.3788986
+16097,Presbytère du Petit-Bornand-les-Glières,other_temples,6.3940501,46.0043755
+16101,Croix du bas du village,other_temples,6.4667387,47.2250557
+16102,Croix de cimetière de Chamesol,other_temples,6.8353815,47.3471794
+16103,Croix de Chemin,other_temples,6.9889436,47.6490135
+16104,Croix monumentale du Mont-Dahin,other_temples,6.5498276,47.8693161
+16131,Calvaire monumental de Pleyben,other_temples,-3.9698267,48.2267609
+16141,Hospice Saint-Jacques,other_temples,-0.3788754,48.9873123
+16144,Maison Carrée,other_temples,4.3561316,43.838192
+16146,Temple de Mercure,other_temples,2.9644728,45.7717743
+16151,Palais épiscopal d'Auxerre,other_temples,3.5738111,47.7981148
+16152,Palais archiépiscopal de Besançon,other_temples,6.0299649,47.2341576
+16155,Croix de la Couardière,other_temples,-2.3488922,47.9249802
+16156,Croix de mission,other_temples,4.5265284,48.3935776
+16163,Croix de cimetière d'Ahaxe,other_temples,-1.1641757,43.1502228
+16164,croix de cimetière (Saint-Germain-de-la-Rivière),other_temples,-0.3325346,44.9476051
+16165,Croix de Scouhel,other_temples,-3.3407423,47.8108826
+16166,Croix de Kermarquer,other_temples,-3.0819843,47.6478081
+16167,Croix de la route de Brech,other_temples,-2.9208372,47.7411118
+16171,Calvaire du Rohic,other_temples,-2.7174795,47.6640892
+16172,Calvaire de Bizole,other_temples,-2.6492753,47.6705437
+16173,Calvaire de Rochefort-en-Terre,other_temples,-2.3388581,47.6985664
+16174,Croix de cimetière de Louin,other_temples,-0.1663721,46.7984238
+16175,Chateau de la Sorinière,other_temples,-0.6982875,47.221077
+16176,Calvaire de la croix de Lochrist,other_temples,-3.2412605,47.9637222
+16177,Croix de Kerentrec'h,other_temples,-3.1062679,47.9764671
+16178,Calvaire de la Croix-de-Gohazé,other_temples,-2.9736633,48.0218353
+16179,Calvaire de la Croix-Rouge,other_temples,-3.265223,48.4613533
+16181,Croix de cimetière de Graces,other_temples,-3.1858246,48.5580521
+16182,Croix de la Villemeno,other_temples,-2.4859383,47.9226456
+16183,Croix de la Ville-Côte,other_temples,-2.4981613,47.9484367
+16184,Croix de la Brassée,other_temples,-2.5019057,47.957428
+16185,Croix de cimetière de Bréal-sous-Montfort,other_temples,-1.8683746,48.0483322
+16186,Croix de cimetière de Saint-Gilles,other_temples,-1.8292078,48.1538162
+16187,Croix du cimetière de Médréac,other_temples,-2.0582144,48.2686234
+16188,Croix de cimetière,other_temples,-0.0232682,49.2610588
+16200,croix de cimetière de Vinça,other_temples,2.5295873,42.6443367
+16202,Croix de métier de Fontiès-d'Aude,other_temples,2.4547794,43.1888428
+16203,Palais Episcopal,other_temples,2.5746295,44.3514404
+16204,Croix de Sainte-Geneviève-sur-Argence,other_temples,2.7533247,44.8139954
+16205,Chapelle Saint-Pancrace,other_temples,5.5961123,43.7816849
+16207,Chateau de Charmant,other_temples,0.1841446,45.4965134
+16208,Lanterne des morts,other_temples,0.348173,45.6700935
+16209,Croix de Lardillier,other_temples,1.8468771,46.1151352
+16210,Croix dite Croix Grande,other_temples,2.175585,45.7857895
+16211,Croix de Saint-Symphorien-de-Mahun,other_temples,4.5607557,45.1639633
+16214,Calvaire,other_temples,5.3666973,46.3607216
+16215,Tour de Grisset,other_temples,1.1837225,47.8964653
+16216,Croix du cimetière de Saint-Pierre-de-Mailloc,other_temples,0.3167367,49.0676384
+16217,Chapel,other_temples,2.1094775,48.815136
+16219,Croix Saint-Michel,other_temples,2.0420952,48.869854
+16221,Temples of Humankind,other_temples,2.3619721,48.8577843
+16222,Croix de cimetière de Noisy-le-Grand,other_temples,2.5476041,48.8510818
+16223,Croix de cimetière d'Ageville,other_temples,5.3547549,48.1104164
+16224,Croix de Verrières,other_temples,6.1265864,46.115345
+16226,Croix de La Planée,other_temples,6.2820907,46.8413124
+16227,Croix de Soing-Cubry-Charentenay,other_temples,5.8771544,47.5823746
+16228,Croix de Loray,other_temples,6.4964175,47.1528473
+16242,Commanderie des Templiers,other_temples,1.9651352,48.7650299
+16254,Temple romain de Chateau-Bas,other_temples,5.1971421,43.6819305
+16257,Presbytère de l'église Saint-Étienne-du-Mont,other_temples,2.3488348,48.8463631
+16259,Croix de Rignieux-le-Franc,other_temples,5.1893506,45.940712
+16260,Croix du cimetière de Bonzac,other_temples,-0.2157092,45.0046539
+16264,Croix du Mont,other_temples,6.4614372,47.2337837
+16266,Croix de Champerboux,other_temples,3.4109454,44.4095917
+16269,Sanctuaire de Mars Mullo,other_temples,0.1665785,47.9685707
+16281,Temple,other_temples,0.2153268,44.8407135
+16292,Croix de cimetière d'Aillas-le-Vieux (Sigalens),other_temples,-0.0329542,44.466404
+16293,croix de cimetière de Blésignac,other_temples,-0.2583817,44.7749901
+16294,Croix de Saint-Fiacre,other_temples,-2.9708843,47.665741
+16295,Croix du Gouah,other_temples,-2.9159958,47.7400703
+16296,Croix de cimetière de Marcillac,other_temples,-0.5263118,45.2651405
+16297,Croix du Congo,other_temples,-2.4738569,47.6838951
+16298,Calvary of Église Saint-Louis de Treffrin,other_temples,-3.5161211,48.3005371
+16299,Calvaire de Port-Arthur,other_temples,-2.9964688,47.968399
+16300,Croix du Salut,other_temples,-3.1742203,48.7821045
+16301,Croix de Treuliec,other_temples,-2.7792544,47.8724594
+16302,Croix de la Ville Martel,other_temples,-2.6280901,47.8981094
+16303,Croix de Rougentin,other_temples,-2.4918969,47.9062843
+16304,Croix de Belon,other_temples,-2.4989631,47.9519386
+16305,Croix Boucher,other_temples,-2.3129137,47.8665543
+16306,Croix Guyot de Bezon,other_temples,-2.4227388,47.907795
+16307,Temple de Mars,other_temples,-2.1465025,48.4717293
+16308,Croix du cimetière de Clayes,other_temples,-1.8527813,48.1761131
+16309,Croix de Bonabry,other_temples,-2.6560962,48.5159111
+16310,Croix du cimetière de Roz-Landrieux,other_temples,-1.8153486,48.543541
+16312,Croix du cimetière de Malloué,other_temples,-0.9598581,48.9388695
+16313,Croix Servin,other_temples,-0.0821819,48.733387
+16314,Croix des Damiens,other_temples,-1.3941963,49.4749565
+16327,Croix en pierre,other_temples,1.7526234,43.1984367
+16329,Croix Saint-Eutrope,other_temples,2.5473068,43.9267464
+16330,Fort de Salses,other_temples,2.9187315,42.8397942
+16331,Croix de chemin dite Croix rouge,other_temples,4.7536087,44.7191353
+16335,Temple d'Auguste et de Livie,other_temples,4.8742938,45.5254745
+16336,Calvaire-fontaine,other_temples,4.9520588,45.8238068
+16337,Croix de cimetière de Chenôves,other_temples,4.6717935,46.6711807
+16338,Croix de cimetière de Saint-Loup-de-Varennes,other_temples,4.8620529,46.7253876
+16339,Cloitre saint Vincent,other_temples,4.8591976,46.7822647
+16340,Croix Machefer,other_temples,5.0475407,47.3107414
+16341,Croix de cimetière d'Omerville,other_temples,1.7198733,49.1407166
+16342,Gallo-Roman temple in Halatte forest,other_temples,2.6253548,49.2421074
+16343,Croix de cimetière de Laubressel,other_temples,4.2137504,48.2982063
+16344,Croix des Changes,other_temples,3.2878745,48.5624733
+16345,Calvaire de Megève,other_temples,6.6264367,45.8558922
+16347,Croix de cimetière de Laval-le-Prieuré,other_temples,6.6214347,47.1818352
+16354,Chateau de Belvès,other_temples,1.0058037,44.7761841
+16355,Tour Malakoff,other_temples,3.7974167,47.5368614
+16356,Collège des Jésuites de Gray,other_temples,5.5880032,47.4472122
+16361,Ermitage Saint-Eugène de Chassagnes,other_temples,4.1755538,44.4035606
+16362,Temple de l'Amitié,other_temples,2.3353913,48.8555489
+16366,Croix de Saint-Julien-de-Sennecey,other_temples,4.8606882,46.635994
+16368,Croix des Pèlerins de Belin-Béliet,other_temples,-0.8030964,44.4711761
+16371,croix de Sirod,other_temples,5.9888659,46.7296028
+16373,Dolmen de Cruz-Menquen,other_temples,-3.0804982,47.5883865
+16378,Croix de cimetière de Charnay-lès-Chalon,other_temples,5.0969672,46.9419899
+16379,Croix de la Carmoterie,other_temples,4.6056762,49.61166
+16383,Croix romane,other_temples,2.1846061,49.1258354
+16384,Croix de cimetière de Poivres,other_temples,4.257987,48.684166
+16388,Croix de cimetière du Pout,other_temples,-0.3595208,44.8025398
+16391,Croix de la Ville au Jau,other_temples,-2.3176506,47.3072357
+16392,Croix de Carlahoux,other_temples,-2.2921045,47.638195
+16393,Calvary at Tronoën,other_temples,-4.3283315,47.8560295
+16394,Calvaire de Plougastel,other_temples,-4.3700781,48.3739319
+16395,Croix de Saint-Zénon,other_temples,-3.143522,48.0724297
+16396,Croix de Kervoënno,other_temples,-3.4935484,48.7458229
+16398,Croix Forhan,other_temples,-2.6218755,47.9495964
+16399,Croix de Bezon,other_temples,-2.4211111,47.9142761
+16400,Croix de Villenard,other_temples,-2.3514178,47.9165688
+16401,Croix aux Morts,other_temples,-2.3661644,47.9250107
+16402,Croix de la Belle Place,other_temples,-2.6612504,48.3488731
+16403,Croix du Mesnil-Sauvage,other_temples,-1.0055428,48.931076
+16418,Temple gallo-romain de type fanum,other_temples,2.4355705,44.9197693
+16419,Croix de Marbre,other_temples,7.2627382,43.6961365
+16421,Oratoire du Sartre,other_temples,2.7136378,45.1814613
+16423,Croix de Cleyssac,other_temples,3.9698782,45.1084213
+16424,Croix monumentale du Crestet,other_temples,4.6518097,45.0142441
+16426,Croix de chemin de Bans,other_temples,5.5828385,46.9826813
+16427,Croix du Chatillonnais,other_temples,4.6441283,47.6979866
+16428,Croix de cimetière de Cheffreville-Tonnencourt,other_temples,0.2454637,49.0317764
+16430,Croix de l'Ormeteau-Marie,other_temples,1.8949018,49.0867043
+16432,Croix percée de Neaufles-Saint-Martin,other_temples,1.7442501,49.2752609
+16433,Cross crossroads Fouchères,other_temples,4.2649546,48.1491165
+16434,Trois croix de chemin,other_temples,4.6390791,49.5413055
+16435,Calvaire de Jandun,other_temples,4.5593152,49.6633453
+16437,Mont-Calvaire,other_temples,6.259882,46.9501953
+16438,Croix monumentale,other_temples,5.9313006,47.6467361
+16439,Croix de 1592,other_temples,6.0725732,47.6381187
+16440,Croix Saint-Pierre,other_temples,6.5755515,47.5655556
+16444,Forges de Varigney,other_temples,6.2108936,47.8339043
+16445,Croix de calvaire,other_temples,6.4310789,47.878849
+16454,Oratoire de Saint-Guirec,other_temples,-3.4871752,48.8323021
+16456,Couvent des Cordeliers,other_temples,1.612722,43.1175041
+16458,Calvaire des marins,other_temples,1.5978429,50.7330742
+16465,tour du Gloeckelsberg,other_temples,7.6059375,48.5092812
+16466,Grand Séminaire de Strasbourg,other_temples,7.7518091,48.5824013
+16471,Gallo-Roman Sanctuary at Bû,other_temples,1.4995093,48.8160629
+16476,Oratoire Notre-Dame-de-la-Grêle,other_temples,6.6672821,47.5147247
+16488,Sanctuaire de Cybèle,other_temples,4.8186255,45.7595901
+16489,Calvaire de Callac,other_temples,-2.5728979,47.8064194
+16490,Croix du cimetière de Pléchatel,other_temples,-1.7504041,47.8958511
+16492,Domaine du sanctuaire de Lourdes,other_temples,-0.0587496,43.0973778
+16493,Croix de cimetière de Mons,other_temples,-0.8051938,44.4715042
+16494,croix de cimetière de Daignac,other_temples,-0.2499192,44.7975426
+16495,Commanderie Saint-Jean,other_temples,-0.2044076,45.3949699
+16499,Croix des Douleurs,other_temples,-2.4799805,47.2785873
+16500,Croix du Dernier,other_temples,-2.278235,47.2680092
+16501,Croix du chemin de Coëtcandec,other_temples,-2.7678843,47.7620506
+16502,Croix de Saint-Bily,other_temples,-2.6383603,47.7766647
+16503,Croix de Saint-Clair,other_temples,-2.3553081,47.6528854
+16504,Croix de Gorays,other_temples,-2.4109468,47.7748375
+16505,Hôpital Saint-Jean de Montreuil-Bellay,other_temples,-0.1560186,47.1290169
+16507,Calvaire de Locmeltro,other_temples,-3.1457109,48.0470924
+16509,Croix des prêtres,other_temples,-2.572037,48.0127144
+16510,Croix de cimetière de Moigné,other_temples,-1.7744486,48.0799942
+16511,Croix du cimetière de Bourgbarré,other_temples,-1.6152244,47.9970207
+16524,Croix Noell,other_temples,2.5302434,42.6476173
+16526,Croix de cimetière de Saint-Martin-le-Vieil,other_temples,2.1462708,43.2925606
+16527,Sainte Coiffe de Cahors,other_temples,1.4432383,44.4472351
+16528,Crypte Saint-Amadour,other_temples,1.617795,44.7995338
+16529,Croix couverte,other_temples,6.6713133,43.9611282
+16530,Croix de la Tuilière,other_temples,0.3319235,45.7801056
+16531,Sanctuaire gallo-romain,other_temples,2.4262683,45.4507484
+16532,Croix de chemin du XVIe siècle de Saint-Michel-de-Veisse,other_temples,2.0762115,45.9633904
+16533,Aumônerie de Saint-Martin,other_temples,0.6813174,47.3924484
+16534,Croix des Thianges,other_temples,2.5993121,46.6941986
+16535,Croix de Mons,other_temples,2.9556327,45.1588707
+16537,Autel du Taurobole,other_temples,4.8369451,45.0716133
+16540,Croix Bernadotte,other_temples,4.8053308,46.5300941
+16541,Groupe cathédral et canonial d'Autun,other_temples,4.2999911,46.9449997
+16542,Croix de Créteuil,other_temples,4.774188,46.9104462
+16543,Well of Moses,other_temples,5.0167871,47.3207664
+16544,Croix de Chandry,other_temples,1.5749042,47.8984222
+16545,Croix du cimetière,other_temples,0.002418,49.2690163
+16546,Ancienne léproserie Saint-Lazare,other_temples,1.7636172,49.2795753
+16618,Saint-Maurice,religion,-3.529315,47.805336
+16657,Abbaye Notre-Dame-de-Langonnet,religion,-3.4326799,48.1060677
+16666,Croix hosannière de Plouezoc'h,religion,-3.8210099,48.6390533
+16683,église Saint-Georges de Montchaton,religion,-1.5027343,49.0135269
+16684,église Saint-Georges (Saint-Georges-de-Chesné),religion,-1.2901434,48.2728691
+16685,église Sainte-Marie-Madeleine de Forcé,religion,-0.7014205,48.0338898
+16902,église Saint-Pierre-aux-Liens d'Éget,religion,0.2716288,42.7977638
+16954,église Saint-Sixte de Saint-Martin-de-Beauville,religion,0.8301175,44.2377777
+16956,église Saint-Férreol de Lentignac,religion,0.5876322,44.5273476
+16968,église Saint-Étienne de Belcastel,religion,1.7552035,43.6491318
+16992,église Saint-Rémi de Saint-Rémy-de-Chaudes-Aigues,religion,3.0308387,44.7756653
+17025,Église Saint-Martin-de-Tours d'Oradour-sur-Glane,religion,1.0405924,45.9282722
+17026,Église Saint-Michel-des-Lions Ã  Limoges,religion,1.2571815,45.8304558
+17027,église Saint-Martin d'Oradour-Fanais,religion,0.7807499,46.1198959
+17068,monument aux morts,sculptures,0.725086,43.1072197
+17071,The Naiad of Vors,sculptures,2.5734353,44.3494186
+17080,Mire de l'Observatoire,sculptures,2.3367436,48.8210373
+17083,Fontaine Saint-Sulpice,sculptures,2.3332777,48.8508644
+17135,La Chouette,sculptures,5.0415516,47.3227921
+17136,Croix de cimetière de Puellemontier,sculptures,4.7009149,48.4963036
+17198,Statue de d'Artagnan,sculptures,0.587218,43.645546
+17201,Place de la Fontaine,sculptures,6.4077916,43.913456
+17204,Fontaine du Pont Joubert,sculptures,0.3539893,46.5811539
+17205,Fontaine des Quatre-Saisons,sculptures,3.1096952,45.7933769
+17206,Fontaine Saint-Lazare,sculptures,4.2991734,46.9454117
+17207,Luxor Obelisk,sculptures,2.3211305,48.8654747
+17208,Jeanne au bÃ»cher by Maxime Real del Sarte,sculptures,1.0880296,49.4431496
+17209,Gros-Horloge,sculptures,1.0912381,49.4415359
+17212,Gros Horloge,sculptures,1.0918994,49.4412842
+17215,Fontaine des Clarisses,sculptures,6.0227909,47.2363739
+17216,Fontaine-lavoir,sculptures,6.4819903,47.5082703
+17218,Fontaine de l'Ours,sculptures,7.4250259,48.3237038
+17222,Statue San Martin,sculptures,1.5949875,50.7320824
+17223,Fontaine Saint-Chrysole,sculptures,2.9953592,50.6835594
+17235,Fontaine d'Aigoulène,sculptures,1.2573037,45.8302307
+17244,Fontaine de l'ange,sculptures,5.0485964,44.0552979
+17245,Fontaine Attiret,sculptures,5.4920774,47.0918388
+17246,Fontaine de Saint-Paul-de-Vence,sculptures,7.1220579,43.6965485
+17247,Saint-Vrain obelisk,sculptures,2.3133891,48.5437126
+17252,Fontaine Sainte-Anne,sculptures,-2.6661749,47.909935
+17256,Medici Fountain,sculptures,2.3392944,48.8480568
+17257,Fontaine Saint-jean-Baptiste,sculptures,-2.5960953,47.6390991
+17258,Fontaine Sainte Marie,sculptures,-2.3976569,47.5878181
+17259,Fontaine du Pied-Boulet,sculptures,-0.5566148,47.4719963
+17261,Fontaine de Diane,sculptures,0.6237932,43.932518
+17262,Fontaine des Mascarons,sculptures,5.0231233,44.2057457
+17263,Fontaine des Tritons,sculptures,7.2685881,43.6956596
+17264,Fontaine du Soleil,sculptures,7.2706075,43.6964989
+17265,Fontaine du Plot,sculptures,3.8825932,45.0433235
+17266,Fontaine de la Flèche,sculptures,3.0901241,45.7789001
+17267,Fontaine des Jacobins,sculptures,4.8335357,45.7605133
+17268,Fontaine du Patis,sculptures,3.9720109,47.8592758
+17270,Fontaine du Cygne,sculptures,6.2614923,47.4653244
+17281,Fontaine Saint-Roch,sculptures,-3.2690146,47.8967781
+17282,Saint,sculptures,-0.0494419,49.2986336
+17285,Le Triomphe de 1810,sculptures,2.2951102,48.8736038
+17291,Maison dite de Vannes et sa femme,sculptures,-2.7575676,47.6566315
+17293,Fontaine du Saint,sculptures,-2.5396676,47.6889496
+17295,Fontaine Trogneux,sculptures,2.3737345,48.8519974
+17296,Sainte-Marie,sculptures,1.1005869,49.447155
+17297,De la Fontaine,sculptures,7.1218963,43.6968384
+17298,Les Fables de la Fontaine,sculptures,2.3022745,48.8583374
+17299,La Fontaine de Mars,sculptures,2.3025455,48.8584175
+17300,La Fontaine Gaillon,sculptures,2.3343055,48.8690681
+17303,Fontaine Saint-Clair,sculptures,-0.8064572,44.4715195
+17304,fontaine Amédée-Larrieu,sculptures,-0.5814423,44.8302231
+17305,Statue de Tourville,sculptures,-1.5449963,49.0454903
+17306,La Tourvillaise,sculptures,-1.5443479,49.0457878
+17314,Monument a LluÃ­s Companys,sculptures,2.801369,42.4219589
+17315,Fontaine des Neuf Jets,sculptures,2.7478089,42.4847565
+17317,Fontaine publique du 18s,sculptures,4.8094559,44.1365128
+17320,Fontaine du Peyra,sculptures,7.1126466,43.7227745
+17321,Statue de Masséna,sculptures,7.2736077,43.6979485
+17323,Fontaine de la CabraÃ¯a,sculptures,7.447607,43.8776512
+17324,Niche abritant une PietÃ  (Burgy),sculptures,4.8320045,46.4634399
+17325,Fontaine Cuvier,sculptures,2.3550231,48.8439903
+17326,Fontaine Saint-Michel,sculptures,2.3437259,48.8531952
+17328,Fontaine type Wallace,sculptures,4.0434866,49.2476578
+17332,Sculpture tricéphale de Lugrin,sculptures,6.6585312,46.3982887
+17333,Fontaine des Dames,sculptures,6.023406,47.2329102
+17336,Fontaine Coislin,sculptures,6.1807752,49.114399
+17337,Fontaine de Saint-Léon,sculptures,7.3063717,48.0427132
+17338,Fontaine aux Abeilles,sculptures,7.7859483,48.8136597
+17346,Fontaine de 1829,sculptures,4.74335,46.7814713
+17358,Fontaine de Trescoët,sculptures,-3.3180642,47.8389893
+17361,Fontaine Saint-Adrien,sculptures,-3.0757616,47.912365
+17362,Fontaine de la Vierge,sculptures,-2.5429876,47.9534531
+17364,Fontaine de la Trinité,sculptures,1.4440782,43.5997276
+17365,Fontaine Fossati,sculptures,5.3806009,43.299118
+17370,Fontaine du Pont-de-Cité,sculptures,2.7683854,50.2928047
+17377,Méridienne d'Orveau-Bellesauve,sculptures,2.3366759,48.2870293
+17378,Cuvier,sculptures,2.3569322,48.8445015
+17380,Statue de Faidherbe,sculptures,3.0618398,50.6319618
+17388,Monument aux morts 1870-1871 de Limoges,sculptures,1.2646279,45.8327827
+17391,Tombe du Dragon,sculptures,2.3954921,48.859024
+17394,Fontaine de la Roquette,sculptures,2.3748531,48.8556061
+17396,Lion of Belfort,sculptures,2.3324656,48.8343315
+17397,Jeanne d'Arc,sculptures,2.3321872,48.8638802
+17405,San Juan Arri,sculptures,-1.7887483,43.3382645
+17408,Fontaine Saint-Eloi,sculptures,-2.8148444,47.8744621
+17409,Fontaine Saint-Colomban,sculptures,-2.8368537,47.8891678
+17410,Chapelle des Sept-Saints,sculptures,-3.4238706,48.6326637
+17411,Fontaine de La Pompe,sculptures,-3.1517661,48.5619354
+17412,Fontaine Saint-Fiacre,sculptures,-2.7234476,47.9629517
+17434,Statue de Gambetta,sculptures,1.4409457,44.4453659
+17436,Fontaine des Trois Graces,sculptures,3.8794999,43.6084709
+17437,Fontaine du Griffon de Soubeyran,sculptures,3.4990938,44.5166245
+17440,La Grande Fontaine,sculptures,5.9853764,43.8371773
+17443,Inscription de la PierreÉcrite,sculptures,6.0103936,44.2350616
+17445,Place Fontaine des Barres,sculptures,1.2570012,45.8319626
+17446,Statue de Denis Papin,sculptures,1.3332535,47.5879517
+17447,Saint-Michel,sculptures,1.7299792,46.4260406
+17448,Fontaine de l'Ange,sculptures,3.882513,45.0455284
+17449,Horloge Charvet,sculptures,4.827642,45.763958
+17450,Fontaine-lavoir de Collonges,sculptures,5.36906,45.888401
+17451,Statue Xavier Bichat,sculptures,5.2243409,46.207077
+17452,Monument Pershing - Lafayette,sculptures,2.1556439,48.8133316
+17453,Monument to the Republic,sculptures,2.3638122,48.8675041
+17454,Saint-Augustin obelisk,sculptures,3.0241528,48.7611618
+17455,Statue de Racine,sculptures,3.1261873,49.1757278
+17456,Monument de la Clairon,sculptures,3.5912104,50.4476395
+17472,Buste de Grandville,sculptures,6.1807127,48.6987686
+17475,Pyramide de Cassini,sculptures,2.3662312,48.7983131
+17479,Fontaine de la Peute Bête,sculptures,5.1840658,47.7407684
+17481,Obélisque d'Arles,sculptures,4.6276016,43.6764221
+17483,Jean Racine,sculptures,3.1277273,49.1748848
+17484,Place Saint-Michel,sculptures,5.7809968,43.9586525
+17485,Fontaine de la Place de l'hôtel de ville,sculptures,7.3189158,48.1950569
+17487,Fontaine Saint-Servais,sculptures,-2.5955434,47.6046906
+17488,Fontaine du Burgo,sculptures,-2.8098722,47.7528648
+17489,Fontaine de Burgo,sculptures,-2.8093216,47.7547417
+17490,Fontaine Napoléon de Bouligney,sculptures,6.241159,47.8945885
+17492,Fontaine Chataigner,sculptures,2.9484873,47.6992188
+17493,Fontaine et lavoir,sculptures,4.8676038,46.6460419
+17494,Fontaine de la Clarté,sculptures,-3.015377,47.8761253
+17495,Fontaine de Saint-Bieuzy,sculptures,-3.0665214,47.9823456
+17496,Clémence Isaure fountain,sculptures,1.4455549,43.6122971
+17497,Fontaine Pascal,sculptures,5.4439535,43.5295067
+17498,Fontaine des Bagniers,sculptures,5.4492168,43.5288734
+17499,Fontaine des Thermes Sextius,sculptures,5.4443836,43.5308685
+17502,Fontaine des Barres,sculptures,1.2568884,45.8319969
+17503,Fontaine de Monthyon,sculptures,2.3310897,45.218708
+17505,Fontaine aux Dauphins,sculptures,6.997673,47.774601
+17522,Monument to Charles Mathieu,sculptures,3.3536186,50.3148994
+17524,Cardinal de Richelieu,sculptures,0.3243743,47.0110817
+17529,Monument national de la seconde bataille de la Marne,sculptures,3.409142,49.2141914
+17530,La Tour aux Figures,sculptures,2.2584698,48.8285027
+17531,Fontaine Sainte-Croix,sculptures,6.1786356,49.1198654
+17532,Le Clos de la Fontaine,sculptures,-3.1503353,48.5631332
+17535,Fontaine des Tables,sculptures,3.8828309,45.0454369
+17536,Grande fontaine-lavoir de Velotte,sculptures,6.4223967,47.6811028
+17541,Fontaine de la Grave,sculptures,-0.5640274,44.8352432
+17543,Église Notre-Dame (Béhuard),sculptures,-0.6437121,47.3799973
+17544,Fontaine Saint Bertin,sculptures,-2.477736,47.9087715
+17552,Parc Robillard,tourist_object,-0.4505722,44.9948044
+17562,Rivière souterraine de Labouiche,tourist_object,1.5744529,43.0030174
+17563,Grottes de la Devèze-Roquebleue,tourist_object,2.7131791,43.4738541
+17564,Chemin de fer touristique du Tarn,tourist_object,1.7630833,43.7641106
+17565,Vieux-Port,tourist_object,5.3692813,43.2945786
+17566,Dentelles de Montmirail,tourist_object,5.0342283,44.1577301
+17567,Fontaine Ardente,tourist_object,5.6243682,44.9887581
+17568,Gare de La Chatre,tourist_object,1.9857427,46.5905037
+17569,Noyers,tourist_object,3.9955475,47.6957054
+17570,Spillway of Jargeau,tourist_object,2.1445525,47.8553619
+17571,Rue des Eaux,tourist_object,2.28408,48.8575668
+17572,Bibliothèque de l'Assemblée Nationale,tourist_object,2.3184896,48.8613052
+17573,Le Chêne de Saint-Jean,tourist_object,2.9027507,49.3558617
+17574,Les pertes de l'Ain,tourist_object,5.9591799,46.7243042
+17582,Les Bourgeois de Calais,tourist_object,1.8534391,50.9523468
+17589,Centre Wallonie-Bruxelles,tourist_object,2.3511155,48.8609543
+17590,L'Oasis d'Aboukir,tourist_object,2.3476243,48.8680763
+17591,Thermes de Challes-les-Eaux,tourist_object,5.9882121,45.5503769
+17600,Menez Ham,tourist_object,-4.3716283,48.6671791
+17601,Star Tours: The Adventures Continue,tourist_object,2.7794528,48.8752213
+17605,Pas de Peyrol,tourist_object,2.6717463,45.1140976
+17607,Gorges de l'Orbieu,tourist_object,2.4767549,42.9759941
+17612,Le Train de la Rhune,tourist_object,-1.6007645,43.3251648
+17614,La Verna,tourist_object,-0.7962155,42.9795189
+17621,Gare de La Plage-d'Hyères,tourist_object,6.1565537,43.0865364
+17622,Scénovision,tourist_object,1.627704,46.1195679
+17623,Marteau-Pilon,tourist_object,4.4329128,46.7866364
+17624,Domaine du Chateau de Meursault,tourist_object,4.77321,46.974102
+17625,Rue des Rosiers,tourist_object,2.3581374,48.8577881
+17626,Avenue des Champs-Élysées,tourist_object,2.3053312,48.8707581
+17632,Ecluse de Rechicourt,tourist_object,6.8453026,48.6921768
+17645,Hôtel de Bruni,tourist_object,1.4419657,43.5975456
+17646,Maison-forte des Cassard,tourist_object,5.9791551,45.4082108
+17659,Chapelotte,tourist_object,6.9556723,48.4833755
+17662,National Assembly,tourist_object,2.3179739,48.8617592
+17673,Lou Bielh Cassou,tourist_object,-1.0099484,43.7458611
+17679,Rue de l'Homme-armé,tourist_object,1.4431863,43.5947304
+17681,Aile Nord,tourist_object,2.1221097,48.8056145
+17701,Chêne de Saint-Vincent-de-Paul,tourist_object,-1.0107619,43.7470512
+17707,"Pont des Golettes, sur l'Hermance.",tourist_object,6.2375655,46.2777328
+17709,L'auberge Rouge de Peyrebelle,tourist_object,3.9727116,44.7551842
+17710,Gros Tilleul,tourist_object,6.7266359,46.0834999
+17718,University of Paris 1 Pantheon-Sorbonne,tourist_object,2.3436034,48.8486366
+17721,"Chateau de Beauregard, La Celle-Saint-Cloud",tourist_object,2.1243031,48.8408051
+17731,Puerto de Bujaruelo,tourist_object,-0.0641454,42.7038803
+17732,Machines of the Isle of Nantes,tourist_object,-1.5633466,47.2050095
+17734,Gare des Epesses,tourist_object,-0.9593555,46.8733406
+17743,Hôtel Aldeguier,tourist_object,1.4419961,43.5972595
+17744,Le Corum,tourist_object,3.8821409,43.6130066
+17746,Saint-Julien-d'Ance,tourist_object,3.9248762,45.3028755
+17747,Vigne du Clos Montmartre,tourist_object,2.3401825,48.8882256
+17762,Carrousel des Mondes Marins,tourist_object,-1.5677844,47.2059021
+17771,Ancienne Chocolaterie Menier,tourist_object,2.6217043,48.8571434
+17784,Le Claps,tourist_object,5.4605122,44.6029434
+17785,Maison natale des frères Lumière,tourist_object,6.0291076,47.2349968
+17786,Ancienne Gare,tourist_object,6.1717243,49.1100655
+17793,Chambretaud,tourist_object,-0.950241,46.9142799
+17795,Port Racine,tourist_object,-1.8965808,49.7121315
+17808,FRAC,tourist_object,1.8967377,47.9040451
+17823,Ilot Blanc,tourist_object,2.0310273,48.9325333
+17836,La Hottée de Gargantua,tourist_object,3.5425925,49.5568199
+17837,Port de Capbreton,tourist_object,-1.4357156,43.6518898
+17842,Archives Nationales,tourist_object,2.358566,48.8602905
+17844,Col du Tourmalet,tourist_object,0.1452852,42.90839
+17846,Enclos paroissial,tourist_object,-4.3171206,48.2464523
+17847,Hêtre de Ponthus,tourist_object,-2.2376015,48.0387154
+17853,Pente d'eau de Montech,tourist_object,1.2270008,43.9707413
+17854,Grottes de Maxange,tourist_object,0.9173797,44.8365936
+17855,Departmental archives of Bouches-du-Rhône,tourist_object,5.3702755,43.312439
+17856,La Maison Jaune de Van Gogh,tourist_object,4.6318746,43.6821899
+17857,Molinard Fragrances,tourist_object,6.9202614,43.6523666
+17858,Olivier Millénaire de Roquebrune-Cap-Martin,tourist_object,7.463304,43.764328
+17860,Chaine des Puys,tourist_object,2.9354696,45.78339
+17861,Le Gros Caillou,tourist_object,4.8350048,45.7745552
+17862,Rue Cler,tourist_object,2.3062174,48.8571548
+17863,rue Crémieux,tourist_object,2.3706393,48.8467522
+17864,Palacio d'Abraxas,tourist_object,2.5432961,48.8401031
+17865,Musilac ,tourist_object,5.8852234,45.7001152
+17866,Musilac Mont-Blanc,tourist_object,6.8766117,45.9292488
+17867,Turenne lime tree,tourist_object,6.9970717,47.6570969
+17875,Dudelange Radio Tower,tourist_object,6.0958595,49.4634018
+17893,Pont du Carroussel,tourist_object,2.3328879,48.8592987
+17894,Rue des barres,tourist_object,2.3552454,48.85532
+17895,Hippodrome de Longchamp,tourist_object,2.2329812,48.8577385
+17896,Ouvrage du Hochwald - BA901,tourist_object,7.8596392,48.9943504
+17899,Pont du Diable,tourist_object,4.2221346,44.6722488
+17915,Carrières de Bibémus,tourist_object,5.5010428,43.5312462
+17916,Cirque de Navacelles,tourist_object,3.5099781,43.8927612
+17917,Viaduc de Mirandol,tourist_object,3.814626,44.5481796
+17918,Clue de Barles,tourist_object,6.256042,44.23386
+17919,Orangerie,tourist_object,2.1189914,48.8031502
+17920,Pavillon Dufour,tourist_object,2.1217771,48.8040314
+17921,Carré Curial,tourist_object,5.9250321,45.5633087
+17926,Vaisseau Archipel (cadran solaire),tourist_object,6.8031678,47.5062828
+17932,La Schlucht,tourist_object,7.0214362,48.0630531
+17933,Maison de Rabelais,tourist_object,6.1784949,49.1185684
+17950,The Docks - City of Fashion and Design,tourist_object,2.3700676,48.8407669
+17955,Plateau de Malzéville,tourist_object,6.2053204,48.7257309
+17958,Cirque de Gavarnie,tourist_object,-0.0102956,42.6957397
+17962,La Cinéscénie,tourist_object,-0.9286984,46.8924408
+17968,Col du Soulor,tourist_object,-0.2612432,42.9606247
+17969,Funiculaire Pic du Jer,tourist_object,-0.0442426,43.0836639
+17972,Ship graveyard of Landévennec,tourist_object,-4.2806678,48.2882004
+17973,Pointe des Espagnols,tourist_object,-4.5318642,48.3417778
+17982,Montgiscard sluice,tourist_object,1.5703826,43.4633179
+17983,Carrières de Lumières,tourist_object,4.796206,43.7485695
+17986,Picasso's Arenas,tourist_object,2.5556023,48.8388443
+17987,Rue de l'Abreuvoir,tourist_object,2.3389711,48.8882103
+17988,La Poule Des Champs,tourist_object,4.4194016,49.198616
+18002,Maison de Richard Wagner,tourist_object,2.2307537,48.8154411
+18006,Adventure Isle,tourist_object,2.7737854,48.8725967
+18007,Pont Morland,tourist_object,2.3659914,48.8471146
+18008,Pau funicular,tourist_object,-0.3707507,43.2931252
+18036,Platanes du Roi de Rome,tourist_object,-1.1611,45.7118988
+18163,Cour des Voraces,unclassified_objects,4.834671,45.7719612
+18164,Prairies inondables du val de Saône,unclassified_objects,4.8056426,46.2216187
+18201,Office National d'Études et de Recherches Aérospatiales,unclassified_objects,2.2319446,48.7122231
+18205,Bastion des Pénitents,unclassified_objects,6.35537,44.3498001
+18207,Bibliothèques de Toulouse,unclassified_objects,1.44389,43.6074295
+18208,Clocher de tourmente d'Auriac,unclassified_objects,3.64972,44.4886017
+18209,Cour du Nom-de-Jésus,unclassified_objects,2.37305,48.8524017
+18210,Ensemble patrimonial de Saint-Étienne-du-Valdonnez,unclassified_objects,3.5955601,44.4336014
+18212,Vis de Saint-Gilles-du-Gard,unclassified_objects,4.4327998,43.6767006
+18215,Glade of the Armistice,unclassified_objects,2.90639,49.4272003
+18224,Pressoir de Goxwiller,unclassified_objects,7.4862099,48.4329987
+18225,Bastion Saint-André,unclassified_objects,7.12609,43.577301
+18233,Bibliothèque municipale de Chatillon-sur-Seine,unclassified_objects,4.57375,47.8585091
+18237,Garage Alizon,unclassified_objects,5.0324559,47.3257408
+18244,organ with cylinders mechanics on the church of Saint-Pierre de Nant,unclassified_objects,3.3014972,44.0216599
+18249,Triptych of the Virgin (Auxey-Duresses),unclassified_objects,4.7460399,46.9860001
+18254,Forêt de Rougeau,unclassified_objects,2.5250001,48.5830002
+18264,Bibliothèque interuniversitaire de Santé,unclassified_objects,2.3406999,48.8512001
+18267,Montagne Sainte-Victoire,unclassified_objects,5.645278,43.5391655
+18284,Municipal Media Toussaint,unclassified_objects,-0.55657,47.4687996
+18286,Clocher de tourmente des Sagnes,unclassified_objects,3.66167,44.4743996
+18287,cour Saint-Louis,unclassified_objects,2.37275,48.8527985
+18288,Garage hélicoïdal de Grenoble,unclassified_objects,5.72645,45.1908989
+18289,maison de santé protestante de Nîmes,unclassified_objects,4.3488221,43.8374329
+18290,Pipe organ of Saint-Sauveur cathedral in Vabres-l'Abbaye,unclassified_objects,2.8370199,43.9448013
+18292,Portail féodal de Banon,unclassified_objects,5.62749,44.0385017
+18314,Council of bishops chaired by the Virgin,unclassified_objects,4.6285696,43.6766243
+18316,Organ Clicquot of the Priory church in Souvigny,unclassified_objects,3.1931639,46.535038
+18317,Baptismal fonts of Église Notre-Dame de Croaz Batz,unclassified_objects,-3.9858899,48.7264709
+18319,Orme Saint-Gervais,unclassified_objects,2.3539,48.8524017
+18320,Site de Morette,unclassified_objects,6.28724,45.8984375
+18329,Vitraux de l'église Saint-Pierre de Bouvines,unclassified_objects,3.1872001,50.5797005
+18333,Northern French coal mining region,unclassified_objects,3.5461099,50.4625015
+18335,Headquarters of the French Communist Party,unclassified_objects,2.3716667,48.8777771
+18337,Bibliothèque nationale et universitaire (Strasbourg),unclassified_objects,7.7558241,48.5871086
+18340,The Flight into Egypt,unclassified_objects,2.3357501,48.8610878
+18344,Gorges du Tarn,unclassified_objects,3.2872221,44.2961121
+18347,Bibliothèque de l'Arsenal,unclassified_objects,2.3635278,48.8502769
+18351,Departmental archives of Somme,unclassified_objects,2.3042171,49.8838615
+18353,cour des Trois-Frères,unclassified_objects,2.37517,48.8521004
+18354,Gorges de l'Allier,unclassified_objects,3.599844,45.0240669
+18355,Grande fresque de la gare de Lyon,unclassified_objects,2.37467,48.844799
+18356,Ifs de La Haye-de-Routot,unclassified_objects,0.72624,49.4044991
+18357,pipe organ in St Jean collegiate church in Pézenas,unclassified_objects,3.4236,43.4606018
+18358,Pipe organ of Cathédrale Saint-Nazaire de Béziers,unclassified_objects,3.2189901,43.347599
+18359,Pipe organ of Cathédrale Saint-Fulcran de Lodève,unclassified_objects,3.3202801,43.7324982
+18377,Ancienne église Saint-Martin (Épernay),unclassified_objects,3.9544401,49.0438995
+18378,Chartres Cathedral labyrinth,unclassified_objects,1.4877778,48.4472237
+18389,Chaise du Seigneur,unclassified_objects,5.1969252,45.6958847
+18391,Bastion du Petit-Haut,unclassified_objects,4.56708,47.8620872
+18396,Butte des Zouaves,unclassified_objects,3.0487001,49.4866982
+18400,Stoning of Saint Etienne,unclassified_objects,4.6284752,43.676651
+18434,French submarine Alose,unclassified_objects,5.4024072,43.2395287
+18436,Cour Saint-Joseph,unclassified_objects,2.37357,48.8525009
+18437,Cour de l'Ours,unclassified_objects,2.37552,48.8516998
+18438,Côte 108 Berry-au-Bac,unclassified_objects,3.9099,49.3987007
+18469,Édicule de Saint-André-le-Désert,unclassified_objects,4.5395679,46.4997864
+18484,Camargue,unclassified_objects,4.5,43.5333328
+18495,Banks of the Seine,unclassified_objects,2.3588901,48.8499985
+18498,Bibliothèque Paul Marmottan,unclassified_objects,2.2464399,48.8432007
+18501,cour de la Maison-Brûlée,unclassified_objects,2.3752799,48.851799
+18502,Garage Citroën,unclassified_objects,4.84022,45.7510986
+18503,Ancien siège de la chambre de commerce de Paris,unclassified_objects,2.34231,48.8697014
+18504,Portail Saint-Félix,unclassified_objects,5.9766898,44.0284004
+18505,Prairie de la vieille Seille,unclassified_objects,4.9549999,46.5040016
+18506,"C-47 Skytrain at Merville, France",unclassified_objects,-0.1966,49.2700996
+18519,Champ de bataille de la Tête-des-Faux,unclassified_objects,7.1169,48.1543007
+18530,Departmental archives of Lot-et-Garonne,unclassified_objects,0.616302,44.1987267
+18532,"Tourelle, rue Geoffroy-Herbert, Coutances",unclassified_objects,-1.44635,49.0464516
+18533,Bibliothèque de Sarrebourg,unclassified_objects,7.0561242,48.7349854
+18534,Escalier de la Grande-Poterne,unclassified_objects,0.19472,48.0080605
+18535,Bastion de Guise,unclassified_objects,5.0317578,47.3162231
+18536,Haut-fourneau de Bourgneuf,unclassified_objects,3.236594,47.1892471
+18538,Batterie d'Ecqueville,unclassified_objects,0.1117,49.574501
+18777,Fontaine de l'Annonciade,urban_environment,7.5932913,44.0854073
+18824,Monument À  Armand de Briqueville,urban_environment,-1.6216302,49.6402588
+18866,Fontaine Notre-Dame du Loc,urban_environment,-2.7307615,47.689827
+18868,Fontaine Saint-Symphorien,urban_environment,-1.510041,48.6365585
+18893,Place Saint-Martial,urban_environment,0.1597319,45.6484947
+18894,Passage du doyenné,urban_environment,2.6053658,46.3404884
+18897,La Tour Rose,urban_environment,4.8269315,45.7629623
+18982,Muséum-Aquarium de Nancy,urban_environment,6.1879396,48.694725
+18986,Place Guillaume-le-Conquérant,urban_environment,-0.2019096,48.8942719
+18988,Place du Tertre Saint-Laurent,urban_environment,-0.5593889,47.4772797
+18992,Place Saint-Didier,urban_environment,4.8072376,43.9466515
+19125,Pont d'Iéna,view_points,2.2919943,48.8597755
+19137,Arch of Triumph,view_points,2.2950251,48.8737831
+19155,Beffroi de Douai,view_points,3.0806592,50.3678589
+19208,Tour Carbonnière,view_points,4.2093554,43.5921364
+19270,Monument aux morts de Rauba-CapeÃ¹,view_points,7.2790899,43.6935043
+19288,Chateau de Fumel,view_points,0.970623,44.4969788
+19291,Grande Arche,view_points,2.2358932,48.8925552
+19301,Le Pont Fleuri,view_points,-3.5434306,47.8728867
+19309,Domaine de Bellevue,view_points,2.2279379,48.8219452
+19310,Eiffel Tower,view_points,2.2943869,48.8582611
+19312,Pont Alexandre III,view_points,2.3135622,48.8637314
+19352,Pierres Jaumatres,view_points,2.2258785,46.3127441
+19354,Palais Garnier,view_points,2.3319654,48.8714333
+19383,Chateau d'Aubusson,view_points,2.172447,45.9564667
+19384,L'Impernal,view_points,1.2834429,44.4853439
+19435,Passerelle Debilly,view_points,2.2969084,48.8625832
+19455,Coll de Banyuls.,view_points,3.0543535,42.4502296
+19457,Col de La Croix Morand,view_points,2.8510489,45.5965919
+19458,Ballon Generali de Paris,view_points,2.273998,48.8413582
+19459,Esplanade of Trocadero,view_points,2.2887325,48.8619957
+19460,La Tour Sans Venin,view_points,5.6683936,45.1722488
+19461,Colle Sommeiller,view_points,6.8450217,45.1342659
+19462,Col de l'Iseran,view_points,7.0308385,45.4171181
+19463,Chapelle de Notre-dame d'Hermone,view_points,6.5175714,46.30616
+19499,La Buffe,view_points,5.5843787,45.2439232
+19502,Bec de l'Orient,view_points,5.5446858,45.2356033
+19510,Rainkopf,view_points,6.982759,48.0097466
+19517,Point Sublime Bely,view_points,6.3991413,43.7913055
+19533,Port de Benasque,view_points,0.6409817,42.6928215
+19534,Moulin de Montfuron,view_points,5.6933537,43.8381729
+19538,Croix Paquet,view_points,4.439178,45.9162483
+19539,Saint-Michel de Connexe,view_points,5.7277451,45.0602837
+19540,Col de l'Échelle,view_points,6.6570077,45.0264931
+19551,Puy Griou,volcanoes,2.7064228,45.0803871
+19552,Roc d'Hozières,volcanoes,2.6428204,45.1143532
+19553,Puy de Lemptégy,volcanoes,2.9468131,45.8186188
+19554,Puy de la Nugère,volcanoes,2.9836342,45.8601532
+19558,Puy de MercÅ“ur,volcanoes,2.956141,45.7165909
+19559,Puy de Pariou,volcanoes,2.9716506,45.7969589
+19560,Puy des Gouttes,volcanoes,2.9539559,45.824707
+19561,Puy Chopine,volcanoes,2.9550169,45.827877
+19562,Puy de Jumes,volcanoes,2.9659641,45.8467636
+19565,Mont Redon,volcanoes,3.0341353,45.668129
+19567,Monts du Cantal,volcanoes,2.7171183,45.0882187
+19568,Puy de Sancy,volcanoes,2.8140028,45.5282402
+19578,San Peyre,volcanoes,6.9372792,43.525135
+19579,Puy Giroux,volcanoes,3.0765414,45.7046394
+19583,Puy de la Coquille,volcanoes,2.9627774,45.8422623
+19584,Puy de Paugnat,volcanoes,2.9770932,45.8799706
+19586,Mount Mézenc,volcanoes,4.1908455,44.9110374
+19587,Mont Denise,volcanoes,3.8545461,45.0581322
+19588,Puy de Vichatel,volcanoes,2.9613414,45.6857376
+19589,Le Grand Suchet,volcanoes,2.9551439,45.7905579
+19590,Puy de Côme,volcanoes,2.9406385,45.7967987
+19591,Puy de Louchadière,volcanoes,2.9511511,45.8528557
+19593,La Banne d'Ordanche,volcanoes,2.7726021,45.6112251
+19594,Puy de la Vache,volcanoes,2.9631503,45.7055664
+19595,Le Petit Suchet,volcanoes,2.9613256,45.7898903
+19596,Puy de Montiroir,volcanoes,2.9267812,45.9691277
+19598,Lac Pavin,volcanoes,2.8879027,45.4956894
+19600,Puy de Lassolas,volcanoes,2.9581921,45.7110252
+19601,Grand Sarcouy,volcanoes,2.9810538,45.8142815
+19605,Mont Alambre,volcanoes,4.1536417,44.9174385
+19606,Puy de Chalard,volcanoes,2.9742627,45.9589119
+19609,Puy de Chambourguet,volcanoes,2.7554054,45.5493164
+19610,Puy des Goules,volcanoes,2.9800045,45.8096123
+19611,Puy de Chaumont,volcanoes,2.9697151,45.8244934
+19612,Puy de Gravenoire,volcanoes,3.0497172,45.7520103
+19613,Puy de Crouël (dit Puy Moche),volcanoes,3.1364129,45.7726364
+19614,Puy de la Bannière,volcanoes,3.033596,45.8789749
+19621,La Molotte,volcanoes,6.4540949,48.4272957
+19622,Puy de Fraisse,volcanoes,2.9625018,45.804554
+19625,Montagne de Janson,volcanoes,2.9138637,45.3900871
+19626,Puy de Charmont,volcanoes,2.9608688,45.6775284
+19627,Puy Balmet,volcanoes,2.9402034,45.7886314
+19633,Petit Puy de Dôme,volcanoes,2.9688494,45.7782097
+19634,Puy de Montjuger,volcanoes,2.942827,45.7053337
+19635,Puy de la Goulie,volcanoes,2.9599707,45.8729172
+19639,Puy de la Vaisse,volcanoes,2.8885162,45.4333954
+19640,Puy Fillu,volcanoes,2.9423137,45.783329
+19641,Le Cliersou,volcanoes,2.9597733,45.7947731
+19645,Puy de Monténard,volcanoes,2.9333961,45.6357574
+19646,Puy de Laschamps,volcanoes,2.9518869,45.7341919
+19648,Puy de Pourcharet,volcanoes,2.9315324,45.7090797
+19649,Puy de l'Espinasse,volcanoes,2.9554529,45.8702965
+19650,Maar de Jaude,volcanoes,3.0817003,45.7765617
+19653,Roque Haute,volcanoes,3.3680556,43.3044434
+19659,La Gravenne,volcanoes,4.2150917,44.697773
+19660,Suc de Chabrières,volcanoes,4.2112627,44.9002228
+19661,Chantauzet,volcanoes,2.8055887,45.6039352
+19662,Puy  Vivanson,volcanoes,2.7772079,45.640564
+19663,Vivanson,volcanoes,2.7832193,45.6579742
+19664,Puy de Combe-Perret,volcanoes,2.8543477,45.6368408
+19665,Suc de Cèneuil,volcanoes,3.9174945,45.1657944
+19666,Volcan du Montpeloux,volcanoes,3.9131629,45.4719543
+19667,Puy de Montchar,volcanoes,2.9442339,45.7333603
+19668,Puy Mandon,volcanoes,2.8260639,45.6416321
+19669,Puy d'Augère,volcanoes,2.8606527,45.6506615
+19671,Narces de la Sauvetat,volcanoes,3.8597586,44.8550415
+19672,La Roche Vendeix,volcanoes,2.7559578,45.5699844
+19673,Puy de Cros,volcanoes,2.8053069,45.6406631
+19674,Puy Montchal,volcanoes,2.8835647,45.4879684
+19675,Puy de Boursoux,volcanoes,2.9462798,45.6717262
+19676,Puy d'Ecouyat,volcanoes,3.2299683,45.630394
+19677,Coulée basaltique de Chenereilles,volcanoes,4.0849276,45.4905624
+19678,Mont Semiol,volcanoes,3.9698284,45.6329269
+19679,Puy de Cocuset,volcanoes,2.9484382,45.71978
+19680,Puy Pelat,volcanoes,2.9496005,45.7257576
+19681,Puy de Beaune,volcanoes,2.9493976,45.7304764
+19682,Puy de la Moreno,volcanoes,2.9450936,45.7375031
+19683,Petit Sault,volcanoes,2.9440174,45.7684708
+19684,Puy de Collière,volcanoes,2.9873338,45.7761345
+19685,Puy de Pranal,volcanoes,2.8289137,45.8642578
+19686,Maar de Beauloup,volcanoes,2.9045286,45.8348122
+19687,Creux Morel,volcanoes,2.9666393,45.8121262
+19688,Puy de Clermont,volcanoes,2.9564199,45.8345184
+19689,Croix Mory,volcanoes,2.9690223,45.8130569
+19690,Puy de Porcherolles,volcanoes,2.9673479,45.8188057
+19691,Petit Sarcouy,volcanoes,2.9838536,45.8195534
+19692,Bois de Mauzac,volcanoes,2.9632409,45.8526649
+19693,Puy de la Ravide,volcanoes,2.9712985,45.853035
+19694,Puy de Bleymas,volcanoes,2.9791784,45.8541718
+19695,Puy de Tressous,volcanoes,2.9509907,45.8629875
+19696,Puy de Ténuzet,volcanoes,2.9629719,45.8577995
+19697,Le Devet,volcanoes,3.0001132,45.7227783
+19698,Maar de Villars,volcanoes,3.0258842,45.7714882
+19699,Puy de Charade,volcanoes,3.0359685,45.7476006
+19700,Monchatre,volcanoes,3.007719,45.7966652
+19701,Puy de Marcoin,volcanoes,3.056036,45.8576736
+19702,Puy de Verrières,volcanoes,2.9545791,45.8923836
+19703,Maar de Saint-Hippolyte,volcanoes,3.0607128,45.9091415
+19704,Le volcan de Montaubourg,volcanoes,4.0036306,45.7185745
+19705,Le Pic,volcanoes,4.0659432,45.7174454
+19710,Narse d'Espinasse,volcanoes,2.9262257,45.6535797
+19712,Puy de Banson,volcanoes,2.7805021,45.7495079
+19713,Puy de la Vialle,volcanoes,2.7830524,45.7889366
+19714,Puy de Neuffont,volcanoes,2.785362,45.7961502
+19715,Mont Chamaroux,volcanoes,2.9300284,45.3457184
+19716,Lac de la Fage,volcanoes,2.8778491,45.4299278
+19717,Lac de La Godivelle-d'en-Haut,volcanoes,2.9167423,45.3873291
+19718,Lac Chauvet,volcanoes,2.8308432,45.4597168
+19719,Le Cocudoux,volcanoes,2.8685038,45.4654427
+19720,Puy de Champgourdeix,volcanoes,2.8487792,45.525486
+19721,Maar d'Estivadoux,volcanoes,2.8980849,45.4913864
+19723,Puy de Serveix,volcanoes,2.8930097,45.5208092
+19724,Puy de Montcineyre,volcanoes,2.906328,45.4586105
+19725,Puy Jumel,volcanoes,2.8566802,45.55093
+19726,Le Tartaret,volcanoes,2.9351976,45.5696907
+19727,Puy d'Ebert,volcanoes,2.8174434,45.6870346
+19728,Puy de Saint-Martin,volcanoes,2.8294828,45.6968613
+19729,Le Chateau,volcanoes,2.8816047,45.7020531
+19730,Narse d'Ampoix,volcanoes,2.9303055,45.665554
+19731,Puy de la Toupe,volcanoes,2.9438341,45.6824493
+19732,Puy de Montgy,volcanoes,2.9325826,45.6997414
+19733,Puy de Montchat,volcanoes,2.9442427,45.692543
+19734,Puy de Combegrasse,volcanoes,2.9482682,45.6681519
+19735,Puy Nain,volcanoes,2.954489,45.6660614
+19736,Puy de la Rodde,volcanoes,2.9556577,45.6626511
+19737,Pic de Griot,volcanoes,4.0116167,45.6520195
+19738,Piton basaltique de Purchon,volcanoes,4.0392399,45.6510849
+19739,Montsupt,volcanoes,4.0810509,45.5375099
+19740,Pic de Saint-Romain,volcanoes,4.1258678,45.5573578
+19741,Mont d'Uzore,volcanoes,4.0744772,45.695961
+19742,Vezol,volcanoes,2.8954864,45.7139549
+19743,Puy de Monteillet,volcanoes,2.9423258,45.7142258
+19744,Puy de Barme,volcanoes,2.931109,45.7382355
+19745,Puy de la Mey,volcanoes,2.9634917,45.7106705
+19746,Puy Monchier,volcanoes,2.9493256,45.7474899
+19747,Puy de Salomon,volcanoes,2.9485478,45.7544594
+19748,Puy des Grosmanaux,volcanoes,2.9538627,45.7577362
+19749,Puy Besace,volcanoes,2.9469934,45.7609863
+19750,Cratère Kilian,volcanoes,2.9515738,45.7601242
+19751,Grand Sault,volcanoes,2.9469967,45.7666245
+19752,Puy Lacroix,volcanoes,2.9562638,45.7658348
+19753,Puy des Bannières,volcanoes,2.9562004,45.8767509
+19754,Puy des Marais,volcanoes,2.9715691,45.8761215
+19755,Puy de Chatrat,volcanoes,3.0005469,45.728447
+19756,Puy de Berzet,volcanoes,3.0288353,45.7262611
+19757,Maar d'Enval,volcanoes,2.99018,45.7626801
+19758,Suc des Filles,volcanoes,2.9612243,45.8990974
+19759,Puy Guettard,volcanoes,2.9664528,45.8954926
+19760,Puy Gonnard,volcanoes,2.9673162,45.9007301
+19761,Maar de Beaunit,volcanoes,2.9672196,45.9056053
+19762,Maar de Laty,volcanoes,2.9421787,45.9275055
+19763,Puy de la Botte,volcanoes,2.9271154,45.9381485
+19764,Maar de Rochenoir,volcanoes,2.9636056,45.9295959
+19769,Nid de la Poule,volcanoes,2.9649522,45.7797546
+19770,Lac du Bouchet,volcanoes,3.7902377,44.9093437
+19794,Pont canal de Briare,water,2.7343941,47.6311874
+19815,Cascade du Bout du Monde,water,6.0112343,47.2050285
+19817,Pont-Canal,water,3.9806712,46.4774475
+19818,Obélisque - Seuil de Naurouze,water,1.8269694,43.3523293
+19822,Cher,water,1.5178232,47.2717705
+19829,Lake Guerlédan,water,-3.0441344,48.2040253
+19834,Tunnel de Malpas,water,3.1258886,43.3068581
+19837,Lac de Nantua,water,5.5876603,46.1617851
+19838,Lac de Vallon,water,6.5590167,46.2161369
+19839,Lac de Cap-de-Long,water,0.1303733,42.8235664
+19842,Lac de Sylans,water,5.6638117,46.1613503
+19844,Lake Geneva,water,6.3936672,46.3615837
+19846,Ancien canal de la Baignerie,water,3.0579317,50.6375198
+19850,Pont-Aqueduc de l'Orbiel,water,2.4390087,43.2144966
+19851,Nantes-Brest canal,water,-4.0935516,48.1918793
+19854,Canal du Loing,water,2.8191667,48.3769455
+19859,Lac Genin,water,5.6980557,46.2205544
+19860,Rigole de Courpalet,water,2.5263889,47.8580551
+19867,Juncasse Aqueduct,water,1.54398,43.4881706
+19872,chaussée de Coudières,water,2.221843,43.3950043
+19873,Étang de Torcy Neuf,water,4.4416666,46.773056
+19876,Répudre Aqueduct,water,2.8401222,43.2544174
+19880,Canal de la Vésubie,water,7.2175555,43.8164444
+19881,Pont-canal sur la Baïse,water,0.329493,44.2345772
+19890,Mantelot,water,2.7669444,47.5913887
+19893,Canal du Midi,water,1.4183333,43.6111107
+19901,Pont-canal de la Tranchasse,water,2.5531299,46.6804008
+19902,Réservoir de l'hôpital Saint-Louis,water,2.36972,48.8741989
+19910,Pont-canal de la Croix,water,2.5536971,46.6778488
+19912,Canal de Givors,water,4.7751002,45.5900993
+19917,Canaux de Pamiers,water,1.608,43.1147995
+19922,Pont-canal du Cacor,water,1.102222,44.0913887
+19924,Canal des moines,water,1.671445,45.1753807
+19925,Lac d'Ambléon,water,5.5846362,45.7525826
+19926,Piscine Lutetia,water,2.32792,48.8513985
+19927,Pont-canal de Barberey-Saint-Sulpice,water,4.0457702,48.3356018
+19928,Negra Aqueduct,water,1.64127,43.4181099
+19942,Canal Saint-Martin,water,2.3666666,48.8472214
+19949,Eaux de Belleville,water,2.3913901,48.8713989
+19950,Rigole l'Arroux,water,4.0458331,46.5530548
+19966,petite mer de Gavres,water,-3.31111,47.6972008
+19967,Carança,water,2.22049,42.5243301
+19971,Cascade de Cerveyrieu,water,5.6789818,45.8792992
+19972,Cascade de Syratus,water,6.2881055,47.0356331
+19977,Saut de la Cuve,water,6.6740804,48.0329132
+19986,Cascade du Déroc,water,3.070436,44.6459885
+19988,Cascade des Molières,water,6.9922662,48.314827
+19997,Cascade de Mérelle,water,6.8377781,48.0615654
+19998,Cascade de l'Andlau,water,7.3014584,48.400238
+20002,Lac d'Hossegor,water,-1.4287668,43.6722031
+20005,Horse Tail Falls,water,5.8952093,46.3903351
+20011,Cascades Saint-Nicolas,water,6.9568076,47.9198532
+20012,Cascade Charlemagne,water,6.9901195,48.0528831
+20016,Cascade des Tufs,water,5.6387739,46.6902962
+20022,Cascade de la Beaume,water,3.890985,44.9427757
+20027,Saut de la Marie Vaillante,water,2.6281507,42.4426498
+20028,Cascade de Retournemer,water,6.98208,48.0579605
+20033,Cascade de Liadouze,water,2.6688671,45.0784912
+20034,Le Pain de Sucre,water,5.7138724,45.9389992
+20040,Saut de la Bourrique,water,6.8426819,48.0471268
+20042,Lac de Charmes,water,5.3709097,47.9129715
+20051,Cascade du Bockloch,water,6.9555492,47.9647484
+20052,La Cascade de Battion,water,6.8149595,48.0227242
+20054,Source du Pontet,water,6.2886868,47.0285683
+20058,Le Puits des Tines,water,5.6784859,45.9517975
+20061,Cascade du Heidenbad,water,6.9632072,47.9830627
+20062,Saut du Bouchot,water,6.7551093,48.0103989
+20071,Cascade d'Agen-d'Aveyron,water,2.6950917,44.3468819
+20072,Chute de la Druise,water,5.192522,44.8277702
+20074,Fontaine pétrifiante de Réotier,water,6.6004295,44.66716
+20076,Cascade de la Billaude,water,5.9379339,46.6809692
+20081,Audeux Waterfall,water,6.3630047,47.2514534
+20084,Saut de la Truite,water,6.8317232,47.8000641
+20087,Cascade de Faymont,water,6.5174613,47.9523544
+20088,Grande Cascade de Tendon,water,6.6977291,48.099308
+20089,Saut des Cuves,water,6.9106727,48.084446
+20092,Cascade de la Pissoire,water,6.7460442,48.0498123
+20093,Lac de la Liez,water,5.3966565,47.8694382
+20094,La Grande Cascade,water,-0.0044502,42.6933212
+20096,Cascade du Rudlin,water,7.0460114,48.1108131
+20102,Cascade du Ray-Pic,water,4.2682228,44.7921333
+20104,Cascade du Bief de la Ruine,water,6.0247235,46.6493034
+20107,Cascade de Miraumont,water,6.6225791,48.0255203
+20108,Petite Cascade de Tendon,water,6.6815486,48.1104469
+20109,Cascade du Kletterbach,water,7.1150985,47.9193916
+20111,Cascade du Bubalafels,water,7.023911,47.8457794
+20113,Cascade d'Ars,water,1.3618724,42.7628059
+20116,Cascade de Sillans,water,6.184855,43.5639687
+20119,Cascade de la Diomaz,water,6.5580139,46.2056999
+20125,Cascade de la Fouge,water,5.4875712,46.0525551
+20126,Saut de l'Ognon,water,6.6766686,47.8088455
+20129,Cascade de Courmes,water,7.0008588,43.7420349
+20130,Cascade du Géhard,water,6.5564027,47.9592285
+20132,Lac du Crachet,water,6.6642928,44.539669
+20133,Lacs de la Tempête,water,6.5418854,45.6211662
+20139,Cascade du Pain de sucre de Surjoux,water,5.8055401,46.0220718
+20140,Cascade de Baume-les-Messieurs,water,5.6387649,46.6902351
+20142,Cascade du moulin de Vermondans,water,6.556675,47.1922112
+20143,Cascades of Hérisson,water,5.8661113,46.6150017
+20155,Waterfall of Kakueta,water,-0.8501,42.9880714
+20181,Canal de Lalinde,water,0.714001,44.8358994
+20182,Étang de Longpendu,water,4.4953113,46.7446861
+20185,Fossés des Romains,water,-0.306952,47.5931015
+20186,Ayguesvives Aqueduct,water,1.60272,43.4452515
+20191,Ensemble industriel de Noiron-sur-Bèze,water,5.3037,47.4367981
+20194,Tranchée de Glomel,water,-3.3697495,48.2309151
+20198,Lac de Morgnieu,water,5.6869445,45.8236122
+20204,Étangs de Prélager,water,4.4612131,45.3069344
+20208,"Canal de la Baignerie, 40 rue des Bouchers",water,3.0582271,50.6375275
+20209,Aqueduc du port de Lanquais,water,0.676528,44.8384705
+20214,rigole d'Hilvern,water,-2.834316,48.1163864
+20215,Plage du Lys,water,2.3666666,49.1674995
+20218,"Canal de la Baignerie, 4 rue de la Baignerie",water,3.0577669,50.6374168
+20223,Lac d'Arboréiaz,water,5.6144443,45.75
+20224,Jouarres Aqueduct,water,2.7053001,43.2669983
+20225,Étang du Saule,water,5.2541499,46.2649994
+20227,Deux réservoirs d'eau,water,-1.510754,48.6356163
+20228,Réservoirs d'aqueduc du Vallon d'Arche,water,4.8123312,45.8299408
+20229,"Canal de la Baignerie, 2 place Maurice-Schumann",water,3.0581999,50.6375008
+20230,"Canal de la Baignerie, 4-6 place Maurice-Schumann",water,3.0581,50.6374512
+20239,"Lac oriental des Hôpitaux, marais et source du Furans",water,5.5630393,45.8465958
+20241,Étang des Gonnets,water,5.2595,46.2540016
+20242,Étangs de la Dombes,water,5.1067328,46.0378304
+20244,"Canal de la Baignerie, 8 place Maurice-Schumann",water,3.0579,50.6374016
+20250,Étang du Pont de Fer,water,-2.42361,47.4667015
+20254,Pont-canal de Saint-Capraise-de-Lalinde,water,0.652639,44.84161
+20260,Étang de But,water,5.2412748,46.2853699
+20261,Réservoirs À  eau du Huchon,water,3.1709001,50.6789017
+20267,Cascade de Salles-la-Source,water,2.5147438,44.4371452
+20268,Cascade des Anglais,water,9.1091681,42.1176949
+20274,Cascade de Vaucoux,water,2.9377038,45.4912987
+20275,Cascade de Runes,waterfalls,3.6743724,44.378891
+20304,La Queue de Cheval,waterfalls,1.8483977,45.2988396
+20313,La Redole,waterfalls,1.8495539,45.2986259
+20369,Cascade des Jarrauds,waterfalls,1.7988149,45.8615837
+20371,Cascade de la Reculaz,waterfalls,7.1130443,45.3630791
+20410,Saut de Gouloux,waterfalls,4.0622444,47.243576
+20422,Salt del Fitó,waterfalls,2.880065,42.4537544
+20476,Cascade de la Wormsa,waterfalls,7.0186706,48.0230179
+20478,Cascade du Rummel,waterfalls,6.8307571,47.8038483
+20481,Saut de la Cuvotte,waterfalls,6.8343759,47.7821884
+20482,Cascade du Ballon,waterfalls,7.0910997,47.9211655
+20485,Cascade du Gué du Saut,waterfalls,6.4018755,47.9980164
+20487,Source de Jérusalem,waterfalls,6.5427241,44.4678459
+20489,Lançot,waterfalls,6.6099949,47.1501923
+20491,Cascade de l'Erzenbach,waterfalls,7.1260481,47.8366852
+20492,Cascade de la Serva,waterfalls,7.2590814,48.4238625
+20493,Cascade de la Baume,waterfalls,2.8945212,44.0514488
+20496,Cascade d'Étufs,waterfalls,4.9652925,47.8747292
+20497,Cascade du Bruscher,waterfalls,7.0332365,47.9095116
+20500,Sautadet Waterfalls,waterfalls,4.527081,44.1897278
+20503,Cascade de l'Ours,waterfalls,6.8607197,47.8704605
+20511,Cascade de Moulin Marquis,waterfalls,5.435349,45.0560303
+20514,Le Candour,waterfalls,2.0046673,44.1493912
+20517,Source de Moulin Marquis,waterfalls,5.4369316,45.0553932
+20524,Cascade d'Annibal,waterfalls,2.6601501,42.4685593
+20530,Cascade de Longeligoutte,waterfalls,6.79778,47.8566704
+20532,cascades du Mont-Dore,waterfalls,2.8166666,45.5833321
+20536,Epaltza ur-jauzia,waterfalls,-1.41221,43.2577705
+20539,cascade d'Alfeld,waterfalls,6.8716698,47.8205605
+20540,Cascade de la Lauch,waterfalls,7.0500002,47.9341698
+20547,cascade du Rundstein,waterfalls,7.0278001,48.0900002
+20550,Cascade de la Frasnée,waterfalls,5.8119402,46.5550003
+20551,Cascade de la Grotte du Pic,waterfalls,5.700501,45.9685898
+20552,Cascade du moulin de Charix,waterfalls,5.67975,46.1693802
+20553,Cascade de Charmine sur l'Oignin et descente de Matafelon,waterfalls,5.5496001,46.2667999
+20672,Argaineko Turrusta,waterfalls,-1.5907823,43.3062363
+20682,Le Pas d'Aspe,waterfalls,-0.5677945,42.7805099
+20696,Cascade du Terrail,waterfalls,-0.0279768,42.7344933
+20697,Cascade de Holle,waterfalls,-0.0158554,42.7380867
+20698,Cascade de Soutarra,waterfalls,-0.0314893,42.8027115
+20699,Cascade Darré Splumouse,waterfalls,-0.1360336,42.8054466
+20700,Cascade Esplumouse,waterfalls,-0.1384189,42.8135452
+20701,Cascade de Boussès,waterfalls,-0.1317153,42.8551292
+20702,Cascade du Pas de l'Ours,waterfalls,-0.1244578,42.8597565
+20703,Cascade du Cerisey,waterfalls,-0.1187228,42.8635597
+20704,Cascade des sources de Mauhourat,waterfalls,-0.1119042,42.8706512
+20705,Cascade de Lutour,waterfalls,-0.1064158,42.8709259
+20707,Itsuosin / Cascada del Cubo,waterfalls,-1.1020997,42.9991341
+20708,Cascade de Pista / Pixtako ur-jauzia,waterfalls,-0.9297414,42.9746361
+20710,Cascade de Sanchèse,waterfalls,-0.680191,42.941864
+20711,Cascade de Chourrout,waterfalls,-0.5470612,42.9531212
+20712,Cascade de Boulistre,waterfalls,-0.5446535,42.9597435
+20713,Cascade supérieure de l'Espalungue,waterfalls,-0.6270121,43.0368805
+20714,Cascades d'Isabe,waterfalls,-0.4953155,42.9384079
+20715,Cascade de Séris,waterfalls,-0.446033,42.9916039
+20716,Cascade du Ley,waterfalls,-0.3361787,42.9596596
+20717,Cascade d'Anglas,waterfalls,-0.3227824,42.9339905
+20718,Cascade d'Uzious,waterfalls,-0.3158049,42.9290581
+20719,Cascade de Paspiche,waterfalls,-0.0170669,42.9497147
